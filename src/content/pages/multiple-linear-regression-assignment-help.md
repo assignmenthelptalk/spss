@@ -2,6 +2,7 @@
 title: "Multiple Linear Regression Assignment Help — Multicollinearity and SPSS Steps"
 description: "Run multiple linear regression in SPSS the right way — multicollinearity checks, Beta coefficients, and APA reporting."
 h1: "Multiple Linear Regression Assignment Help — Multicollinearity and SPSS Steps"
+headerImage: "/multiple-linear-regression.webp"
 section: "core"
 pillar: false
 pathway: "Correlation and Regression"
