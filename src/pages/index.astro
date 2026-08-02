@@ -55,30 +55,51 @@ const subjectDomains = [
   description="Get expert help selecting, running, interpreting, and reporting SPSS statistical tests — for homework, coursework, projects, exams, and dissertation chapters."
 >
   <!-- Hero -->
-  <section class="border-b border-slate-200 bg-slate-50">
-    <div class="mx-auto max-w-4xl px-4 py-20 text-center sm:px-6 lg:px-8">
-      <h1 class="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
-        SPSS Assignment Help — Expert Statistical Analysis for Every Test, Chapter, and Level
-      </h1>
-      <p class="mx-auto mt-6 max-w-2xl text-lg text-slate-600">
-        Whether you need one SPSS test run correctly or an entire dissertation
-        results chapter written, we help you select the right analysis, check
-        its assumptions, interpret the output, and report it the way your
-        course or committee expects.
-      </p>
-      <div class="mt-8 flex justify-center gap-4">
-        <a
-          href="/get-started/"
-          class="rounded-md bg-blue-600 px-6 py-3 text-sm font-semibold text-white hover:bg-blue-700"
-        >
-          Get SPSS Assignment Help
-        </a>
-        <a
-          href="/spss-statistical-tests-explained/"
-          class="rounded-md border border-slate-300 px-6 py-3 text-sm font-semibold text-slate-700 hover:bg-white"
-        >
-          Find Your Statistical Test
-        </a>
+  <section class="relative overflow-hidden border-b border-slate-200 bg-slate-50">
+    <!--
+      Hero illustration, responsive: the 16:9 desktop version keeps its busy
+      two-thirds on the right (object-right), so the gradient only needs to
+      cover the empty left third for text legibility. The 1:1 mobile version
+      is centered with no built-in clear zone, so it's dropped to low opacity
+      (a faint decorative wash) rather than relying on a gradient alone —
+      body text wraps full-width on mobile and would cross the busy panels
+      otherwise.
+    -->
+    <picture class="absolute inset-0 opacity-20 md:opacity-100">
+      <source media="(max-width: 767px)" srcset="/hero-mobile-1x1.png" />
+      <img
+        src="/hero-desktop-16x9.png"
+        alt=""
+        class="h-full w-full object-cover object-center md:object-right"
+      />
+    </picture>
+    <div class="absolute inset-0 bg-gradient-to-r from-slate-50 via-slate-50/90 to-slate-50/10 md:via-slate-50/90 md:to-slate-50/10"></div>
+
+    <div class="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 lg:px-8">
+      <div class="max-w-xl">
+        <h1 class="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
+          SPSS Assignment Help — Expert Statistical Analysis for Every Test, Chapter, and Level
+        </h1>
+        <p class="mt-6 text-lg text-slate-600">
+          Whether you need one SPSS test run correctly or an entire dissertation
+          results chapter written, we help you select the right analysis, check
+          its assumptions, interpret the output, and report it the way your
+          course or committee expects.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-4">
+          <a
+            href="/get-started/"
+            class="rounded-md bg-blue-600 px-6 py-3 text-sm font-semibold text-white hover:bg-blue-700"
+          >
+            Get SPSS Assignment Help
+          </a>
+          <a
+            href="/spss-statistical-tests-explained/"
+            class="rounded-md border border-slate-300 bg-white/80 px-6 py-3 text-sm font-semibold text-slate-700 hover:bg-white"
+          >
+            Find Your Statistical Test
+          </a>
+        </div>
       </div>
     </div>
   </section>
