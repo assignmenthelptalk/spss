@@ -2,6 +2,7 @@
 title: "Independent Samples T-Test Assignment Help — SPSS Steps and Levene's Test"
 description: "Learn how to run and interpret an independent samples t-test in SPSS, including the Levene's test decision that trips up most students."
 h1: "Independent Samples T-Test Assignment Help — SPSS Steps and Levene's Test"
+headerImage: "/independent-samples-t-test.webp"
 section: "core"
 pillar: false
 pathway: "Parametric Tests — T-Tests and ANOVA Family"

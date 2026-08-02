@@ -2,6 +2,7 @@
 title: "SPSS Statistical Tests Explained — Which Test Should You Use?"
 description: "A decision guide to choosing the right SPSS statistical test based on your data type, number of groups, and whether your data meets parametric assumptions."
 h1: "SPSS Statistical Tests Explained — Which Test Should You Use?"
+headerImage: "/test-library-hub.webp"
 section: "core"
 pillar: true
 pathway: "Test Library Hub"

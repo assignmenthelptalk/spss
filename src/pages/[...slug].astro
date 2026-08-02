@@ -13,9 +13,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, description, h1, pathway } = entry.data;
+const { title, description, h1, pathway, headerImage } = entry.data;
 ---
 
-<PageLayout title={title} description={description} h1={h1} pathway={pathway}>
+<PageLayout title={title} description={description} h1={h1} pathway={pathway} headerImage={headerImage}>
   <Content />
 </PageLayout>

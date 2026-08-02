@@ -14,6 +14,7 @@ const pages = defineCollection({
     title: z.string(),
     description: z.string().max(160),
     h1: z.string(),
+    headerImage: z.string().optional(), // path under /public, e.g. "/one-way-anova.webp"
 
     // Topical map placement
     section: z.enum(['core', 'outer']),

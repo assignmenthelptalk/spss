@@ -2,6 +2,7 @@
 title: "SPSS Dissertation and Thesis Statistics Help — Chapter 3, 4, and 5 Support"
 description: "Get expert SPSS help with your dissertation or thesis statistics — from the Chapter 3 analysis plan through Chapter 4 results to Chapter 5 discussion."
 h1: "SPSS Dissertation and Thesis Statistics Help — Chapter 3, 4, and 5 Support"
+headerImage: "/dissertation-thesis-help.webp"
 section: "core"
 pillar: true
 pathway: "Dissertation and Research Chapters"

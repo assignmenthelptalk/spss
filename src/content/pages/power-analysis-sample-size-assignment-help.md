@@ -2,6 +2,7 @@
 title: "Power Analysis and Sample Size Calculation Assignment Help"
 description: "Get your sample size justified correctly — alpha, power, effect size, and G*Power steps for your dissertation proposal."
 h1: "Power Analysis and Sample Size Calculation Assignment Help"
+headerImage: "/power-analysis-sample-size.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

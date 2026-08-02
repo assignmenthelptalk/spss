@@ -2,6 +2,7 @@
 title: "Factor Analysis (EFA) Assignment Help — KMO, Rotation, and SPSS Steps"
 description: "Run exploratory factor analysis in SPSS correctly — KMO, Bartlett's test, rotation, and factor loadings, explained step by step."
 h1: "Factor Analysis (EFA) Assignment Help — KMO, Rotation, and SPSS Steps"
+headerImage: "/factor-analysis.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

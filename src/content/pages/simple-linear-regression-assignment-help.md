@@ -2,6 +2,7 @@
 title: "Simple Linear Regression Assignment Help — SPSS Output Explained"
 description: "Run and interpret simple linear regression in SPSS — assumptions, coefficients, R², and APA reporting, explained step by step."
 h1: "Simple Linear Regression Assignment Help — SPSS Output Explained"
+headerImage: "/simple-linear-regression.webp"
 section: "core"
 pillar: false
 pathway: "Correlation and Regression"

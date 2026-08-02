@@ -2,6 +2,7 @@
 title: "Cronbach's Alpha Assignment Help — SPSS Reliability Analysis"
 description: "Run and interpret Cronbach's alpha in SPSS — benchmarks, item-total correlation, reverse scoring, and APA reporting."
 h1: "Cronbach's Alpha Assignment Help — SPSS Reliability Analysis"
+headerImage: "/reliability-analysis.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

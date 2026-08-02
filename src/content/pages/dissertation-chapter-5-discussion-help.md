@@ -2,6 +2,7 @@
 title: "Dissertation Chapter 5 Discussion Help — Structure, Literature Comparison, and Limitations"
 description: "Structure your Chapter 5 discussion correctly — interpretation, literature comparison, limitations, and recommendations."
 h1: "Dissertation Chapter 5 Discussion Help — Structure, Literature Comparison, and Limitations"
+headerImage: "/dissertation-chapter-5-discussion.webp"
 section: "core"
 pillar: false
 pathway: "Dissertation and Research Chapters"

@@ -2,6 +2,7 @@
 title: "One-Way ANOVA Assignment Help — SPSS Steps, Post-Hoc Tests, and Reporting"
 description: "Run and interpret a one-way ANOVA in SPSS the right way — assumptions, Levene's test, Tukey vs Games-Howell, and APA reporting."
 h1: "One-Way ANOVA Assignment Help — SPSS Steps, Post-Hoc Tests, and Reporting"
+headerImage: "/one-way-anova.webp"
 section: "core"
 pillar: false
 pathway: "Parametric Tests — T-Tests and ANOVA Family"

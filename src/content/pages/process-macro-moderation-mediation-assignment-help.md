@@ -2,6 +2,7 @@
 title: "Moderation and Mediation Analysis Assignment Help — PROCESS Macro in SPSS"
 description: "Run moderation or mediation analysis in SPSS with the PROCESS macro — model selection, bootstrapping, and APA reporting."
 h1: "Moderation and Mediation Analysis Assignment Help — PROCESS Macro in SPSS"
+headerImage: "/moderation-mediation-process.webp"
 section: "core"
 pillar: false
 pathway: "Correlation and Regression"
