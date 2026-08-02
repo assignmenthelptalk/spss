@@ -1,0 +1,38 @@
+---
+const navLinks = [
+  { href: '/', label: 'Home' },
+  { href: '/spss-statistical-tests-explained/', label: 'Statistical Tests' },
+  { href: '/spss-dissertation-thesis-statistics-help/', label: 'Dissertation Help' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="border-b border-slate-200 bg-white">
+  <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
+    <a href="/" class="text-lg font-bold text-slate-900">
+      SPSS<span class="text-blue-600">Assignment</span>.help
+    </a>
+
+    <nav class="hidden items-center gap-8 md:flex">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class:list={[
+            'text-sm font-medium transition-colors hover:text-blue-600',
+            currentPath === link.href ? 'text-blue-600' : 'text-slate-700',
+          ]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </nav>
+
+    <a
+      href="/get-started/"
+      class="rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
+    >
+      Get SPSS Help
+    </a>
+  </div>
+</header>

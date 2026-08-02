@@ -1,0 +1,66 @@
+---
+const year = new Date().getFullYear();
+
+const testFamilies = [
+  { href: '/spss-statistical-tests-explained/', label: 'SPSS Statistical Tests' },
+  { href: '/spss-dissertation-thesis-statistics-help/', label: 'Dissertation & Thesis Help' },
+];
+
+const whatsappHref = 'https://wa.me/447916696894';
+const email = 'assignmenthelptalk@gmail.com';
+---
+
+<footer class="border-t border-slate-200 bg-slate-50">
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="grid gap-8 md:grid-cols-3">
+      <div>
+        <p class="text-lg font-bold text-slate-900">
+          SPSS<span class="text-blue-600">Assignment</span>.help
+        </p>
+        <p class="mt-2 max-w-xs text-sm text-slate-600">
+          Expert help selecting, running, interpreting, and reporting SPSS
+          statistical analysis — for assignments, coursework, projects, exams,
+          and dissertations.
+        </p>
+      </div>
+
+      <div>
+        <p class="text-sm font-semibold text-slate-900">Explore</p>
+        <ul class="mt-3 space-y-2">
+          {testFamilies.map((link) => (
+            <li>
+              <a href={link.href} class="text-sm text-slate-600 hover:text-blue-600">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="text-sm font-semibold text-slate-900">Get Started</p>
+        <ul class="mt-3 space-y-2">
+          <li>
+            <a href="/get-started/" class="text-sm text-slate-600 hover:text-blue-600">
+              Pricing &amp; How It Works
+            </a>
+          </li>
+          <li>
+            <a href={whatsappHref} target="_blank" rel="noopener noreferrer" class="text-sm text-slate-600 hover:text-blue-600">
+              WhatsApp: +44 7916 696894
+            </a>
+          </li>
+          <li>
+            <a href={`mailto:${email}`} class="text-sm text-slate-600 hover:text-blue-600">
+              {email}
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="mt-10 border-t border-slate-200 pt-6 text-xs text-slate-500">
+      &copy; {year} SPSSassignment.help. All rights reserved.
+    </p>
+  </div>
+</footer>

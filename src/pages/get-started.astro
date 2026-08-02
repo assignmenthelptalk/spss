@@ -1,0 +1,129 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const whatsappNumber = '447916696894';
+const whatsappHref = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+  "Hi, I need help with an SPSS assignment. Here's what I need:"
+)}`;
+const email = 'assignmenthelptalk@gmail.com';
+const emailHref = `mailto:${email}?subject=${encodeURIComponent('SPSS Assignment Help Request')}`;
+
+const pricingTiers = [
+  {
+    name: 'SPSS Homework Help',
+    price: '$45',
+    unit: 'starting from',
+    desc: 'A single test or short problem set, due in days.',
+  },
+  {
+    name: 'SPSS Assignment / Coursework Help',
+    price: '$60',
+    unit: 'starting from',
+    desc: 'Multi-part coursework combining several tests with written interpretation.',
+  },
+  {
+    name: 'SPSS Project / Report Help',
+    price: '$75',
+    unit: 'starting from',
+    desc: 'Full dataset — cleaning, multiple tests, and a written report.',
+  },
+  {
+    name: 'SPSS Dissertation & Thesis Chapter Help',
+    price: '$150',
+    unit: 'starting from, per chapter',
+    desc: 'Chapter 3 analysis plan, Chapter 4 results, or Chapter 5 discussion.',
+  },
+  {
+    name: 'SPSS Exam Help',
+    price: 'Custom quote',
+    unit: '',
+    desc: 'Timed practicals and take-home exams are priced by scope and turnaround.',
+  },
+];
+---
+
+<Layout
+  title="Get SPSS Assignment Help — Pricing and Contact"
+  description="See starting prices for SPSS homework, assignment, project, and dissertation help, and reach us directly by WhatsApp or email."
+>
+  <section class="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="text-3xl font-bold text-slate-900 sm:text-4xl">Get SPSS Assignment Help</h1>
+    <p class="mt-4 max-w-2xl text-slate-600">
+      Send us your assignment, dataset, or dissertation chapter and we'll
+      confirm the right test, the scope, and a final price before any work
+      starts. The prices below are starting points — your exact quote
+      depends on test complexity, dataset size, and deadline.
+    </p>
+
+    <!-- Pricing -->
+    <div class="mt-10 grid gap-4 sm:grid-cols-2">
+      {pricingTiers.map((tier) => (
+        <div class="rounded-lg border border-slate-200 p-6">
+          <h2 class="font-semibold text-slate-900">{tier.name}</h2>
+          <p class="mt-2 text-2xl font-bold text-blue-600">
+            {tier.price}
+            {tier.unit && <span class="text-sm font-normal text-slate-500"> {tier.unit}</span>}
+          </p>
+          <p class="mt-2 text-sm text-slate-600">{tier.desc}</p>
+        </div>
+      ))}
+    </div>
+    <p class="mt-4 text-xs text-slate-500">
+      Starting prices shown as a guide. Final pricing is confirmed with you
+      before we begin.
+    </p>
+
+    <!-- Contact -->
+    <div class="mt-14 rounded-lg border border-blue-100 bg-blue-50 p-8">
+      <h2 class="text-xl font-bold text-slate-900">Contact Us</h2>
+      <p class="mt-2 text-sm text-slate-600">
+        Message us your assignment brief, dataset, and deadline — WhatsApp
+        is fastest for quick quotes, email works well for larger files.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-4">
+        <a
+          href={whatsappHref}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 rounded-md bg-green-600 px-6 py-3 text-sm font-semibold text-white hover:bg-green-700"
+        >
+          WhatsApp: +44 7916 696894
+        </a>
+        <a
+          href={emailHref}
+          class="inline-flex items-center gap-2 rounded-md bg-blue-600 px-6 py-3 text-sm font-semibold text-white hover:bg-blue-700"
+        >
+          Email: {email}
+        </a>
+      </div>
+    </div>
+
+    <!-- How it works -->
+    <div class="mt-14">
+      <h2 class="text-xl font-bold text-slate-900">How It Works</h2>
+      <ol class="mt-6 grid gap-6 sm:grid-cols-3">
+        <li>
+          <p class="text-sm font-semibold text-blue-600">1. Send your brief</p>
+          <p class="mt-1 text-sm text-slate-600">
+            Share your assignment instructions, dataset, and deadline via
+            WhatsApp or email.
+          </p>
+        </li>
+        <li>
+          <p class="text-sm font-semibold text-blue-600">2. Get a quote</p>
+          <p class="mt-1 text-sm text-slate-600">
+            We confirm the tests required, turnaround time, and final price
+            before starting.
+          </p>
+        </li>
+        <li>
+          <p class="text-sm font-semibold text-blue-600">3. Receive your analysis</p>
+          <p class="mt-1 text-sm text-slate-600">
+            Get your completed SPSS output, interpretation, and write-up,
+            ready to submit.
+          </p>
+        </li>
+      </ol>
+    </div>
+  </section>
+</Layout>
