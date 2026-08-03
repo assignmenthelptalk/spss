@@ -28,14 +28,14 @@ A fourth question only matters once you know the answer to the first three: **do
 
 Parametric tests assume your continuous data is approximately normally distributed. They are more statistically powerful than their non-parametric equivalents when that assumption holds.
 
-- **Comparing one sample mean to a fixed value** → One-Sample T-Test
+- **Comparing one sample mean to a fixed value** → [One-Sample T-Test](/one-sample-t-test-assignment-help/)
 - **Comparing two independent groups** → [Independent Samples T-Test](/independent-samples-t-test-assignment-help/)
-- **Comparing two related measurements** → Paired Samples T-Test
+- **Comparing two related measurements** → [Paired Samples T-Test](/paired-samples-t-test-assignment-help/)
 - **Comparing three or more independent groups** → [One-Way ANOVA](/one-way-anova-assignment-help/)
-- **Comparing groups across two independent variables** → Two-Way (Factorial) ANOVA
-- **Comparing three or more related measurements** → Repeated Measures ANOVA
-- **Comparing groups while controlling for a covariate** → ANCOVA
-- **Comparing groups across multiple dependent variables** → MANOVA / MANCOVA
+- **Comparing groups across two independent variables** → [Two-Way (Factorial) ANOVA](/two-way-anova-assignment-help/)
+- **Comparing three or more related measurements** → [Repeated Measures ANOVA](/repeated-measures-anova-assignment-help/)
+- **Comparing groups while controlling for a covariate** → [ANCOVA](/ancova-assignment-help/)
+- **Comparing groups across multiple dependent variables** → [MANOVA](/manova-assignment-help/) / [MANCOVA](/mancova-assignment-help/)
 
 ## Correlation and Regression {#regression}
 
@@ -44,9 +44,9 @@ Use these when you're testing relationships between variables rather than differ
 - **Linear relationship between two continuous variables** → [Pearson Correlation](/pearson-correlation-assignment-help/)
 - **Predicting one continuous outcome from one predictor** → [Simple Linear Regression](/simple-linear-regression-assignment-help/)
 - **Predicting one continuous outcome from several predictors** → [Multiple Linear Regression](/multiple-linear-regression-assignment-help/)
-- **Testing predictors in theory-driven blocks** → Hierarchical Regression
+- **Testing predictors in theory-driven blocks** → [Hierarchical Regression](/hierarchical-regression-assignment-help/)
 - **Predicting a two-category outcome** → [Binary Logistic Regression](/binary-logistic-regression-assignment-help/)
-- **Predicting an outcome with three or more categories** → Multinomial or Ordinal Logistic Regression
+- **Predicting an outcome with three or more categories** → [Multinomial or Ordinal Logistic Regression](/multinomial-ordinal-logistic-regression-assignment-help/)
 - **Testing whether one variable explains, or changes, the relationship between two others** → [Mediation or Moderation Analysis (PROCESS macro)](/process-macro-moderation-mediation-assignment-help/)
 
 ## Non-Parametric Tests (When Assumptions Are Violated) {#non-parametric-tests}
@@ -55,32 +55,32 @@ Every parametric test above has a non-parametric counterpart for when normality 
 
 | Parametric test | Non-parametric alternative |
 |---|---|
-| Independent Samples T-Test | Mann-Whitney U Test |
-| Paired Samples T-Test | Wilcoxon Signed-Rank Test |
-| One-Way ANOVA | Kruskal-Wallis H Test |
-| Repeated Measures ANOVA | Friedman Test |
-| Pearson Correlation | Spearman's Rank Correlation |
+| Independent Samples T-Test | [Mann-Whitney U Test](/mann-whitney-u-test-assignment-help/) |
+| Paired Samples T-Test | [Wilcoxon Signed-Rank Test](/wilcoxon-signed-rank-test-assignment-help/) |
+| One-Way ANOVA | [Kruskal-Wallis H Test](/kruskal-wallis-test-assignment-help/) |
+| Repeated Measures ANOVA | [Friedman Test](/friedman-test-assignment-help/) |
+| Pearson Correlation | [Spearman's Rank Correlation](/spearmans-rank-correlation-assignment-help/) |
 
 Two more non-parametric tests don't map onto a parametric equivalent:
 
 - **Association between two categorical variables** → [Chi-Square Test](/chi-square-test-assignment-help/)
-- **Change in a binary variable across two related measurements** → McNemar's Test
+- **Change in a binary variable across two related measurements** → [McNemar's Test](/mcnemars-test-assignment-help/)
 
 ## Multivariate and Advanced Analysis {#multivariate}
 
 Once your design involves more than one dependent variable, latent constructs, or data collected over time, you move into multivariate territory:
 
 - **Identifying underlying factors behind a set of items** → [Exploratory Factor Analysis (EFA)](/factor-analysis-efa-assignment-help/)
-- **Reducing variables into fewer uncorrelated components** → Principal Component Analysis (PCA)
+- **Reducing variables into fewer uncorrelated components** → [Principal Component Analysis (PCA)](/principal-component-analysis-pca-assignment-help/)
 - **Testing internal consistency of a scale** → [Reliability Analysis (Cronbach's Alpha)](/reliability-analysis-cronbachs-alpha-assignment-help/)
-- **Grouping cases by similarity** → Cluster Analysis
-- **Predicting group membership from continuous predictors** → Discriminant Analysis
-- **Testing a hypothesised model of latent variables** → Structural Equation Modelling (SPSS Amos)
-- **Time-to-event data with censoring** → Survival Analysis (Kaplan-Meier, Cox Regression)
-- **Data collected sequentially over time** → Time Series Analysis
-- **Synthesising effect sizes across studies** → Meta-Analysis
+- **Grouping cases by similarity** → [Cluster Analysis](/cluster-analysis-assignment-help/)
+- **Predicting group membership from continuous predictors** → [Discriminant Analysis](/discriminant-analysis-assignment-help/)
+- **Testing a hypothesised model of latent variables** → [Structural Equation Modelling (SPSS Amos)](/structural-equation-modelling-amos-assignment-help/)
+- **Time-to-event data with censoring** → [Survival Analysis (Kaplan-Meier, Cox Regression)](/survival-analysis-assignment-help/)
+- **Data collected sequentially over time** → [Time Series Analysis](/time-series-analysis-assignment-help/)
+- **Synthesising effect sizes across studies** → [Meta-Analysis](/meta-analysis-spss-assignment-help/)
 - **Determining the sample size you need** → [Power Analysis](/power-analysis-sample-size-assignment-help/)
-- **Nested data (e.g. students within classrooms)** → Multilevel / Hierarchical Linear Modelling
+- **Nested data (e.g. students within classrooms)** → [Multilevel / Hierarchical Linear Modelling](/multilevel-hierarchical-linear-modelling-assignment-help/)
 
 ## Statistical Test Decision Guide by Research Question
 

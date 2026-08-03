@@ -34,7 +34,7 @@ Before data collection, your methodology chapter needs to specify:
 - An a priori power analysis justifying your target sample size — most committees expect this calculated *before* data collection, not after
 - The validity and reliability evidence for any instrument or scale you're using
 
-A Chapter 3 that says "the data will be analysed using SPSS" without naming the specific test per hypothesis is not a complete analysis plan.
+A Chapter 3 that says "the data will be analysed using SPSS" without naming the specific test per hypothesis is not a complete analysis plan. See the full [Chapter 3 statistical analysis plan guide](/dissertation-chapter-3-statistical-plan-help/) for how to build this section correctly.
 
 ## Chapter 4: Running and Reporting Your Results in SPSS
 
