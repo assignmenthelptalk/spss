@@ -25,11 +25,11 @@ const testFamilies = [
 ];
 
 const serviceFormats = [
-  'Homework Help',
-  'Coursework Help',
-  'Project / Report Help',
-  'Exam Help',
-  'Dissertation & Thesis Chapters',
+  { name: 'Homework Help' },
+  { name: 'Coursework Help' },
+  { name: 'Project / Report Help' },
+  { name: 'Exam Help', href: '/spss-exam-help/' },
+  { name: 'Dissertation & Thesis Chapters', href: '/spss-dissertation-thesis-statistics-help/' },
 ];
 
 const academicLevels = [
@@ -148,24 +148,51 @@ const subjectDomains = [
     <h2 class="text-2xl font-bold text-slate-900">SPSS Help by Service Type</h2>
     <ul class="mt-6 flex flex-wrap gap-3">
       {serviceFormats.map((item) => (
-        <li class="rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700">
-          {item}
+        <li>
+          {item.href ? (
+            <a
+              href={item.href}
+              class="block rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700 hover:border-blue-300 hover:text-blue-600"
+            >
+              {item.name}
+            </a>
+          ) : (
+            <span class="block rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700">
+              {item.name}
+            </span>
+          )}
         </li>
       ))}
     </ul>
 
-    <div class="mt-6 rounded-lg border border-blue-100 bg-blue-50 p-6">
-      <h3 class="font-semibold text-slate-900">Dissertation and Thesis Statistics</h3>
-      <p class="mt-2 text-sm text-slate-600">
-        Chapter 3 analysis plans, Chapter 4 results, and Chapter 5 discussion
-        — the highest-stakes SPSS work most students face.
-      </p>
-      <a
-        href="/spss-dissertation-thesis-statistics-help/"
-        class="mt-4 inline-block text-sm font-semibold text-blue-700 hover:underline"
-      >
-        See Dissertation &amp; Thesis Help &rarr;
-      </a>
+    <div class="mt-6 grid gap-6 sm:grid-cols-2">
+      <div class="rounded-lg border border-blue-100 bg-blue-50 p-6">
+        <h3 class="font-semibold text-slate-900">Dissertation and Thesis Statistics</h3>
+        <p class="mt-2 text-sm text-slate-600">
+          Chapter 3 analysis plans, Chapter 4 results, and Chapter 5 discussion
+          — the highest-stakes SPSS work most students face.
+        </p>
+        <a
+          href="/spss-dissertation-thesis-statistics-help/"
+          class="mt-4 inline-block text-sm font-semibold text-blue-700 hover:underline"
+        >
+          See Dissertation &amp; Thesis Help &rarr;
+        </a>
+      </div>
+
+      <div class="rounded-lg border border-blue-100 bg-blue-50 p-6">
+        <h3 class="font-semibold text-slate-900">Full-Dataset Data Analysis</h3>
+        <p class="mt-2 text-sm text-slate-600">
+          A whole dataset and a set of research questions, not just one test
+          — cleaned, analysed, and reported from raw data to final results.
+        </p>
+        <a
+          href="/spss-data-analysis-help/"
+          class="mt-4 inline-block text-sm font-semibold text-blue-700 hover:underline"
+        >
+          See Data Analysis Help &rarr;
+        </a>
+      </div>
     </div>
   </section>
 
