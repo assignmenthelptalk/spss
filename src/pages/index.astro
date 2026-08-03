@@ -41,12 +41,12 @@ const academicLevels = [
 ];
 
 const subjectDomains = [
-  'Psychology',
-  'Nursing & Healthcare',
-  'Business & Management',
-  'Education',
-  'Social Science',
-  'Public Health',
+  { name: 'Psychology', href: '/spss-for-psychology-research/' },
+  { name: 'Nursing & Healthcare', href: '/spss-for-nursing-healthcare-research/' },
+  { name: 'Business & Management' },
+  { name: 'Education' },
+  { name: 'Social Science' },
+  { name: 'Public Health' },
 ];
 ---
 
@@ -198,8 +198,19 @@ const subjectDomains = [
     </p>
     <ul class="mt-6 flex flex-wrap gap-3">
       {subjectDomains.map((domain) => (
-        <li class="rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700">
-          {domain}
+        <li>
+          {domain.href ? (
+            <a
+              href={domain.href}
+              class="rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700 hover:border-blue-300 hover:text-blue-600"
+            >
+              {domain.name}
+            </a>
+          ) : (
+            <span class="block rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700">
+              {domain.name}
+            </span>
+          )}
         </li>
       ))}
     </ul>
