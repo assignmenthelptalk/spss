@@ -2,6 +2,7 @@
 title: "MANOVA Assignment Help — Multiple Dependent Variables in SPSS"
 description: "Learn how to run MANOVA in SPSS when comparing groups across multiple dependent variables at once, and how to report Wilks' Lambda in APA format."
 h1: "MANOVA Assignment Help — Multiple Dependent Variables in SPSS"
+headerImage: "/manova-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Parametric Tests — T-Tests and ANOVA Family"

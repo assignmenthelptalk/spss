@@ -2,6 +2,7 @@
 title: "Survey and Questionnaire Data Coding Help — From Raw Responses to SPSS"
 description: "Get help coding raw survey and questionnaire responses into a usable SPSS dataset — variable setup, Likert coding, and reverse-scoring."
 h1: "Survey and Questionnaire Data Coding Help — From Raw Responses to SPSS"
+headerImage: "/survey-questionnaire-data-coding-help.webp"
 section: "core"
 pillar: false
 pathway: "Dissertation and Research Chapters"

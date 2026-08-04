@@ -2,6 +2,7 @@
 title: "Structural Equation Modelling Assignment Help — SPSS Amos Fit Indices Explained"
 description: "Learn how to build and evaluate an SEM or CFA model in SPSS Amos, read the key fit indices, and report your model in APA format."
 h1: "Structural Equation Modelling Assignment Help — SPSS Amos Fit Indices Explained"
+headerImage: "/structural-equation-modelling-amos-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

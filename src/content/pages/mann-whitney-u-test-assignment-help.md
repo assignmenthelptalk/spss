@@ -2,6 +2,7 @@
 title: "Mann-Whitney U Test Assignment Help — Non-Parametric SPSS Alternative to the T-Test"
 description: "Learn how to run and interpret the Mann-Whitney U test in SPSS when your data violates t-test assumptions, and report it in APA format."
 h1: "Mann-Whitney U Test Assignment Help — Non-Parametric SPSS Alternative to the T-Test"
+headerImage: "/mann-whitney-u-test-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Non-Parametric Tests"

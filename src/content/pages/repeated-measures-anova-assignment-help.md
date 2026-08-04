@@ -2,6 +2,7 @@
 title: "Repeated Measures ANOVA Assignment Help — Sphericity and SPSS Steps"
 description: "Learn how to run a repeated measures ANOVA in SPSS, handle the sphericity assumption correctly, and report the result in APA format."
 h1: "Repeated Measures ANOVA Assignment Help — Sphericity and SPSS Steps"
+headerImage: "/repeated-measures-anova-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Parametric Tests — T-Tests and ANOVA Family"

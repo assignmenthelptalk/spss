@@ -2,6 +2,7 @@
 title: "Discriminant Analysis Assignment Help — Predicting Group Membership in SPSS"
 description: "Learn how to run discriminant analysis in SPSS to predict group membership from continuous predictors, and interpret classification accuracy."
 h1: "Discriminant Analysis Assignment Help — Predicting Group Membership in SPSS"
+headerImage: "/discriminant-analysis-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

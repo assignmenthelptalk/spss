@@ -2,6 +2,7 @@
 title: "Multinomial and Ordinal Logistic Regression Assignment Help in SPSS"
 description: "Learn how to run multinomial and ordinal logistic regression in SPSS, check the proportional odds assumption, and report results in APA format."
 h1: "Multinomial and Ordinal Logistic Regression Assignment Help in SPSS"
+headerImage: "/multinomial-ordinal-logistic-regression-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Correlation and Regression"

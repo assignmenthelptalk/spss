@@ -2,6 +2,7 @@
 title: "Meta-Analysis in SPSS Assignment Help — Effect Sizes and Heterogeneity"
 description: "Learn how to run a meta-analysis in SPSS, choose fixed vs random-effects models, and interpret heterogeneity and publication bias."
 h1: "Meta-Analysis in SPSS Assignment Help — Effect Sizes and Heterogeneity"
+headerImage: "/meta-analysis-spss-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

@@ -2,6 +2,7 @@
 title: "Chapter 3 Statistical Analysis Plan Help — Dissertation Proposal Support"
 description: "Get help building your dissertation's Chapter 3 statistical analysis plan — research design, test selection, and a priori power analysis."
 h1: "Chapter 3 Statistical Analysis Plan Help — Dissertation Proposal Support"
+headerImage: "/dissertation-chapter-3-statistical-plan-help.webp"
 section: "core"
 pillar: false
 pathway: "Dissertation and Research Chapters"

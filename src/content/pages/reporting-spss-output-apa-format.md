@@ -2,6 +2,7 @@
 title: "Reporting SPSS Output in APA Format — Tables, Templates, and Rules"
 description: "The APA rules for reporting SPSS statistical output — table formatting, rounding conventions, and exact reporting templates for every major test."
 h1: "Reporting SPSS Output in APA Format — Tables, Templates, and Rules"
+headerImage: "/reporting-spss-output-apa-format.webp"
 section: "outer"
 pillar: false
 pathway: "SPSS Software Mechanics"

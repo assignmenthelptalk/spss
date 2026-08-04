@@ -2,6 +2,7 @@
 title: "Friedman Test Assignment Help — Non-Parametric Repeated Measures in SPSS"
 description: "Learn how to run and interpret the Friedman test in SPSS as the non-parametric alternative to repeated measures ANOVA, with APA reporting."
 h1: "Friedman Test Assignment Help — Non-Parametric Repeated Measures in SPSS"
+headerImage: "/friedman-test-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Non-Parametric Tests"

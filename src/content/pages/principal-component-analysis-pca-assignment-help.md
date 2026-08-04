@@ -2,6 +2,7 @@
 title: "Principal Component Analysis (PCA) Assignment Help in SPSS"
 description: "Learn how to run PCA in SPSS to reduce variables into components, choose extraction criteria, and report the result in APA format."
 h1: "Principal Component Analysis (PCA) Assignment Help in SPSS"
+headerImage: "/principal-component-analysis-pca-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

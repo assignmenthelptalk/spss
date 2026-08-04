@@ -2,6 +2,7 @@
 title: "Kruskal-Wallis H Test Assignment Help — Non-Parametric SPSS ANOVA Alternative"
 description: "Learn how to run and interpret the Kruskal-Wallis H test in SPSS as the non-parametric alternative to one-way ANOVA, with post-hoc comparisons."
 h1: "Kruskal-Wallis H Test Assignment Help — Non-Parametric SPSS ANOVA Alternative"
+headerImage: "/kruskal-wallis-test-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Non-Parametric Tests"

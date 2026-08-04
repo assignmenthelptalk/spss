@@ -2,6 +2,7 @@
 title: "Time Series Analysis Assignment Help — ARIMA Modelling in SPSS"
 description: "Learn how to run time series and ARIMA modelling in SPSS, check stationarity, and interpret autocorrelation for forecasting assignments."
 h1: "Time Series Analysis Assignment Help — ARIMA Modelling in SPSS"
+headerImage: "/time-series-analysis-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Multivariate and Advanced Analysis"

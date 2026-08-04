@@ -2,6 +2,7 @@
 title: "MANCOVA Assignment Help — Multivariate ANOVA with Covariates"
 description: "Learn how to run MANCOVA in SPSS to compare groups on multiple dependent variables while controlling for a covariate, with APA reporting."
 h1: "MANCOVA Assignment Help — Multivariate ANOVA with Covariates"
+headerImage: "/mancova-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Parametric Tests — T-Tests and ANOVA Family"
