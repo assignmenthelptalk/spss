@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Hierarchical Regression and When Do You Use It?
 
-Hierarchical (sequential) regression enters predictors into a multiple regression model in theory-driven **blocks**, so you can test how much additional variance each block explains over and above the block(s) already entered — for example, entering demographic controls in Block 1, then a psychological predictor of interest in Block 2, to see whether it explains variance beyond demographics alone. Use it when your research question is specifically about *incremental* explanatory power, not just the final model's overall fit.
+Hierarchical (sequential) regression enters predictors into a multiple regression model in theory-driven **blocks**, so you can test how much additional variance each block explains over and above the block(s) already entered: for example, entering demographic controls in Block 1, then a psychological predictor of interest in Block 2, to see whether it explains variance beyond demographics alone. Use it when your research question is specifically about *incremental* explanatory power, not just the final model's overall fit.
 
 If you just want to test all predictors together with no theoretical entry order, standard (simultaneous) multiple regression is simpler and more appropriate.
 
@@ -41,9 +41,9 @@ Hierarchical regression carries the same assumptions as standard multiple regres
 
 ## How to Interpret the Output
 
-1. In the **Model Summary** table, read **R² Change** and **Sig. F Change** for each block — this tells you whether that block added statistically significant explanatory power beyond the previous block(s).
+1. In the **Model Summary** table, read **R² Change** and **Sig. F Change** for each block: this tells you whether that block added statistically significant explanatory power beyond the previous block(s).
 2. Check the final model's overall **R²**, **F**, and **df** in the **ANOVA** table.
-3. In the final **Coefficients** table, read each predictor's **B**, **standardized Beta**, and significance — remembering these reflect each predictor's unique contribution in the *final*, fully-entered model.
+3. In the final **Coefficients** table, read each predictor's **B**, **standardized Beta**, and significance, remembering these reflect each predictor's unique contribution in the *final*, fully-entered model.
 
 ## How to Report the Results in APA Format
 
@@ -51,6 +51,6 @@ Hierarchical regression carries the same assumptions as standard multiple regres
 
 ## Hierarchical Regression vs Standard Multiple Regression: Understanding the Difference
 
-Standard (simultaneous) multiple regression enters all predictors at once and reports each one's unique contribution to a single model. Hierarchical regression enters predictors in **theory-driven blocks** specifically to isolate how much variance each block adds beyond what came before — it answers "does this variable matter *after* accounting for these others," not just "which variables matter." Confusing hierarchical with **stepwise** regression is a common error too: stepwise entry is data-driven (SPSS chooses the order based on statistical criteria), while hierarchical entry order is set by the researcher based on theory.
+Standard (simultaneous) multiple regression enters all predictors at once and reports each one's unique contribution to a single model. Hierarchical regression enters predictors in **theory-driven blocks** specifically to isolate how much variance each block adds beyond what came before: it answers "does this variable matter *after* accounting for these others," not just "which variables matter." Confusing hierarchical with **stepwise** regression is a common error too: stepwise entry is data-driven (SPSS chooses the order based on statistical criteria), while hierarchical entry order is set by the researcher based on theory.
 
 Not sure which one your research question needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

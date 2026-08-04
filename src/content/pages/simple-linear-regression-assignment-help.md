@@ -17,17 +17,17 @@ draft: false
 
 ## What Is Simple Linear Regression and When Do You Use It?
 
-Simple linear regression predicts one continuous outcome from one predictor variable. Where [Pearson correlation](/pearson-correlation-assignment-help/) describes *whether* two variables relate, regression goes further — it produces an equation that predicts the outcome and tells you how much it changes per unit of the predictor.
+Simple linear regression predicts one continuous outcome from one predictor variable. Where [Pearson correlation](/pearson-correlation-assignment-help/) describes *whether* two variables relate, regression goes further: it produces an equation that predicts the outcome and tells you how much it changes per unit of the predictor.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
 ### Linearity, Independence, and Homoscedasticity
 
-Check linearity with a scatterplot of the predictor against the outcome. Check independence of residuals with the **Durbin-Watson statistic** — values near 2 indicate independence; values well outside 1.5–2.5 suggest a problem. Check homoscedasticity with a residual scatterplot, which should show an even, random spread rather than a funnel shape.
+Check linearity with a scatterplot of the predictor against the outcome. Check independence of residuals with the **Durbin-Watson statistic**: values near 2 indicate independence; values well outside 1.5–2.5 suggest a problem. Check homoscedasticity with a residual scatterplot, which should show an even, random spread rather than a funnel shape.
 
 ### Normally Distributed Residuals
 
-Check this with a P-P plot of the regression standardised residuals — points should sit close to the diagonal line — or a histogram of the residuals.
+Check this with a P-P plot of the regression standardised residuals (points should sit close to the diagonal line), or a histogram of the residuals.
 
 ## How to Run Simple Linear Regression in SPSS (Step by Step)
 
@@ -40,15 +40,15 @@ Check this with a P-P plot of the regression standardised residuals — points s
 
 ## How to Interpret Simple Linear Regression Output
 
-### Model Summary Table — R and R²
+### Model Summary Table: R and R²
 
 **R²** is the proportion of variance in the outcome explained by the predictor, expressed as a percentage.
 
-### ANOVA Table — Is the Model Significant Overall?
+### ANOVA Table: Is the Model Significant Overall?
 
-Check the **F**-statistic and its *p*-value first — this tells you whether the model explains a significant amount of variance before you look at the individual coefficient.
+Check the **F**-statistic and its *p*-value first: this tells you whether the model explains a significant amount of variance before you look at the individual coefficient.
 
-### Coefficients Table — Reading B and Its Significance
+### Coefficients Table: Reading B and Its Significance
 
 **B** is the raw-unit change in the outcome for each 1-unit increase in the predictor. Its *t*-value and *p*-value test whether that slope differs significantly from zero.
 

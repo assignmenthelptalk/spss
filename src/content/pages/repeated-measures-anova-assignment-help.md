@@ -15,14 +15,14 @@ draft: false
 
 ## What Is Repeated Measures ANOVA and When Do You Use It?
 
-Repeated measures ANOVA compares three or more related measurements taken from the same subjects — for example, scores measured at baseline, one month, and three months into an intervention. Use it when you have one continuous dependent variable measured at three or more time points (or conditions) on the same people.
+Repeated measures ANOVA compares three or more related measurements taken from the same subjects: for example, scores measured at baseline, one month, and three months into an intervention. Use it when you have one continuous dependent variable measured at three or more time points (or conditions) on the same people.
 
 If you only have two related measurements, use the paired samples t-test instead. If you have three or more *independent* groups instead of repeated measures on the same people, use one-way ANOVA instead.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
 - **Sphericity.** The variances of the differences between all pairs of related measurements should be roughly equal. SPSS tests this automatically with **Mauchly's Test of Sphericity**, produced alongside your main output.
-- **If Mauchly's test is significant (*p* < .05), sphericity is violated** — don't read the standard "Sphericity Assumed" row. Instead use a corrected row: **Greenhouse-Geisser** (more conservative, generally preferred) or **Huynh-Feldt** (used when Greenhouse-Geisser's epsilon estimate is above .75).
+- **If Mauchly's test is significant (*p* < .05), sphericity is violated**: don't read the standard "Sphericity Assumed" row. Instead use a corrected row: **Greenhouse-Geisser** (more conservative, generally preferred) or **Huynh-Feldt** (used when Greenhouse-Geisser's epsilon estimate is above .75).
 - **Normality** of the dependent variable at each time point.
 
 ## How to Run It in SPSS (Step by Step)
@@ -35,7 +35,7 @@ If you only have two related measurements, use the paired samples t-test instead
 
 ## How to Interpret the Output
 
-1. Check **Mauchly's Test of Sphericity** first. If *p* > .05, sphericity holds — read the "Sphericity Assumed" row in the Tests of Within-Subjects Effects table. If *p* ≤ .05, read the Greenhouse-Geisser row instead.
+1. Check **Mauchly's Test of Sphericity** first. If *p* > .05, sphericity holds: read the "Sphericity Assumed" row in the Tests of Within-Subjects Effects table. If *p* ≤ .05, read the Greenhouse-Geisser row instead.
 2. From the correct row, read the **F-value**, **df** (note these are often non-integer after a Greenhouse-Geisser correction), and **Sig.**
 3. Report **partial eta-squared** as the effect size.
 4. If the overall test is significant, run **post-hoc pairwise comparisons with Bonferroni correction** (available directly in the Options dialog) to identify which specific time points differ.

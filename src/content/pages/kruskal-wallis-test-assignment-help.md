@@ -18,13 +18,13 @@ draft: false
 
 The Kruskal-Wallis H test is the non-parametric alternative to one-way ANOVA. It compares three or more **independent** groups on an outcome using ranked data rather than means, so it doesn't require the normality or homogeneity-of-variance assumptions ANOVA depends on. Use it when you have three or more independent groups and an ordinal outcome, or a continuous outcome that clearly violates ANOVA's assumptions.
 
-If your data reasonably meets ANOVA's assumptions, use one-way ANOVA instead — it's more powerful when those assumptions hold.
+If your data reasonably meets ANOVA's assumptions, use one-way ANOVA instead. It's more powerful when those assumptions hold.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
 - **Independence of observations** both within and between the three or more groups.
 - **The dependent variable should be at least ordinal.**
-- No normality or equal-variance assumption — that's the reason to use this test instead of ANOVA.
+- No normality or equal-variance assumption: that's the reason to use this test instead of ANOVA.
 - As with Mann-Whitney, comparing group **medians** cleanly assumes similarly shaped distributions across groups; if shapes differ substantially, the result is better read as "distributions differ" rather than strictly "medians differ."
 
 ## How to Run It in SPSS (Step by Step)
@@ -36,9 +36,9 @@ If your data reasonably meets ANOVA's assumptions, use one-way ANOVA instead —
 
 ## How to Interpret the Output
 
-1. In the **Test Statistics** table, read the **Chi-Square (H)** value, **df** (number of groups − 1), and **Asymp. Sig.** — your *p*-value.
+1. In the **Test Statistics** table, read the **Chi-Square (H)** value, **df** (number of groups − 1), and **Asymp. Sig.**, your *p*-value.
 2. Report **median and IQR** per group from the Ranks table's mean rank values, or by running Descriptives separately.
-3. **If significant, run post-hoc pairwise comparisons** — pairwise Mann-Whitney tests between each group pair, with a **Bonferroni-adjusted alpha** (divide .05 by the number of comparisons) to control for the inflated Type I error from multiple tests.
+3. **If significant, run post-hoc pairwise comparisons**: pairwise Mann-Whitney tests between each group pair, with a **Bonferroni-adjusted alpha** (divide .05 by the number of comparisons) to control for the inflated Type I error from multiple tests.
 
 ## How to Report the Results in APA Format
 

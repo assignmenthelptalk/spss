@@ -24,7 +24,7 @@ If you have multiple DVs but no covariate, use MANOVA instead. If you have one D
 
 MANCOVA inherits assumptions from both of its parent tests:
 
-- **Homogeneity of regression slopes across all dependent variables** — the covariate's relationship with each DV must be consistent across groups, tested via the covariate × factor interaction for each outcome.
+- **Homogeneity of regression slopes across all dependent variables**: the covariate's relationship with each DV must be consistent across groups, tested via the covariate × factor interaction for each outcome.
 - **Homogeneity of covariance matrices** (Box's M test), as in MANOVA.
 - **The covariate should correlate with the dependent variables but not be confounded with the independent variable**, as in ANCOVA.
 - Multivariate normality of the dependent variables, as a practical proxy checked via each DV's univariate normality.
@@ -41,7 +41,7 @@ MANCOVA inherits assumptions from both of its parent tests:
 
 1. Read **Wilks' Lambda** (or Pillai's Trace) in the Multivariate Tests table for the independent variable, now interpreted **after adjusting for the covariate(s)**.
 2. Check the **follow-up univariate tests** (adjusted for the covariate) to see which specific dependent variable(s) show a group difference once the covariate is controlled.
-3. Review the **Estimated Marginal Means** for each dependent variable — these are the covariate-adjusted group means.
+3. Review the **Estimated Marginal Means** for each dependent variable: these are the covariate-adjusted group means.
 
 ## How to Report the Results in APA Format
 
@@ -49,6 +49,6 @@ MANCOVA inherits assumptions from both of its parent tests:
 
 ## MANCOVA vs MANOVA: Understanding the Difference
 
-MANOVA compares raw group means across multiple dependent variables. MANCOVA does the same comparison **after removing the statistical influence of a covariate**, giving adjusted means that isolate the group effect more precisely. If your design has a known confounding variable — prior ability, baseline score, age — and multiple related outcomes, MANCOVA is the test that accounts for both at once; using plain MANOVA leaves the confound unaddressed.
+MANOVA compares raw group means across multiple dependent variables. MANCOVA does the same comparison **after removing the statistical influence of a covariate**, giving adjusted means that isolate the group effect more precisely. If your design has a known confounding variable (prior ability, baseline score, age) and multiple related outcomes, MANCOVA is the test that accounts for both at once; using plain MANOVA leaves the confound unaddressed.
 
 Not sure which one your design needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.
