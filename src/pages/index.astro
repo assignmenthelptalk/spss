@@ -33,11 +33,11 @@ const serviceFormats = [
 ];
 
 const academicLevels = [
-  'Undergraduate',
-  "Master's Thesis",
-  'PhD Dissertation',
-  'DNP Project',
-  'EdD Dissertation',
+  { name: 'Undergraduate', href: '/undergraduate-spss-assignment-help/' },
+  { name: "Master's Thesis", href: '/masters-thesis-spss-help/' },
+  { name: 'PhD Dissertation', href: '/phd-dissertation-spss-help/' },
+  { name: 'DNP Project', href: '/dnp-project-spss-help/' },
+  { name: 'EdD Dissertation', href: '/edd-dissertation-spss-help/' },
 ];
 
 const subjectDomains = [
@@ -207,8 +207,13 @@ const subjectDomains = [
       </p>
       <ul class="mt-6 flex flex-wrap gap-3">
         {academicLevels.map((level) => (
-          <li class="rounded-full bg-white px-4 py-2 text-sm text-slate-700 shadow-sm">
-            {level}
+          <li>
+            <a
+              href={level.href}
+              class="block rounded-full bg-white px-4 py-2 text-sm text-slate-700 shadow-sm hover:text-blue-600"
+            >
+              {level.name}
+            </a>
           </li>
         ))}
       </ul>
