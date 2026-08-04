@@ -5,7 +5,7 @@ h1: "MANCOVA Assignment Help — Multivariate ANOVA with Covariates"
 headerImage: "/mancova-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "low"
 bridgesTo:
   - "spss-statistical-tests-explained"

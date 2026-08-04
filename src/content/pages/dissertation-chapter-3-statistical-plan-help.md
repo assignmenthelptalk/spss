@@ -17,7 +17,7 @@ draft: false
 
 ## What Belongs in a Chapter 3 Statistical Analysis Plan?
 
-Chapter 3 is written *before* you collect data, and its statistical section has one job: convince your committee that you know exactly what you'll do with the data once you have it. That means naming the specific test for each research question — not describing your topic again, and not deferring the decision with "the data will be analysed using SPSS."
+Chapter 3 is written *before* you collect data, and its statistical section has one job: convince your committee that you know exactly what you'll do with the data once you have it. That means naming the specific test for each research question, not describing your topic again, and not deferring the decision with "the data will be analysed using SPSS."
 
 A complete statistical plan specifies:
 
@@ -29,7 +29,7 @@ A complete statistical plan specifies:
 
 ## Justifying Your Research Design
 
-Before naming tests, your design needs a clear label and justification: **correlational** (examining relationships without manipulation), **experimental** (random assignment to conditions), or **quasi-experimental** (group comparison without random assignment, common in applied and educational settings). Committees expect this choice tied explicitly to your research questions — a design chosen because it's "easier to run" rather than because it fits the question is a common weakness reviewers flag.
+Before naming tests, your design needs a clear label and justification: **correlational** (examining relationships without manipulation), **experimental** (random assignment to conditions), or **quasi-experimental** (group comparison without random assignment, common in applied and educational settings). Committees expect this choice tied explicitly to your research questions: a design chosen because it's "easier to run" rather than because it fits the question is a common weakness reviewers flag.
 
 ## Naming the Test for Each Research Question
 
@@ -43,7 +43,7 @@ This is the section most Chapter 3 drafts get wrong: research questions listed w
 
 ## A Priori Power Analysis and Sample Size Justification
 
-Committees generally expect **a priori power analysis** — calculated before data collection, not after. This requires four interlocking numbers: your alpha level (conventionally .05), your desired power (conventionally .80), your expected effect size (from prior literature or a conservative default if none exists), and the resulting required sample size. G*Power is the most common companion tool used alongside SPSS for this calculation. See the full [power analysis and sample size guide](/power-analysis-sample-size-assignment-help/) for the step-by-step walkthrough — this section of Chapter 3 is often the single most scrutinised paragraph in a proposal defence.
+Committees generally expect **a priori power analysis**: calculated before data collection, not after. This requires four interlocking numbers: your alpha level (conventionally .05), your desired power (conventionally .80), your expected effect size (from prior literature or a conservative default if none exists), and the resulting required sample size. G*Power is the most common companion tool used alongside SPSS for this calculation. See the full [power analysis and sample size guide](/power-analysis-sample-size-assignment-help/) for the step-by-step walkthrough. This section of Chapter 3 is often the single most scrutinised paragraph in a proposal defence.
 
 ## Validity and Reliability Plan for Your Instruments
 
@@ -56,4 +56,4 @@ If your study uses a survey or scale, Chapter 3 needs to address its psychometri
 - No stated plan for handling assumption violations if they occur
 - Instrument validity/reliability not addressed at all
 
-Once your plan is approved and data is collected, the next stage is reporting what actually happened — see the full [Chapter 4 results guide](/dissertation-chapter-4-results-help/) for that transition, or the broader [SPSS dissertation and thesis statistics help](/spss-dissertation-thesis-statistics-help/) overview for how all three chapters fit together.
+Once your plan is approved and data is collected, the next stage is reporting what actually happened. See the full [Chapter 4 results guide](/dissertation-chapter-4-results-help/) for that transition, or the broader [SPSS dissertation and thesis statistics help](/spss-dissertation-thesis-statistics-help/) overview for how all three chapters fit together.

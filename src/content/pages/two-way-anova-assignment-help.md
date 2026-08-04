@@ -5,7 +5,7 @@ h1: "Two-Way ANOVA Assignment Help — Interaction Effects in SPSS"
 headerImage: "/two-way-anova-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"

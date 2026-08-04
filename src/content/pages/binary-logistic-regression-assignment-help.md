@@ -16,13 +16,13 @@ draft: false
 
 ## What Is Binary Logistic Regression and When Do You Use It?
 
-Binary logistic regression predicts a two-category outcome — pass/fail, yes/no, disease/no disease — from one or more predictors. Use it whenever your outcome has exactly two categories; [linear regression](/multiple-linear-regression-assignment-help/) requires a continuous outcome and isn't valid here.
+Binary logistic regression predicts a two-category outcome (pass/fail, yes/no, disease/no disease) from one or more predictors. Use it whenever your outcome has exactly two categories; [linear regression](/multiple-linear-regression-assignment-help/) requires a continuous outcome and isn't valid here.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
 ### Dependent Variable Coding and Linearity of the Logit
 
-Your outcome variable must be coded **0/1** — SPSS treats the higher-coded value as the "event" it's predicting. Continuous predictors should have a roughly linear relationship with the *log-odds* of the outcome, formally testable with the Box-Tidwell procedure (often waived at coursework level, expected at dissertation level).
+Your outcome variable must be coded **0/1**: SPSS treats the higher-coded value as the "event" it's predicting. Continuous predictors should have a roughly linear relationship with the *log-odds* of the outcome, formally testable with the Box-Tidwell procedure (often waived at coursework level, expected at dissertation level).
 
 ## How to Run Binary Logistic Regression in SPSS (Step by Step)
 
@@ -34,15 +34,15 @@ Your outcome variable must be coded **0/1** — SPSS treats the higher-coded val
 
 ## How to Interpret Binary Logistic Regression Output
 
-### Odds Ratios — Reading Exp(B)
+### Odds Ratios: Reading Exp(B)
 
 **Exp(B)** is the odds ratio. Above 1 means increased odds of the outcome per 1-unit increase in the predictor; below 1 means decreased odds. An Exp(B) of 1.8 means each 1-unit increase in the predictor is associated with 80% higher odds of the outcome.
 
-### Model Fit — Hosmer-Lemeshow and Nagelkerke R²
+### Model Fit: Hosmer-Lemeshow and Nagelkerke R²
 
-The **Hosmer-Lemeshow test** works backwards from what you'd expect: a **non-significant** result (*p* > .05) indicates *good* fit. **Nagelkerke R²** is a pseudo-R² that approximates variance explained — it isn't directly comparable to linear regression's R².
+The **Hosmer-Lemeshow test** works backwards from what you'd expect: a **non-significant** result (*p* > .05) indicates *good* fit. **Nagelkerke R²** is a pseudo-R² that approximates variance explained. It isn't directly comparable to linear regression's R².
 
-### The Classification Table — Sensitivity and Specificity
+### The Classification Table: Sensitivity and Specificity
 
 This table reports the overall percentage correctly classified, plus **sensitivity** (correctly identified positives) and **specificity** (correctly identified negatives).
 

@@ -5,7 +5,7 @@ h1: "Paired Samples T-Test Assignment Help — Pre/Post Comparisons in SPSS"
 headerImage: "/paired-samples-t-test-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"

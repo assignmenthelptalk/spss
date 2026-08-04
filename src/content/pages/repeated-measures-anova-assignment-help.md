@@ -5,7 +5,7 @@ h1: "Repeated Measures ANOVA Assignment Help — Sphericity and SPSS Steps"
 headerImage: "/repeated-measures-anova-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"

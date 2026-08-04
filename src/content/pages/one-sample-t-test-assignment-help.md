@@ -5,7 +5,7 @@ h1: "One-Sample T-Test Assignment Help — Running and Interpreting It in SPSS"
 headerImage: "/one-sample-t-test-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"

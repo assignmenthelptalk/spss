@@ -5,7 +5,7 @@ h1: "MANOVA Assignment Help — Multiple Dependent Variables in SPSS"
 headerImage: "/manova-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"

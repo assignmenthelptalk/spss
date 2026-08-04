@@ -22,7 +22,7 @@ Before you open SPSS, three questions decide which test you need:
 2. **How many groups or variables are you comparing?** Two groups, three or more groups, or the relationship between two continuous variables.
 3. **Are your samples independent or related?** Independent means different people in each group. Related means the same people measured more than once, or matched pairs.
 
-A fourth question only matters once you know the answer to the first three: **does your data meet the assumptions of a parametric test** — approximately normal distribution and, where relevant, homogeneity of variance? If yes, use the parametric test. If an assumption is meaningfully violated, use its non-parametric counterpart instead.
+A fourth question only matters once you know the answer to the first three: **does your data meet the assumptions of a parametric test**: approximately normal distribution and, where relevant, homogeneity of variance? If yes, use the parametric test. If an assumption is meaningfully violated, use its non-parametric counterpart instead.
 
 ## Parametric Tests {#parametric-tests}
 

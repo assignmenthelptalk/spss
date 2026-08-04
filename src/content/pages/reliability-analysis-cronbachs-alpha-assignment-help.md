@@ -42,7 +42,7 @@ If your scale mixes positively and negatively worded items (e.g. "I feel confide
 
 ### Item-Total Correlation and "Alpha if Item Deleted"
 
-Check the **Corrected Item-Total Correlation** column — values below roughly .30 flag a weak item. Then check **Cronbach's Alpha if Item Deleted**: if that value is *higher* than your overall alpha, removing that specific item would improve the scale. This is the most useful diagnostic on this page for fixing a weak scale.
+Check the **Corrected Item-Total Correlation** column: values below roughly .30 flag a weak item. Then check **Cronbach's Alpha if Item Deleted**: if that value is *higher* than your overall alpha, removing that specific item would improve the scale. This is the most useful diagnostic on this page for fixing a weak scale.
 
 ## How to Report Reliability Analysis Results in APA Format
 

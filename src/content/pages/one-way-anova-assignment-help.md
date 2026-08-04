@@ -5,7 +5,7 @@ h1: "One-Way ANOVA Assignment Help — SPSS Steps, Post-Hoc Tests, and Reporting
 headerImage: "/one-way-anova.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "high"
 bridgesTo:
   - "spss-statistical-tests-explained"

@@ -22,7 +22,7 @@ Exploratory factor analysis (EFA) identifies the underlying latent factors behin
 
 ### KMO and Bartlett's Test of Sphericity
 
-The **Kaiser-Meyer-Olkin (KMO)** measure checks whether your variables are correlated enough overall to justify factoring — above .60 is acceptable, above .80 is excellent. **Bartlett's Test of Sphericity** must be significant (*p* < .05), confirming your variables aren't simply unrelated to begin with. Both come from the same SPSS dialog. Request them together.
+The **Kaiser-Meyer-Olkin (KMO)** measure checks whether your variables are correlated enough overall to justify factoring: above .60 is acceptable, above .80 is excellent. **Bartlett's Test of Sphericity** must be significant (*p* < .05), confirming your variables aren't simply unrelated to begin with. Both come from the same SPSS dialog. Request them together.
 
 ## How to Run Factor Analysis in SPSS (Step by Step)
 

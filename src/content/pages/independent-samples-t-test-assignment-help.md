@@ -5,7 +5,7 @@ h1: "Independent Samples T-Test Assignment Help — SPSS Steps and Levene's Test
 headerImage: "/independent-samples-t-test.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "high"
 bridgesTo:
   - "spss-statistical-tests-explained"

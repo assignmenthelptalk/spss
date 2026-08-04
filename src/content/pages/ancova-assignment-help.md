@@ -5,7 +5,7 @@ h1: "ANCOVA Assignment Help — Controlling for Covariates in SPSS"
 headerImage: "/ancova-assignment-help.webp"
 section: "core"
 pillar: false
-pathway: "Parametric Tests — T-Tests and ANOVA Family"
+pathway: "Parametric Tests: T-Tests and ANOVA Family"
 priority: "medium"
 bridgesTo:
   - "spss-statistical-tests-explained"
