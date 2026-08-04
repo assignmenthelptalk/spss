@@ -2,6 +2,7 @@
 title: "DNP Project SPSS Help — Statistics for Nursing Practice Scholarly Projects"
 description: "Get SPSS help for your DNP scholarly project — practice-improvement statistics, pre/post intervention data, and quality-improvement metrics."
 h1: "DNP Project SPSS Help — Statistics for Nursing Practice Scholarly Projects"
+headerImage: "/paired-samples-t-test-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Academic-Level Pathways"

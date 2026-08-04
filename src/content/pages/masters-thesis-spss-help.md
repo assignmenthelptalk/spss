@@ -2,6 +2,7 @@
 title: "Master's Thesis SPSS Help — Statistics Support for Your Thesis"
 description: "Get SPSS statistics help scoped to your master's thesis — the right test complexity, committee expectations, and full chapter support."
 h1: "Master's Thesis SPSS Help — Statistics Support for Your Thesis"
+headerImage: "/dissertation-thesis-help.webp"
 section: "core"
 pillar: false
 pathway: "Academic-Level Pathways"

@@ -2,6 +2,7 @@
 title: "SPSS for Nursing Research — Biostatistics Assignment Help"
 description: "SPSS help tailored to nursing and healthcare research — clinical designs, risk-factor tests, and DNP project statistics."
 h1: "SPSS for Nursing Research — Biostatistics Assignment Help"
+headerImage: "/survival-analysis-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Subject-Domain Applications"

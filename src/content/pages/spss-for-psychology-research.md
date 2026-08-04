@@ -2,6 +2,7 @@
 title: "SPSS for Psychology Research — Statistical Assignment Help"
 description: "SPSS help tailored to psychology research — the designs, tests, and reporting conventions this field actually uses."
 h1: "SPSS for Psychology Research — Statistical Assignment Help"
+headerImage: "/reliability-analysis.webp"
 section: "core"
 pillar: false
 pathway: "Subject-Domain Applications"
