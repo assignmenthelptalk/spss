@@ -15,15 +15,15 @@ draft: false
 
 ## What Is Survival Analysis and When Do You Use It?
 
-Survival analysis analyses **time-to-event data** — how long until something happens (death, relapse, equipment failure, dropout) — and specifically handles **censoring**: cases where the event hadn't occurred by the end of the study, so their true survival time is only partially known. It's especially common in medical and health research. Use it when your outcome is "time until an event," not just whether the event happened.
+Survival analysis analyses **time-to-event data** (how long until something happens: death, relapse, equipment failure, dropout) and specifically handles **censoring**: cases where the event hadn't occurred by the end of the study, so their true survival time is only partially known. It's especially common in medical and health research. Use it when your outcome is "time until an event," not just whether the event happened.
 
 If your outcome is simply whether an event occurred (yes/no), without a meaningful time component or censoring, logistic regression is more appropriate.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
-- **Censoring must be correctly identified and coded** — a status variable marking which cases experienced the event versus which were censored (study ended, dropped out, still event-free at last contact).
-- **For Cox regression: the proportional hazards assumption** — the hazard ratio between groups should be constant over time. Check this via a log-minus-log survival plot (parallel curves support the assumption) or a time-dependent covariate test.
-- **Independence of censoring from the event** — censored cases shouldn't be systematically different in their event risk from non-censored cases.
+- **Censoring must be correctly identified and coded**: a status variable marking which cases experienced the event versus which were censored (study ended, dropped out, still event-free at last contact).
+- **For Cox regression, the proportional hazards assumption**: the hazard ratio between groups should be constant over time. Check this via a log-minus-log survival plot (parallel curves support the assumption) or a time-dependent covariate test.
+- **Independence of censoring from the event**: censored cases shouldn't be systematically different in their event risk from non-censored cases.
 
 ## How to Run It in SPSS (Step by Step)
 
@@ -39,9 +39,9 @@ If your outcome is simply whether an event occurred (yes/no), without a meaningf
 
 ## How to Interpret the Output
 
-**Kaplan-Meier:** Read the survival curve — the proportion of cases still "surviving" (event-free) at each time point. Use the **log-rank test** to compare curves between groups statistically.
+**Kaplan-Meier:** Read the survival curve: the proportion of cases still "surviving" (event-free) at each time point. Use the **log-rank test** to compare curves between groups statistically.
 
-**Cox regression:** Read each predictor's **hazard ratio** (Exp(B)) — a value above 1 means increased risk of the event per unit increase in the predictor; below 1 means decreased risk. Check significance via the **Wald statistic**.
+**Cox regression:** Read each predictor's **hazard ratio** (Exp(B)): a value above 1 means increased risk of the event per unit increase in the predictor; below 1 means decreased risk. Check significance via the **Wald statistic**.
 
 ## How to Report the Results in APA Format
 
@@ -49,6 +49,6 @@ If your outcome is simply whether an event occurred (yes/no), without a meaningf
 
 ## Kaplan-Meier vs Cox Regression: Understanding the Difference
 
-Kaplan-Meier estimates and compares survival curves, typically across a small number of groups — it's largely descriptive and visual, with the log-rank test as its main statistical comparison. Cox regression models the effect of one or more continuous or categorical predictors on the hazard of the event simultaneously, producing hazard ratios that quantify each predictor's effect while controlling for the others. Many survival analyses use both: Kaplan-Meier to visualise and compare group survival, Cox regression to formally model multiple predictors at once.
+Kaplan-Meier estimates and compares survival curves, typically across a small number of groups. It's largely descriptive and visual, with the log-rank test as its main statistical comparison. Cox regression models the effect of one or more continuous or categorical predictors on the hazard of the event simultaneously, producing hazard ratios that quantify each predictor's effect while controlling for the others. Many survival analyses use both: Kaplan-Meier to visualise and compare group survival, Cox regression to formally model multiple predictors at once.
 
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

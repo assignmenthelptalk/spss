@@ -15,22 +15,22 @@ draft: false
 
 ## What Is Cluster Analysis and When Do You Use It?
 
-Cluster analysis groups cases (not variables) into clusters based on similarity across a set of variables, with no pre-existing group labels — it's an exploratory technique for discovering natural groupings in your data, such as customer segments or patient subtypes. SPSS offers two main approaches: **hierarchical clustering**, which builds a tree of nested groupings without requiring you to specify the number of clusters in advance, and **K-means clustering**, which requires you to specify the number of clusters upfront and assigns cases directly to that many groups.
+Cluster analysis groups cases (not variables) into clusters based on similarity across a set of variables, with no pre-existing group labels. It's an exploratory technique for discovering natural groupings in your data, such as customer segments or patient subtypes. SPSS offers two main approaches: **hierarchical clustering**, which builds a tree of nested groupings without requiring you to specify the number of clusters in advance, and **K-means clustering**, which requires you to specify the number of clusters upfront and assigns cases directly to that many groups.
 
-If you already know the groups (e.g. a treatment/control variable) and want to compare them, you need a group-comparison test like ANOVA or MANOVA instead — cluster analysis is for when the groups don't yet exist in your data.
+If you already know the groups (e.g. a treatment/control variable) and want to compare them, you need a group-comparison test like ANOVA or MANOVA instead. Cluster analysis is for when the groups don't yet exist in your data.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
-- **Standardise your variables first** (Analyze > Descriptive Statistics > Descriptives, Save standardised values) if they're on different scales — a variable measured in the thousands will otherwise dominate the distance calculation over one measured on a 1–5 scale.
+- **Standardise your variables first** (Analyze > Descriptive Statistics > Descriptives, Save standardised values) if they're on different scales: a variable measured in the thousands will otherwise dominate the distance calculation over one measured on a 1–5 scale.
 - **No formal distributional assumptions**, but **multicollinearity between clustering variables** can distort results by effectively double-weighting correlated dimensions.
-- **Outliers can badly distort hierarchical clustering** in particular — screen for them before running the analysis.
+- **Outliers can badly distort hierarchical clustering** in particular: screen for them before running the analysis.
 
 ## How to Run It in SPSS (Step by Step)
 
 **Hierarchical clustering:**
 1. Go to **Analyze > Classify > Hierarchical Cluster**.
 2. Move your variables into **Variable(s)**.
-3. Click **Method**, choose a **Cluster Method** — **Ward's method** is common because it minimises within-cluster variance, producing more evenly sized, interpretable clusters.
+3. Click **Method**, choose a **Cluster Method**: **Ward's method** is common because it minimises within-cluster variance, producing more evenly sized, interpretable clusters.
 4. Click **Plots**, check **Dendrogram**, then **Continue > OK**.
 
 **K-means clustering:**
@@ -41,8 +41,8 @@ If you already know the groups (e.g. a treatment/control variable) and want to c
 
 ## How to Interpret the Output
 
-1. **Hierarchical:** Read the **dendrogram** — the height at which branches merge indicates dissimilarity; a common approach is to "cut" the tree where there's a large jump in merge distance, suggesting a natural number of clusters.
-2. **K-means:** Check the **Final Cluster Centers** table to see each cluster's average value on each variable — this is how you interpret and label what each cluster represents.
+1. **Hierarchical:** Read the **dendrogram**: the height at which branches merge indicates dissimilarity; a common approach is to "cut" the tree where there's a large jump in merge distance, suggesting a natural number of clusters.
+2. **K-means:** Check the **Final Cluster Centers** table to see each cluster's average value on each variable. This is how you interpret and label what each cluster represents.
 3. For either method, profile the resulting clusters against variables *not* used in the clustering (e.g. compare cluster membership against age or outcome) to check whether the groupings are meaningful.
 
 ## How to Report the Results in APA Format

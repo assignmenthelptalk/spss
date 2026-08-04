@@ -18,13 +18,13 @@ draft: false
 
 MANOVA (Multivariate Analysis of Variance) compares group means across **two or more dependent variables simultaneously**, rather than testing each one separately. For example, comparing three teaching methods on both test scores *and* engagement ratings at once, rather than running two separate ANOVAs. Use it when you have one or more categorical independent variables and multiple, related continuous dependent variables that make more sense analysed together than in isolation.
 
-If you only have one dependent variable, use one-way (or two-way) ANOVA instead — running MANOVA with a single outcome adds unnecessary complexity for no benefit.
+If you only have one dependent variable, use one-way (or two-way) ANOVA instead. Running MANOVA with a single outcome adds unnecessary complexity for no benefit.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
-- **Multivariate normality** across the combined set of dependent variables — harder to test directly, so univariate normality of each DV is typically checked as a practical proxy.
-- **Homogeneity of covariance matrices**, tested with **Box's M test**. Because Box's M is very sensitive with larger samples, a significant result (*p* < .05) is common and not always fatal — check it alongside sample size and group-size balance rather than treating it as an automatic failure.
-- **Low multicollinearity between dependent variables** — if two DVs are extremely highly correlated, they're not adding independent information to the multivariate test.
+- **Multivariate normality** across the combined set of dependent variables (harder to test directly, so univariate normality of each DV is typically checked as a practical proxy).
+- **Homogeneity of covariance matrices**, tested with **Box's M test**. Because Box's M is very sensitive with larger samples, a significant result (*p* < .05) is common and not always fatal. Check it alongside sample size and group-size balance rather than treating it as an automatic failure.
+- **Low multicollinearity between dependent variables**: if two DVs are extremely highly correlated, they're not adding independent information to the multivariate test.
 
 ## How to Run It in SPSS (Step by Step)
 
@@ -35,8 +35,8 @@ If you only have one dependent variable, use one-way (or two-way) ANOVA instead 
 
 ## How to Interpret the Output
 
-1. Check **Box's M Test** for homogeneity of covariance matrices in context — noted above.
-2. In the **Multivariate Tests** table, read **Wilks' Lambda** as the primary result (Pillai's Trace is the more robust alternative when assumptions are shakier — prefer it if Box's M is significant with unequal group sizes).
+1. Check **Box's M Test** for homogeneity of covariance matrices in context, noted above.
+2. In the **Multivariate Tests** table, read **Wilks' Lambda** as the primary result (Pillai's Trace is the more robust alternative when assumptions are shakier; prefer it if Box's M is significant with unequal group sizes).
 3. If the multivariate test is significant, examine the **follow-up univariate ANOVAs** (in the Tests of Between-Subjects Effects table) to see which specific dependent variable(s) drove the overall effect.
 
 ## How to Report the Results in APA Format
