@@ -2,7 +2,7 @@
 title: "EdD Dissertation SPSS Help — Statistics for Education Doctorates"
 description: "Get SPSS help for your EdD dissertation — program-evaluation and quasi-experimental statistics for applied education research."
 h1: "EdD Dissertation SPSS Help — Statistics for Education Doctorates"
-headerImage: "/ancova-assignment-help.webp"
+headerImage: "/edd-dissertation-spss-help.webp"
 section: "core"
 pillar: false
 pathway: "Academic-Level Pathways"

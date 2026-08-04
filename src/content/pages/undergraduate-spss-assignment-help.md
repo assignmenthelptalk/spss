@@ -2,7 +2,7 @@
 title: "Undergraduate SPSS Assignment Help — Intro and Applied Statistics Support"
 description: "Get SPSS help scoped to undergraduate coursework — intro stats problem sets, single-test assignments, and applied statistics support."
 h1: "Undergraduate SPSS Assignment Help — Intro and Applied Statistics Support"
-headerImage: "/one-sample-t-test-assignment-help.webp"
+headerImage: "/undergraduate-spss-assignment-help.webp"
 section: "core"
 pillar: false
 pathway: "Academic-Level Pathways"
