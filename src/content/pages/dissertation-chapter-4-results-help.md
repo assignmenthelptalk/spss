@@ -17,7 +17,7 @@ draft: false
 
 ## What Chapter 4 Is For (and What It Isn't)
 
-Chapter 4 reports what happened statistically. It does not explain what it means — that's Chapter 5's job entirely. If a sentence explains *why* a result matters or connects it to theory, it belongs in [Chapter 5](/dissertation-chapter-5-discussion-help/), not here.
+Chapter 4 reports what happened statistically. It does not explain what it means: that's Chapter 5's job entirely. If a sentence explains *why* a result matters or connects it to theory, it belongs in [Chapter 5](/dissertation-chapter-5-discussion-help/), not here.
 
 ## The Standard Chapter 4 Structure
 
@@ -32,11 +32,11 @@ Chapter 4 reports what happened statistically. It does not explain what it means
 
 ## Organise by Research Question, Not by the Order You Ran the Tests
 
-This is the most common structural mistake in Chapter 4. Students report results in whatever order SPSS output happened to come out — instead, group every result under the specific research question or hypothesis it answers. A reader should be able to find the answer to RQ1, then RQ2, then RQ3, without hunting through the chapter.
+This is the most common structural mistake in Chapter 4. Students report results in whatever order SPSS output happened to come out. Instead, group every result under the specific research question or hypothesis it answers. A reader should be able to find the answer to RQ1, then RQ2, then RQ3, without hunting through the chapter.
 
 ## The APA Statistical-Sentence Rule
 
-Every statistic you report needs its full inferential sentence — test statistic, degrees of freedom, exact *p*-value, and effect size. "The result was significant" alone is never a complete report.
+Every statistic you report needs its full inferential sentence: test statistic, degrees of freedom, exact *p*-value, and effect size. "The result was significant" alone is never a complete report.
 
 ### Worked Examples Across Test Types
 
@@ -49,16 +49,16 @@ Every one of these needs the full sentence. See the [SPSS statistical test guide
 
 ## Reporting Assumption Violations Honestly
 
-If an assumption was violated — non-normal data, unequal variances — say so explicitly, and name the corrective action you took: switching to the non-parametric equivalent, or proceeding with a stated justification for robustness. Hiding a violation is a defensibility risk at your defense, not a shortcut.
+If an assumption was violated (non-normal data, unequal variances), say so explicitly, and name the corrective action you took: switching to the non-parametric equivalent, or proceeding with a stated justification for robustness. Hiding a violation is a defensibility risk at your defense, not a shortcut.
 
 ## Table and Figure Formatting for Chapter 4
 
-APA tables use horizontal rules only — no vertical lines. Each table gets a number and an italicised title above it, with notes below explaining any abbreviations. Every table and figure must be referenced by number in the surrounding text, not just dropped in without comment.
+APA tables use horizontal rules only: no vertical lines. Each table gets a number and an italicised title above it, with notes below explaining any abbreviations. Every table and figure must be referenced by number in the surrounding text, not just dropped in without comment.
 
-## Your Results Are Reported — Now What Do They Mean?
+## Your Results Are Reported: Now What Do They Mean?
 
 ### Chapter 4 vs Chapter 5: Where Reporting Ends and Interpretation Begins
 
-Chapter 4 reports; [Chapter 5](/dissertation-chapter-5-discussion-help/) interprets. No new statistics should ever appear in Chapter 5 — every number a reader sees there should already be familiar from this chapter. See the full [dissertation and thesis statistics guide](/spss-dissertation-thesis-statistics-help/) for how Chapter 3, 4, and 5 fit together.
+Chapter 4 reports; [Chapter 5](/dissertation-chapter-5-discussion-help/) interprets. No new statistics should ever appear in Chapter 5, every number a reader sees there should already be familiar from this chapter. See the full [dissertation and thesis statistics guide](/spss-dissertation-thesis-statistics-help/) for how Chapter 3, 4, and 5 fit together.
 
 Need your Chapter 4 written, checked, or restructured? [Get SPSS assignment help](/get-started/).

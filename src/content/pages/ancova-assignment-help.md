@@ -16,14 +16,14 @@ draft: false
 
 ## What Is ANCOVA and When Do You Use It?
 
-ANCOVA (Analysis of Covariance) compares group means on a continuous outcome while statistically controlling for the effect of one or more continuous covariates — a variable that could otherwise explain some of the group difference. For example, comparing test scores across three teaching methods while controlling for students' prior GPA, so the group comparison isn't confounded by pre-existing ability differences. Use it when you have a categorical independent variable, a continuous dependent variable, and at least one continuous covariate you want to control for.
+ANCOVA (Analysis of Covariance) compares group means on a continuous outcome while statistically controlling for the effect of one or more continuous covariates: a variable that could otherwise explain some of the group difference. For example, comparing test scores across three teaching methods while controlling for students' prior GPA, so the group comparison isn't confounded by pre-existing ability differences. Use it when you have a categorical independent variable, a continuous dependent variable, and at least one continuous covariate you want to control for.
 
 If you have no covariate to control for, use plain one-way ANOVA instead.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
-- **The covariate must correlate with the dependent variable** but should **not** be related to the independent variable — if the covariate differs systematically by group, ANCOVA can't cleanly separate its effect from the group effect.
-- **Homogeneity of regression slopes.** The relationship between the covariate and the outcome must be the same across all groups. Test this by checking the covariate × independent variable interaction term — it should be **non-significant** (*p* > .05) for the homogeneity assumption to hold.
+- **The covariate must correlate with the dependent variable** but should **not** be related to the independent variable: if the covariate differs systematically by group, ANCOVA can't cleanly separate its effect from the group effect.
+- **Homogeneity of regression slopes.** The relationship between the covariate and the outcome must be the same across all groups. Test this by checking the covariate × independent variable interaction term: it should be **non-significant** (*p* > .05) for the homogeneity assumption to hold.
 - **Homogeneity of variance** (Levene's Test) and normality of residuals, as with standard ANOVA.
 
 ## How to Run It in SPSS (Step by Step)
@@ -38,9 +38,9 @@ To check the homogeneity-of-regression-slopes assumption first, run the model ag
 
 ## How to Interpret the Output
 
-1. In the Tests of Between-Subjects Effects table, read the row for your independent variable — this is the group effect **after** adjusting for the covariate.
+1. In the Tests of Between-Subjects Effects table, read the row for your independent variable: this is the group effect **after** adjusting for the covariate.
 2. Read the **F-value**, **df**, **Sig.**, and **partial eta-squared** for that row.
-3. Check the **Estimated Marginal Means** table for the **adjusted group means** — these differ from the raw group means because they've been corrected for the covariate.
+3. Check the **Estimated Marginal Means** table for the **adjusted group means**: these differ from the raw group means because they've been corrected for the covariate.
 
 ## How to Report the Results in APA Format
 
