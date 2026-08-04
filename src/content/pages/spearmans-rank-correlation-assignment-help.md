@@ -18,13 +18,13 @@ draft: false
 
 Spearman's rank correlation (Spearman's rho, ρ) measures the strength and direction of a **monotonic** relationship between two variables, based on their **ranks** rather than their raw values. Use it when at least one variable is ordinal, or when your data is continuous but clearly violates Pearson correlation's assumptions (non-linearity, non-normality, or influential outliers).
 
-If both variables are continuous, roughly normally distributed, and linearly related, use Pearson correlation instead — it uses more information from the raw data and is the more familiar reporting standard.
+If both variables are continuous, roughly normally distributed, and linearly related, use Pearson correlation instead. It uses more information from the raw data and is the more familiar reporting standard.
 
 ## Assumptions You Must Check Before Running It in SPSS
 
 - **Both variables should be at least ordinal.**
-- **The relationship should be monotonic** (consistently increasing or decreasing, though not necessarily in a straight line) — check with a scatterplot before running the test.
-- No normality or linearity assumption in the strict Pearson sense — that's the reason to use rho instead.
+- **The relationship should be monotonic** (consistently increasing or decreasing, though not necessarily in a straight line). Check with a scatterplot before running the test.
+- No normality or linearity assumption in the strict Pearson sense: that's the reason to use rho instead.
 
 ## How to Run It in SPSS (Step by Step)
 
@@ -35,7 +35,7 @@ If both variables are continuous, roughly normally distributed, and linearly rel
 
 ## How to Interpret the Output
 
-1. In the correlation matrix, read the **Spearman's rho** coefficient — ranges from −1 to +1, same direction/strength logic as Pearson's *r*.
+1. In the correlation matrix, read the **Spearman's rho** coefficient: ranges from −1 to +1, same direction/strength logic as Pearson's *r*.
 2. Check the **Sig. (2-tailed)** value for statistical significance.
 3. Apply the same strength benchmarks used for Pearson's *r*: around .10 small, .30 medium, .50 large (Cohen's conventions, commonly applied to rho as well).
 
@@ -45,6 +45,6 @@ If both variables are continuous, roughly normally distributed, and linearly rel
 
 ## Spearman's Rho vs Pearson Correlation: Understanding the Difference
 
-Pearson correlation measures the strength of a **linear** relationship between two continuous, normally distributed variables, using their raw values. Spearman's rho measures the strength of a **monotonic** relationship using ranked values, making no distributional assumption. Running Pearson on ordinal data, or on continuous data with a strong non-linear (but still monotonic) pattern, understates the true relationship — Spearman's rho is the test built for exactly that situation.
+Pearson correlation measures the strength of a **linear** relationship between two continuous, normally distributed variables, using their raw values. Spearman's rho measures the strength of a **monotonic** relationship using ranked values, making no distributional assumption. Running Pearson on ordinal data, or on continuous data with a strong non-linear (but still monotonic) pattern, understates the true relationship. Spearman's rho is the test built for exactly that situation.
 
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.
