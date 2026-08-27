@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://spssassignment.help',
+  site: 'https://www.spssassignment.help',
   vite: {
     plugins: [tailwindcss()]
   },
