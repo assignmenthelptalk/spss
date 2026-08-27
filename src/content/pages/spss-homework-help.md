@@ -29,10 +29,10 @@ If your task expands beyond one or two of these, it likely fits [SPSS coursework
 
 ## Why Speed Matters for Homework-Level Help
 
-Homework typically has the shortest deadline of any SPSS help category, sometimes due within a day or two. That timeline changes what's practical: a full analysis plan review isn't the point, getting the specific test run correctly, the assumption checked, and the result reported in your course's expected format is. Get [SPSS assignment help](/get-started/) with your homework problem directly.
+Homework typically has the shortest deadline of any SPSS help category, sometimes due within a day or two. That timeline changes what's practical: a full analysis plan review isn't the point, getting the specific test run correctly, the assumption checked, and the result reported in your course's expected format is. [Send us your homework problem](/get-started/) directly for a fast turnaround.
 
 ## How Homework-Level Statistics Differ From Full Assignments
 
 A homework problem asks you to demonstrate you can execute one procedure correctly. It doesn't require the full assumption-to-interpretation-to-write-up pipeline that a graded assignment or project does, though the individual steps (checking the right assumption, reading the right row of output) are identical to what you'd do at any other level. If you're building toward a larger project or paper, see the full [SPSS statistical test guide](/spss-statistical-tests-explained/) to make sure the habits you're forming now hold up at the next level.
 
-Not sure which test your homework problem needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get SPSS assignment help](/get-started/) directly.
+Not sure which test your homework problem needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [send us your problem for a homework quote](/get-started/) directly.

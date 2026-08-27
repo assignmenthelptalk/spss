@@ -46,4 +46,13 @@ If your two measurements come from independent groups rather than the same subje
 
 The regular chi-square test of independence compares categorical data across two **independent** groups. McNemar's test compares the **same subjects'** categorical responses measured twice. Using the standard chi-square test on paired data ignores the fact that the two measurements aren't independent of each other, which distorts the test statistic. McNemar's test is built specifically to handle that dependency by focusing only on cases that changed category.
 
+## Related Non-Parametric Tests
+
+If McNemar's test doesn't quite fit your data, one of these related non-parametric tests likely will:
+
+- [Mann-Whitney U Test](/mann-whitney-u-test-assignment-help/): for a continuous outcome across two independent groups
+- [Kruskal-Wallis H Test](/kruskal-wallis-test-assignment-help/): for a continuous outcome across three or more independent groups
+- [Wilcoxon Signed-Rank Test](/wilcoxon-signed-rank-test-assignment-help/): for two related continuous measurements instead of paired categorical data
+- [Spearman's Rank Correlation](/spearmans-rank-correlation-assignment-help/): for testing a relationship between two ordinal or non-normal variables
+
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

@@ -48,4 +48,13 @@ If your data reasonably meets ANOVA's assumptions, use one-way ANOVA instead. It
 
 Both compare three or more independent groups on one outcome. One-way ANOVA compares **means** and assumes normality and equal variances. Kruskal-Wallis compares **rank-based distributions** and makes neither assumption, at some cost in power when the data would have supported ANOVA. Running ANOVA on badly skewed or ordinal data across small groups is a common assignment error that Kruskal-Wallis avoids.
 
+## Related Non-Parametric Tests
+
+If Kruskal-Wallis doesn't quite fit your design, one of these related non-parametric tests likely will:
+
+- [Mann-Whitney U Test](/mann-whitney-u-test-assignment-help/): the two-group version of this same rank-based comparison
+- [Wilcoxon Signed-Rank Test](/wilcoxon-signed-rank-test-assignment-help/): for two related (not independent) measurements
+- [McNemar's Test](/mcnemars-test-assignment-help/): for paired binary or categorical data instead of a continuous outcome
+- [Spearman's Rank Correlation](/spearmans-rank-correlation-assignment-help/): for testing a relationship between two ordinal or non-normal variables, rather than a group difference
+
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

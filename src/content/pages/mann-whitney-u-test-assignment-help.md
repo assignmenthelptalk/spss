@@ -48,4 +48,13 @@ If your data reasonably meets the independent t-test's assumptions, use that tes
 
 Both compare two independent groups, but the independent t-test compares **means** and assumes normally distributed data; the Mann-Whitney U test compares **rank-based distributions** and makes no normality assumption. Running a t-test on badly non-normal data (especially with a small sample) risks an unreliable result. Mann-Whitney is the safer choice in that situation, at some cost in statistical power if the data actually was normal enough for the t-test.
 
+## Related Non-Parametric Tests
+
+If Mann-Whitney doesn't quite fit your design, one of these related non-parametric tests likely will:
+
+- [Kruskal-Wallis H Test](/kruskal-wallis-test-assignment-help/): the same rank-based logic extended to three or more independent groups
+- [Wilcoxon Signed-Rank Test](/wilcoxon-signed-rank-test-assignment-help/): for two related (not independent) measurements
+- [McNemar's Test](/mcnemars-test-assignment-help/): for paired binary or categorical data instead of a continuous outcome
+- [Spearman's Rank Correlation](/spearmans-rank-correlation-assignment-help/): for testing a relationship between two ordinal or non-normal variables, rather than a group difference
+
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

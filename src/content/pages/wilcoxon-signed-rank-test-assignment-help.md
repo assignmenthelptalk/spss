@@ -47,4 +47,13 @@ If your difference scores are reasonably normal, use the paired samples t-test i
 
 Both compare the same subjects measured twice. The paired t-test compares the **mean difference** and assumes it's normally distributed; the Wilcoxon test compares **ranked differences** and makes no such assumption. With a small sample and visibly skewed or ordinal difference scores, Wilcoxon is the safer default. The paired t-test's normality assumption is harder to defend with few observations.
 
+## Related Non-Parametric Tests
+
+If the Wilcoxon test doesn't quite fit your design, one of these related non-parametric tests likely will:
+
+- [Mann-Whitney U Test](/mann-whitney-u-test-assignment-help/): the independent-groups version of this same rank-based comparison
+- [Kruskal-Wallis H Test](/kruskal-wallis-test-assignment-help/): for three or more independent groups instead of two related measurements
+- [McNemar's Test](/mcnemars-test-assignment-help/): for paired binary or categorical data instead of a continuous outcome
+- [Spearman's Rank Correlation](/spearmans-rank-correlation-assignment-help/): for testing a relationship between two ordinal or non-normal variables, rather than a paired difference
+
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

@@ -48,4 +48,11 @@ If your goal is to identify underlying latent constructs (e.g. the traits behind
 
 PCA models the **total variance** in your variables and produces components that are mathematical combinations of the original items. It makes no claim about an underlying construct causing the correlations. EFA models only the **shared (common) variance** between variables, under the assumption that unobserved latent factors are producing the observed correlations. If your dissertation is validating a psychological scale's underlying structure, EFA is almost always the more defensible choice; if you're simply reducing many variables for a later regression, PCA is appropriate.
 
+## Related Multivariate Techniques
+
+If PCA doesn't quite fit your goal, one of these related multivariate techniques might:
+
+- [MANOVA](/manova-assignment-help/): testing group differences across multiple dependent variables
+- [Discriminant Analysis](/discriminant-analysis-assignment-help/): predicting group membership from continuous predictors
+
 Not sure which one your project needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

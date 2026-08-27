@@ -50,4 +50,11 @@ If your predictors are a mix of continuous and categorical, or your data doesn't
 
 Both predict categorical group membership from other variables, but discriminant analysis assumes multivariate normality and equal covariance matrices across groups, while logistic regression makes no such distributional assumptions and comfortably handles categorical predictors alongside continuous ones. In practice, logistic regression has become the more common default for binary and multi-category outcomes precisely because its assumptions are easier to meet. Discriminant analysis is chosen mainly when its specific classification-function output is what the assignment requires, or when a course specifically teaches it.
 
+## Related Multivariate Techniques
+
+If discriminant analysis doesn't quite fit your design, one of these related multivariate techniques might:
+
+- [MANOVA](/manova-assignment-help/): testing group differences across multiple dependent variables, effectively discriminant analysis's reverse
+- [Principal Component Analysis (PCA)](/principal-component-analysis-pca-assignment-help/): reducing multiple correlated predictors into fewer components first
+
 Not sure which one your assignment needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

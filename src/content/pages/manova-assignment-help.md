@@ -47,4 +47,11 @@ If you only have one dependent variable, use one-way (or two-way) ANOVA instead.
 
 One-way ANOVA tests one dependent variable at a time. MANOVA tests several dependent variables **together as a combined set**, which also controls the overall Type I error rate that would build up from running multiple separate ANOVAs. Running several one-way ANOVAs instead of one MANOVA when the outcomes are conceptually related inflates the risk of a false positive across the set of tests.
 
+## Related Multivariate Techniques
+
+If MANOVA doesn't quite fit your design, one of these related multivariate techniques might:
+
+- [Discriminant Analysis](/discriminant-analysis-assignment-help/): predicting group membership from continuous predictors, effectively MANOVA's reverse
+- [Principal Component Analysis (PCA)](/principal-component-analysis-pca-assignment-help/): reducing multiple correlated dependent variables into fewer components first
+
 Not sure which one your design needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.

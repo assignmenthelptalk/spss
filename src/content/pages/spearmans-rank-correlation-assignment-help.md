@@ -47,4 +47,13 @@ If both variables are continuous, roughly normally distributed, and linearly rel
 
 Pearson correlation measures the strength of a **linear** relationship between two continuous, normally distributed variables, using their raw values. Spearman's rho measures the strength of a **monotonic** relationship using ranked values, making no distributional assumption. Running Pearson on ordinal data, or on continuous data with a strong non-linear (but still monotonic) pattern, understates the true relationship. Spearman's rho is the test built for exactly that situation.
 
+## Related Non-Parametric Tests
+
+Spearman's rho isn't the only non-parametric option. These related tests cover group comparisons instead of a relationship between two variables:
+
+- [Mann-Whitney U Test](/mann-whitney-u-test-assignment-help/): comparing two independent groups on a non-normal or ordinal outcome
+- [Kruskal-Wallis H Test](/kruskal-wallis-test-assignment-help/): comparing three or more independent groups
+- [Wilcoxon Signed-Rank Test](/wilcoxon-signed-rank-test-assignment-help/): comparing two related measurements from the same subjects
+- [McNemar's Test](/mcnemars-test-assignment-help/): for paired binary or categorical data
+
 Not sure which one your data needs? See the full [SPSS statistical test guide](/spss-statistical-tests-explained/), or [get help](/get-started/) with this specific assignment.
