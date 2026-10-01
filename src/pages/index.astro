@@ -48,6 +48,47 @@ const subjectDomains = [
   { name: 'Social Science', href: '/spss-for-social-science-research/' },
   { name: 'Public Health', href: '/spss-for-public-health-epidemiology/' },
 ];
+
+const faqs = [
+  {
+    q: 'What does SPSS assignment help include?',
+    a: 'We help with every stage of an SPSS task: choosing the correct statistical test, checking its assumptions, running the analysis, interpreting the output, and reporting the results in the format your course or committee expects, typically APA.',
+  },
+  {
+    q: 'Which SPSS tests and analyses do you cover?',
+    a: 'We cover parametric tests (t-tests, ANOVA, ANCOVA, MANOVA), correlation and regression (including logistic regression, moderation, and mediation), non-parametric tests (Mann-Whitney U, Wilcoxon, Kruskal-Wallis, Friedman, chi-square), and advanced methods such as factor analysis, PCA, reliability analysis, cluster analysis, SEM in Amos, survival analysis, and power analysis.',
+  },
+  {
+    q: 'Can you help with a dissertation or thesis, not just assignments?',
+    a: 'Yes. We support Chapter 3 statistical analysis plans, Chapter 4 results, and Chapter 5 discussion for undergraduate, master’s, PhD, DNP, and EdD projects.',
+  },
+  {
+    q: 'I don’t know which statistical test I need. Can you help?',
+    a: 'Yes. Send us your research question and dataset and we will confirm the right test and its assumptions before any analysis starts. You can also use our statistical test guide to narrow it down yourself.',
+  },
+  {
+    q: 'What do I need to send you to get started?',
+    a: 'Your assignment instructions, your dataset (SPSS .sav, Excel, or CSV), and your deadline. Send them by WhatsApp or email and we will reply with the tests required, the turnaround time, and a final price.',
+  },
+  {
+    q: 'How much does SPSS help cost?',
+    a: 'Starting prices are $45 for homework help, $60 for assignment or coursework help, $75 for a project or report, and $150 per dissertation chapter. Exam help is quoted individually. The final price is confirmed with you before we begin.',
+  },
+  {
+    q: 'Do you help with SPSS exams?',
+    a: 'Yes, we offer SPSS exam help for statistics exam preparation and support. Timed practicals and take-home exams are priced by scope and turnaround.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((faq) => ({
+    '@type': 'Question',
+    name: faq.q,
+    acceptedAnswer: { '@type': 'Answer', text: faq.a },
+  })),
+};
 ---
 
 <Layout
@@ -246,6 +287,23 @@ const subjectDomains = [
         </li>
       ))}
     </ul>
+  </section>
+
+  <!-- FAQs -->
+  <section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8">
+    <h2 class="text-2xl font-bold text-slate-900">SPSS Assignment Help FAQs</h2>
+    <div class="mt-6 divide-y divide-slate-200 border-y border-slate-200">
+      {faqs.map((faq) => (
+        <details class="group py-4">
+          <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-slate-900">
+            {faq.q}
+            <span class="text-blue-600 transition-transform group-open:rotate-45" aria-hidden="true">+</span>
+          </summary>
+          <p class="mt-3 text-slate-600">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   </section>
 
   <!-- Final CTA -->
