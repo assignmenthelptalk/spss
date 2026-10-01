@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the SPSS Syntax Editor and Why Use It?
 
-Every analysis you run through SPSS's point-and-click menus can also be run as a short block of text commands, called syntax. Most students never touch it, since the menus work fine for a single test. Syntax becomes worth learning once you're running the same set of procedures repeatedly, need your analysis to be exactly reproducible, or are working with a dataset large or complex enough that re-clicking through menus each time becomes a real cost.
+Every analysis you run through SPSS's point-and-click menus can also be run as a short block of text commands, called syntax. Most students never touch it, since the menus work fine for a single test. Syntax becomes worth learning once you're running the same set of procedures repeatedly, need your analysis to be exactly reproducible, or are working with a dataset large or complex enough that re-clicking through menus each time becomes a real cost. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Generating Syntax from Menu Selections With Paste
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Hierarchical Regression and When Do You Use It?
 
-Hierarchical (sequential) regression enters predictors into a multiple regression model in theory-driven **blocks**, so you can test how much additional variance each block explains over and above the block(s) already entered: for example, entering demographic controls in Block 1, then a psychological predictor of interest in Block 2, to see whether it explains variance beyond demographics alone. Use it when your research question is specifically about *incremental* explanatory power, not just the final model's overall fit.
+Hierarchical (sequential) regression enters predictors into a multiple regression model in theory-driven **blocks**, so you can test how much additional variance each block explains over and above the block(s) already entered: for example, entering demographic controls in Block 1, then a psychological predictor of interest in Block 2, to see whether it explains variance beyond demographics alone. Use it when your research question is specifically about *incremental* explanatory power, not just the final model's overall fit. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you just want to test all predictors together with no theoretical entry order, standard (simultaneous) multiple regression is simpler and more appropriate.
 

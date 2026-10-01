@@ -16,7 +16,7 @@ draft: false
 
 ## Why APA-Formatted SPSS Reporting Matters
 
-SPSS output tables aren't written for a reader. They're written for you, the analyst. Turning them into an APA-formatted report is a translation step, and it's one most courses and committees grade almost as closely as the analysis itself. A statistically correct test with a badly reported result loses marks just as reliably as the reverse.
+SPSS output tables aren't written for a reader. They're written for you, the analyst. Turning them into an APA-formatted report is a translation step, and it's one most courses and committees grade almost as closely as the analysis itself. A statistically correct test with a badly reported result loses marks just as reliably as the reverse. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 This page covers the general rules that apply across every test. For the exact reporting sentence for your specific test, see the "How to Report the Results in APA Format" section on that test's own page. Start from the [SPSS statistical test guide](/spss-statistical-tests-explained/) if you're not sure which one you need.
 

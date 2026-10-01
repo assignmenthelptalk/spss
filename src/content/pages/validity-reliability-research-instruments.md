@@ -16,7 +16,7 @@ draft: false
 
 ## The Three Types of Validity: Content, Construct, and Criterion
 
-Validity asks whether your instrument measures what it claims to measure, and it comes in several distinct forms:
+Validity asks whether your instrument measures what it claims to measure, and, as [SPSSassignment.help](/) sees in student work, it comes in several distinct forms:
 
 - **Content validity**: whether the instrument's items adequately cover the full concept being measured, typically judged by expert review rather than statistically.
 - **Construct validity**: whether the instrument actually measures the underlying theoretical construct it's meant to, commonly evaluated with factor analysis, which shows whether items group together the way theory predicts.

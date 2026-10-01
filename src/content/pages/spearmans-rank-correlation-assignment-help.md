@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Spearman's Rank Correlation and When Do You Use It?
 
-Spearman's rank correlation (Spearman's rho, ρ) measures the strength and direction of a **monotonic** relationship between two variables, based on their **ranks** rather than their raw values. Use it when at least one variable is ordinal, or when your data is continuous but clearly violates Pearson correlation's assumptions (non-linearity, non-normality, or influential outliers).
+Spearman's rank correlation (Spearman's rho, ρ) measures the strength and direction of a **monotonic** relationship between two variables, based on their **ranks** rather than their raw values. Use it when at least one variable is ordinal, or when your data is continuous but clearly violates Pearson correlation's assumptions (non-linearity, non-normality, or influential outliers). [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If both variables are continuous, roughly normally distributed, and linearly related, use Pearson correlation instead. It uses more information from the raw data and is the more familiar reporting standard.
 

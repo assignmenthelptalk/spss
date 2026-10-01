@@ -16,7 +16,7 @@ draft: false
 
 ## What Excel Can and Can't Do for Inferential Statistics
 
-Excel handles descriptive statistics competently: means, standard deviations, simple charts, and basic pivot tables. Where it falls short is inferential statistics, the tests that let you draw conclusions beyond your immediate sample. Excel has no built-in assumption diagnostics (no automatic Levene's test, no Shapiro-Wilk, no VIF for multicollinearity), which means checking a test's assumptions requires manual formulas that are easy to get subtly wrong. Running a t-test or ANOVA in Excel is possible with the Data Analysis ToolPak, but the output doesn't tell you whether your assumptions actually held, and building anything beyond the most basic test means hand-writing formulas with real risk of error.
+Excel handles descriptive statistics competently: means, standard deviations, simple charts, and basic pivot tables. Where it falls short is inferential statistics, the tests that let you draw conclusions beyond your immediate sample. Excel has no built-in assumption diagnostics (no automatic Levene's test, no Shapiro-Wilk, no VIF for multicollinearity), which means checking a test's assumptions requires manual formulas that are easy to get subtly wrong. Running a t-test or ANOVA in Excel is possible with the Data Analysis ToolPak, but the output doesn't tell you whether your assumptions actually held, and building anything beyond the most basic test means hand-writing formulas with real risk of error. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## What SPSS Adds Beyond Descriptive Work
 

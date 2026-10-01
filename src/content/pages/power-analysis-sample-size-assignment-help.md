@@ -16,7 +16,7 @@ draft: false
 
 ## What Does Power Analysis Actually Determine?
 
-Power analysis determines the sample size you need to detect a real effect, if one exists, at an acceptable level of confidence. Skip it, and you risk an underpowered study, one that fails to detect a genuine effect simply because the sample was too small, a Type II error your committee will ask about directly.
+Power analysis determines the sample size you need to detect a real effect, if one exists, at an acceptable level of confidence. Skip it, and you risk an underpowered study, one that fails to detect a genuine effect simply because the sample was too small, a Type II error your committee will ask about directly. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Four Parameters That Determine Your Sample Size
 

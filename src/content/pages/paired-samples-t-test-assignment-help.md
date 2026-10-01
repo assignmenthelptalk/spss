@@ -15,7 +15,7 @@ draft: false
 
 ## What Is the Paired Samples T-Test and When Do You Use It?
 
-The paired samples t-test compares two related measurements from the same subjects: a pre-test and post-test score, or two matched-pair observations. Use it when the same people (or matched pairs) are measured twice on a continuous variable, and you want to know whether the average difference between the two measurements is statistically significant.
+The paired samples t-test compares two related measurements from the same subjects: a pre-test and post-test score, or two matched-pair observations. Use it when the same people (or matched pairs) are measured twice on a continuous variable, and you want to know whether the average difference between the two measurements is statistically significant. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're comparing two *different* groups of people instead of the same people twice, you need the independent samples t-test instead.
 

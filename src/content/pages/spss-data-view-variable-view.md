@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the Difference Between Data View and Variable View?
 
-SPSS's data editor has two tabs that do fundamentally different jobs. **Data View** is a spreadsheet: each row is a case (a participant, a respondent, an observation), and each column is a variable. **Variable View** is where you define what each of those columns actually means: its name, type, and how SPSS should treat it statistically. You enter data in Data View, but you set it up correctly in Variable View, and the second step is the one students skip.
+SPSS's data editor has two tabs that do fundamentally different jobs. **Data View** is a spreadsheet: each row is a case (a participant, a respondent, an observation), and each column is a variable. **Variable View** is where you define what each of those columns actually means: its name, type, and how SPSS should treat it statistically. You enter data in Data View, but you set it up correctly in Variable View, and the second step is the one students skip. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Setting Up Variable View Correctly
 

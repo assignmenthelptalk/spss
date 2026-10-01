@@ -16,7 +16,7 @@ draft: false
 
 ## What Chapter 5 Is For (and the One Rule That Matters Most)
 
-Chapter 5 interprets findings already reported in [Chapter 4](/dissertation-chapter-4-results-help/): it introduces zero new statistics. If a specific number, a *p*-value, an *F*-statistic, hasn't already appeared in Chapter 4, it does not belong here.
+Chapter 5 interprets findings already reported in [Chapter 4](/dissertation-chapter-4-results-help/): it introduces zero new statistics. If a specific number, a *p*-value, an *F*-statistic, hasn't already appeared in Chapter 4, it does not belong here. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Standard Chapter 5 Structure
 

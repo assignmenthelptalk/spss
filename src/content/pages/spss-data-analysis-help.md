@@ -17,7 +17,7 @@ draft: false
 
 ## What Is Included in SPSS Data Analysis Help?
 
-SPSS assignment help usually means one test, answered correctly. SPSS data analysis help is broader. It's for when you have a whole dataset and a research project, capstone, or professional report built on top of it, not a single graded question.
+SPSS assignment help usually means one test, answered correctly. SPSS data analysis help is broader. It's for when you have a whole dataset and a research project, capstone, or professional report built on top of it, not a single graded question. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 That typically includes:
 

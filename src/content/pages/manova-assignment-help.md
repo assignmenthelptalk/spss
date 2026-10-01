@@ -16,7 +16,7 @@ draft: false
 
 ## What Is MANOVA and When Do You Use It?
 
-MANOVA (Multivariate Analysis of Variance) compares group means across **two or more dependent variables simultaneously**, rather than testing each one separately. For example, comparing three teaching methods on both test scores *and* engagement ratings at once, rather than running two separate ANOVAs. Use it when you have one or more categorical independent variables and multiple, related continuous dependent variables that make more sense analysed together than in isolation.
+MANOVA (Multivariate Analysis of Variance) compares group means across **two or more dependent variables simultaneously**, rather than testing each one separately. For example, comparing three teaching methods on both test scores *and* engagement ratings at once, rather than running two separate ANOVAs. Use it when you have one or more categorical independent variables and multiple, related continuous dependent variables that make more sense analysed together than in isolation. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you only have one dependent variable, use one-way (or two-way) ANOVA instead. Running MANOVA with a single outcome adds unnecessary complexity for no benefit.
 

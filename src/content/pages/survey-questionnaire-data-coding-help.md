@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Survey and Questionnaire Data Coding?
 
-Before any analysis can run, raw responses collected from Qualtrics, Google Forms, SurveyMonkey, or a paper survey have to become a properly structured SPSS dataset: with correctly named and labelled variables, numerically coded responses, and missing data handled deliberately rather than left to chance. This step happens before a single test is run, and mistakes made here quietly propagate into every result that follows.
+Before any analysis can run, raw responses collected from Qualtrics, Google Forms, SurveyMonkey, or a paper survey have to become a properly structured SPSS dataset: with correctly named and labelled variables, numerically coded responses, and missing data handled deliberately rather than left to chance. This step happens before a single test is run, and mistakes made here quietly propagate into every result that follows. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Setting Up Variables in SPSS Before You Import
 

@@ -16,7 +16,7 @@ draft: false
 
 ## A Practical Self-Study Path: Interface, Descriptives, Then Inferential Tests
 
-Trying to learn everything at once is the most common way students get overwhelmed by SPSS. A more workable order:
+Trying to learn everything at once is the most common way students get overwhelmed by SPSS. [SPSSassignment.help](/) supports students with exactly this, every day. A more workable order:
 
 1. **Interface familiarisation first.** Learn Data View vs Variable View, how to enter and label data, and what the Measure setting actually controls, before running a single test.
 2. **Descriptive statistics second.** Means, frequencies, and basic charts (Analyze > Descriptive Statistics) build comfort with the menu system and the Output Viewer without the added complexity of assumptions or hypothesis testing.

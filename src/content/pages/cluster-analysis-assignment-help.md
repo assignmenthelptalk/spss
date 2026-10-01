@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Cluster Analysis and When Do You Use It?
 
-Cluster analysis groups cases (not variables) into clusters based on similarity across a set of variables, with no pre-existing group labels. It's an exploratory technique for discovering natural groupings in your data, such as customer segments or patient subtypes. SPSS offers two main approaches: **hierarchical clustering**, which builds a tree of nested groupings without requiring you to specify the number of clusters in advance, and **K-means clustering**, which requires you to specify the number of clusters upfront and assigns cases directly to that many groups.
+Cluster analysis groups cases (not variables) into clusters based on similarity across a set of variables, with no pre-existing group labels. It's an exploratory technique for discovering natural groupings in your data, such as customer segments or patient subtypes. SPSS offers two main approaches: **hierarchical clustering**, which builds a tree of nested groupings without requiring you to specify the number of clusters in advance, and **K-means clustering**, which requires you to specify the number of clusters upfront and assigns cases directly to that many groups. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you already know the groups (e.g. a treatment/control variable) and want to compare them, you need a group-comparison test like ANOVA or MANOVA instead. Cluster analysis is for when the groups don't yet exist in your data.
 

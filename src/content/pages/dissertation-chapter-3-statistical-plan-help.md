@@ -17,7 +17,7 @@ draft: false
 
 ## What Belongs in a Chapter 3 Statistical Analysis Plan?
 
-Chapter 3 is written *before* you collect data, and its statistical section has one job: convince your committee that you know exactly what you'll do with the data once you have it. That means naming the specific test for each research question, not describing your topic again, and not deferring the decision with "the data will be analysed using SPSS."
+Chapter 3 is written *before* you collect data, and its statistical section has one job: convince your committee that you know exactly what you'll do with the data once you have it. That means naming the specific test for each research question, not describing your topic again, and not deferring the decision with "the data will be analysed using SPSS." [SPSSassignment.help](/) supports students with exactly this, every day.
 
 A complete statistical plan specifies:
 

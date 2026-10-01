@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Discriminant Analysis and When Do You Use It?
 
-Discriminant analysis predicts membership in a **categorical group** from a set of continuous predictor variables. Similar in purpose to logistic regression, but built on a different set of statistical assumptions. Use it when you want to predict group membership from continuous predictors and your data reasonably meets discriminant analysis's stricter distributional requirements, or when you specifically need the discriminant function coefficients it produces for classification.
+Discriminant analysis predicts membership in a **categorical group** from a set of continuous predictor variables. Similar in purpose to logistic regression, but built on a different set of statistical assumptions. Use it when you want to predict group membership from continuous predictors and your data reasonably meets discriminant analysis's stricter distributional requirements, or when you specifically need the discriminant function coefficients it produces for classification. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your predictors are a mix of continuous and categorical, or your data doesn't meet the normality/equal-covariance assumptions below, logistic regression is usually the more robust and more commonly accepted choice.
 

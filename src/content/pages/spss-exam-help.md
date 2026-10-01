@@ -16,7 +16,7 @@ draft: false
 
 ## What Do SPSS Statistics Exams Actually Test?
 
-SPSS statistics exams rarely test whether you can click through a menu. They test whether you can do, under time pressure, what a full assignment gives you time to think through: recognise the right test from a research scenario, run it, and interpret the output correctly. That usually means:
+SPSS statistics exams rarely test whether you can click through a menu. They test whether you can do, under time pressure, what a full assignment gives you time to think through: recognise the right test from a research scenario, run it, and interpret the output correctly. [SPSSassignment.help](/) supports students with exactly this, every day. That usually means:
 
 - Reading a scenario or dataset and identifying which test applies
 - Checking (or at least stating) the relevant assumptions

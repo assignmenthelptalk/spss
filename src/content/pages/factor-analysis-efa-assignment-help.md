@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Exploratory Factor Analysis and When Do You Use It?
 
-Exploratory factor analysis (EFA) identifies the underlying latent factors behind a set of observed variables, typically items on a questionnaire. It usually comes **before** [reliability analysis](/reliability-analysis-cronbachs-alpha-assignment-help/) in a scale-validation workflow: EFA establishes which items belong together, then reliability analysis tests how consistently each group of items measures its factor.
+Exploratory factor analysis (EFA) identifies the underlying latent factors behind a set of observed variables, typically items on a questionnaire. It usually comes **before** [reliability analysis](/reliability-analysis-cronbachs-alpha-assignment-help/) in a scale-validation workflow: EFA establishes which items belong together, then reliability analysis tests how consistently each group of items measures its factor. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Assumptions You Must Check Before Running It in SPSS
 

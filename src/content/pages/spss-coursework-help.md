@@ -16,7 +16,7 @@ draft: false
 
 ## What Counts as SPSS Coursework?
 
-SPSS coursework sits between a single homework problem and a full data-analysis project: a graded assignment combining several tests, usually on a dataset your instructor provides, with a written interpretation component marked against a rubric. Where [homework help](/spss-homework-help/) is one test answered quickly, coursework is several tests woven into one coherent piece of written work.
+SPSS coursework sits between a single homework problem and a full data-analysis project: a graded assignment combining several tests, usually on a dataset your instructor provides, with a written interpretation component marked against a rubric. Where [homework help](/spss-homework-help/) is one test answered quickly, coursework is several tests woven into one coherent piece of written work. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## What a Typical SPSS Coursework Assignment Looks Like
 

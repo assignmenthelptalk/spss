@@ -16,7 +16,7 @@ draft: false
 
 ## Recode into Different Variables vs Recode into Same Variables
 
-SPSS gives you two recode options under **Transform**, and only one of them is safe by default. **Recode into Different Variables** creates a new column and leaves your original data untouched. **Recode into Same Variables** overwrites the original column permanently, with no built-in undo once you've saved. Use "Into Different Variables" as your default; only use "Into Same Variables" when you're certain you'll never need the raw values again.
+SPSS gives you two recode options under **Transform**, and only one of them is safe by default. **Recode into Different Variables** creates a new column and leaves your original data untouched. **Recode into Same Variables** overwrites the original column permanently, with no built-in undo once you've saved. Use "Into Different Variables" as your default; only use "Into Same Variables" when you're certain you'll never need the raw values again. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Using Compute Variable to Build Composite Scores
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Counts as an SPSS Project or Report?
 
-An SPSS project or report is a standalone piece of research or a capstone-style deliverable, built on a student-collected or provided dataset, that runs the full analysis-to-report workflow but sits outside a formal dissertation structure. It's shorter and less formal than a dissertation chapter, but broader in scope than either [homework](/spss-homework-help/) or [coursework](/spss-coursework-help/): the deliverable is a complete report with embedded tables and figures, not a single test or a rubric-marked assignment.
+An SPSS project or report is a standalone piece of research or a capstone-style deliverable, built on a student-collected or provided dataset, that runs the full analysis-to-report workflow but sits outside a formal dissertation structure. It's shorter and less formal than a dissertation chapter, but broader in scope than either [homework](/spss-homework-help/) or [coursework](/spss-coursework-help/): the deliverable is a complete report with embedded tables and figures, not a single test or a rubric-marked assignment. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## What a Typical SPSS Project Includes
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Does Undergraduate SPSS Help Typically Involve?
 
-Undergraduate SPSS work is usually narrower in scope than graduate research: a single test applied to a provided dataset, a problem set covering a handful of related procedures, or a lab report built around one or two analyses. The statistics themselves are often introductory: descriptive statistics, t-tests, correlation, basic ANOVA, chi-square, but the assignment still expects you to select the right test, run it correctly, and interpret the output properly, not just produce a number.
+Undergraduate SPSS work is usually narrower in scope than graduate research: a single test applied to a provided dataset, a problem set covering a handful of related procedures, or a lab report built around one or two analyses. The statistics themselves are often introductory: descriptive statistics, t-tests, correlation, basic ANOVA, chi-square, but the assignment still expects you to select the right test, run it correctly, and interpret the output properly, not just produce a number. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your task is a full dataset with several research questions, or a chapter-length piece of work, see [SPSS data analysis help](/spss-data-analysis-help/) instead. That's a broader scope than most undergraduate assignments require.
 

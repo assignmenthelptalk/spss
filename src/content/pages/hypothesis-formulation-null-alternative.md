@@ -16,7 +16,7 @@ draft: false
 
 ## Null (H0) vs Alternative (H1): What Each Actually Claims
 
-Every statistical test evaluates two competing statements. The **null hypothesis (H0)** claims there's no effect, no difference, or no relationship, whatever the "boring" outcome would be. The **alternative hypothesis (H1)** claims there is one. A test doesn't prove H1 true; it either provides enough evidence to reject H0, or it doesn't. This distinction matters because a non-significant result never lets you "accept" the null; it only means you failed to find enough evidence to reject it.
+Every statistical test evaluates two competing statements. The **null hypothesis (H0)** claims there's no effect, no difference, or no relationship, whatever the "boring" outcome would be. The **alternative hypothesis (H1)** claims there is one. A test doesn't prove H1 true; it either provides enough evidence to reject H0, or it doesn't. This distinction matters because a non-significant result never lets you "accept" the null; it only means you failed to find enough evidence to reject it. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Directional vs Non-Directional Hypotheses
 

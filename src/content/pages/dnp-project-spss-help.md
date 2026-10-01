@@ -16,7 +16,7 @@ draft: false
 
 ## What Is a DNP Scholarly Project, Statistically?
 
-A Doctor of Nursing Practice (DNP) scholarly project is fundamentally different from a PhD dissertation, even though both are doctoral-level work: a DNP project demonstrates a **practice improvement** (implementing and evaluating a change in clinical practice) rather than producing an original theoretical contribution to a field. That distinction shapes the statistics directly. DNP projects usually analyse **pre/post intervention data** or **quality-improvement metrics** from a specific practice site, not a large research sample built to test a general theory.
+A Doctor of Nursing Practice (DNP) scholarly project is fundamentally different from a PhD dissertation, even though both are doctoral-level work: a DNP project demonstrates a **practice improvement** (implementing and evaluating a change in clinical practice) rather than producing an original theoretical contribution to a field. That distinction shapes the statistics directly. DNP projects usually analyse **pre/post intervention data** or **quality-improvement metrics** from a specific practice site, not a large research sample built to test a general theory. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 For subject-specific test guidance beyond this page, see [SPSS for nursing and healthcare research](/spss-for-nursing-healthcare-research/).
 

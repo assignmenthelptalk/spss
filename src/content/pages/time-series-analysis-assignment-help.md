@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Time Series Analysis and When Do You Use It?
 
-Time series analysis models and forecasts data collected **sequentially over time** (monthly sales, daily temperatures, quarterly economic indicators) where the order of observations matters and past values help predict future ones. Use it when your assignment asks you to model a trend, seasonal pattern, or forecast future values from historical, sequentially ordered data.
+Time series analysis models and forecasts data collected **sequentially over time** (monthly sales, daily temperatures, quarterly economic indicators) where the order of observations matters and past values help predict future ones. Use it when your assignment asks you to model a trend, seasonal pattern, or forecast future values from historical, sequentially ordered data. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your data isn't inherently ordered over time, or you're comparing groups rather than forecasting, a different test family (ANOVA, regression) is the right tool instead.
 

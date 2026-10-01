@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the Wilcoxon Signed-Rank Test and When Do You Use It?
 
-The Wilcoxon signed-rank test is the non-parametric alternative to the paired samples t-test. It compares two related measurements from the same subjects (a pre/post design or matched pairs) using **ranked differences** rather than assuming those differences are normally distributed. Use it when your paired-difference scores are ordinal, or clearly violate the paired t-test's normality assumption.
+The Wilcoxon signed-rank test is the non-parametric alternative to the paired samples t-test. It compares two related measurements from the same subjects (a pre/post design or matched pairs) using **ranked differences** rather than assuming those differences are normally distributed. Use it when your paired-difference scores are ordinal, or clearly violate the paired t-test's normality assumption. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your difference scores are reasonably normal, use the paired samples t-test instead. It has more power when its assumption holds.
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the Mann-Whitney U Test and When Do You Use It?
 
-The Mann-Whitney U test is the non-parametric alternative to the independent samples t-test. It compares two independent groups on an outcome, but instead of comparing means it compares the **rank distributions** of the two groups. Use it when your outcome is ordinal, or when it's continuous but clearly violates the t-test's normality assumption (especially with small samples where that violation can't be assumed away).
+The Mann-Whitney U test is the non-parametric alternative to the independent samples t-test. It compares two independent groups on an outcome, but instead of comparing means it compares the **rank distributions** of the two groups. Use it when your outcome is ordinal, or when it's continuous but clearly violates the t-test's normality assumption (especially with small samples where that violation can't be assumed away). [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your data reasonably meets the independent t-test's assumptions, use that test instead. It has more statistical power when its assumptions hold.
 

@@ -14,7 +14,7 @@ publishOrder: 58
 draft: false
 ---
 
-Business and management research leans on employee surveys, customer satisfaction studies, and organisational behaviour research more than most other fields. If you're doing SPSS work for a business assignment, MBA capstone, or management dissertation, chances are it falls into one of these three.
+Business and management research leans on employee surveys, customer satisfaction studies, and organisational behaviour research more than most other fields. If you're doing SPSS work for a business assignment, MBA capstone, or management dissertation, chances are it falls into one of these three. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Research Designs That Shape Business Statistics
 

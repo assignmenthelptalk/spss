@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Binary Logistic Regression and When Do You Use It?
 
-Binary logistic regression predicts a two-category outcome (pass/fail, yes/no, disease/no disease) from one or more predictors. Use it whenever your outcome has exactly two categories; [linear regression](/multiple-linear-regression-assignment-help/) requires a continuous outcome and isn't valid here.
+Binary logistic regression predicts a two-category outcome (pass/fail, yes/no, disease/no disease) from one or more predictors. Use it whenever your outcome has exactly two categories; [linear regression](/multiple-linear-regression-assignment-help/) requires a continuous outcome and isn't valid here. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Assumptions You Must Check Before Running It in SPSS
 

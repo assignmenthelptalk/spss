@@ -16,7 +16,7 @@ draft: false
 
 ## Probability Sampling: Simple Random, Stratified, and Cluster
 
-Probability sampling means every member of the population has a known, non-zero chance of being selected, which is what allows you to generalise your results back to that population with a defensible confidence level.
+Probability sampling means every member of the population has a known, non-zero chance of being selected, which is what allows you to generalise your results back to that population with a defensible confidence level. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 - **Simple random sampling**: every individual has an equal chance of selection, drawn from a complete list of the population.
 - **Stratified sampling**: the population is divided into subgroups (strata) first, then randomly sampled within each, ensuring smaller subgroups aren't missed by chance.

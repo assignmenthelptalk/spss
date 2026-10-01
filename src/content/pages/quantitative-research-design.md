@@ -16,7 +16,7 @@ draft: false
 
 ## The Four Main Quantitative Design Types
 
-Before you can name a statistical test, you need to know what kind of design your study actually is:
+Before you can name a statistical test, you need to know what kind of design your study actually is, which [SPSSassignment.help](/) checks first on every project:
 
 - **Experimental**: participants are randomly assigned to conditions, and a variable is deliberately manipulated. This is the only design type that supports strong causal claims.
 - **Quasi-experimental**: groups are compared, but without random assignment, common in education, organisational, and applied research where randomly assigning people isn't practical or ethical.

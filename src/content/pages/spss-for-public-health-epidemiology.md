@@ -14,7 +14,7 @@ publishOrder: 61
 draft: false
 ---
 
-Public health and epidemiological research leans on cohort and case-control studies, and health survey data, more than most other fields. If you're doing SPSS work for a public health assignment, MPH thesis, or epidemiology project, chances are it falls into one of these designs.
+Public health and epidemiological research leans on cohort and case-control studies, and health survey data, more than most other fields. If you're doing SPSS work for a public health assignment, MPH thesis, or epidemiology project, chances are it falls into one of these designs. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Research Designs That Shape Public Health Statistics
 

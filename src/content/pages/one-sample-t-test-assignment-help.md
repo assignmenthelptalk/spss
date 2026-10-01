@@ -15,7 +15,7 @@ draft: false
 
 ## What Is the One-Sample T-Test and When Do You Use It?
 
-The one-sample t-test compares the mean of a single continuous variable against a known or hypothesised value: for example, testing whether a class's average exam score differs from the national average of 70, or whether a sample's mean satisfaction rating differs from the scale's neutral midpoint. Use it when you have one continuous dependent variable and a single, specific comparison value that doesn't come from your data.
+The one-sample t-test compares the mean of a single continuous variable against a known or hypothesised value: for example, testing whether a class's average exam score differs from the national average of 70, or whether a sample's mean satisfaction rating differs from the scale's neutral midpoint. Use it when you have one continuous dependent variable and a single, specific comparison value that doesn't come from your data. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're comparing two groups from your own data instead of a fixed external value, you need the independent or paired samples t-test instead.
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Is ANCOVA and When Do You Use It?
 
-ANCOVA (Analysis of Covariance) compares group means on a continuous outcome while statistically controlling for the effect of one or more continuous covariates: a variable that could otherwise explain some of the group difference. For example, comparing test scores across three teaching methods while controlling for students' prior GPA, so the group comparison isn't confounded by pre-existing ability differences. Use it when you have a categorical independent variable, a continuous dependent variable, and at least one continuous covariate you want to control for.
+ANCOVA (Analysis of Covariance) compares group means on a continuous outcome while statistically controlling for the effect of one or more continuous covariates: a variable that could otherwise explain some of the group difference. For example, comparing test scores across three teaching methods while controlling for students' prior GPA, so the group comparison isn't confounded by pre-existing ability differences. Use it when you have a categorical independent variable, a continuous dependent variable, and at least one continuous covariate you want to control for. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you have no covariate to control for, use plain one-way ANOVA instead.
 

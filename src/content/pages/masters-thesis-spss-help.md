@@ -16,7 +16,7 @@ draft: false
 
 ## What Does a Master's Thesis Need Statistically?
 
-A master's thesis sits between undergraduate coursework and a doctoral dissertation: it requires the same full chapter structure (analysis plan, results, discussion) as a PhD dissertation, but typically at a lower ceiling of statistical complexity. Most master's theses are built around one or a small number of well-chosen tests (t-tests, ANOVA, correlation, multiple regression) applied rigorously, rather than the more elaborate multivariate methods often expected at the doctoral level.
+A master's thesis sits between undergraduate coursework and a doctoral dissertation: it requires the same full chapter structure (analysis plan, results, discussion) as a PhD dissertation, but typically at a lower ceiling of statistical complexity. Most master's theses are built around one or a small number of well-chosen tests (t-tests, ANOVA, correlation, multiple regression) applied rigorously, rather than the more elaborate multivariate methods often expected at the doctoral level. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 For the shared chapter structure both master's and doctoral statistics work follow, see the full [SPSS dissertation and thesis statistics help](/spss-dissertation-thesis-statistics-help/) guide.
 

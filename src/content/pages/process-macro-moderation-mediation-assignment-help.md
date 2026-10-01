@@ -20,7 +20,7 @@ draft: false
 
 ## How to Install the PROCESS Macro in SPSS
 
-PROCESS is a free SPSS add-on written by Andrew F. Hayes. It is **not** built into base SPSS, which surprises most students the first time they look for it in the Analyze menu.
+PROCESS is a free SPSS add-on written by Andrew F. Hayes. It is **not** built into base SPSS, which surprises most students the first time they look for it in the Analyze menu. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 1. Download PROCESS from processmacro.org.
 2. Install it via **Extensions > Utilities > Install Custom Dialog** (or the Extension Hub, depending on your SPSS version), selecting the downloaded `.spd` file.

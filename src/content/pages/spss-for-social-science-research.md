@@ -14,7 +14,7 @@ publishOrder: 60
 draft: false
 ---
 
-Social science research (sociology, political science, and public policy) leans on large-scale survey data and secondary analysis of public datasets more than most other fields. If you're doing SPSS work for a social science assignment, thesis, or policy research project, chances are it involves one of these approaches.
+Social science research (sociology, political science, and public policy) leans on large-scale survey data and secondary analysis of public datasets more than most other fields. If you're doing SPSS work for a social science assignment, thesis, or policy research project, chances are it involves one of these approaches. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Research Designs That Shape Social Science Statistics
 

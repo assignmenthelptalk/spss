@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the Kruskal-Wallis H Test and When Do You Use It?
 
-The Kruskal-Wallis H test is the non-parametric alternative to one-way ANOVA. It compares three or more **independent** groups on an outcome using ranked data rather than means, so it doesn't require the normality or homogeneity-of-variance assumptions ANOVA depends on. Use it when you have three or more independent groups and an ordinal outcome, or a continuous outcome that clearly violates ANOVA's assumptions.
+The Kruskal-Wallis H test is the non-parametric alternative to one-way ANOVA. It compares three or more **independent** groups on an outcome using ranked data rather than means, so it doesn't require the normality or homogeneity-of-variance assumptions ANOVA depends on. Use it when you have three or more independent groups and an ordinal outcome, or a continuous outcome that clearly violates ANOVA's assumptions. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your data reasonably meets ANOVA's assumptions, use one-way ANOVA instead. It's more powerful when those assumptions hold.
 

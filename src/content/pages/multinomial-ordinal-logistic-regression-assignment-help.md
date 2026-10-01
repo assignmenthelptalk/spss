@@ -16,7 +16,7 @@ draft: false
 
 ## What Are Multinomial and Ordinal Logistic Regression, and When Do You Use Them?
 
-Both extend binary logistic regression to outcomes with **three or more categories**. Use **multinomial logistic regression** when those categories have no natural order (e.g. choice of major: Psychology, Business, Engineering). Use **ordinal logistic regression** when the categories have a meaningful order (e.g. satisfaction: Low, Medium, High). Both predict category membership from one or more continuous or categorical predictors.
+Both extend binary logistic regression to outcomes with **three or more categories**. Use **multinomial logistic regression** when those categories have no natural order (e.g. choice of major: Psychology, Business, Engineering). Use **ordinal logistic regression** when the categories have a meaningful order (e.g. satisfaction: Low, Medium, High). Both predict category membership from one or more continuous or categorical predictors. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your outcome has exactly two categories, use binary logistic regression instead. It's simpler and more directly interpretable.
 

@@ -16,7 +16,7 @@ draft: false
 
 ## What Is PCA and When Do You Use It?
 
-Principal Component Analysis reduces a large set of correlated variables into a smaller number of uncorrelated **components**, each capturing as much of the total variance in the original variables as possible. Use it when your goal is pure **data reduction**: condensing many variables into fewer composite scores for further analysis, without assuming an underlying latent construct is causing the correlations.
+Principal Component Analysis reduces a large set of correlated variables into a smaller number of uncorrelated **components**, each capturing as much of the total variance in the original variables as possible. Use it when your goal is pure **data reduction**: condensing many variables into fewer composite scores for further analysis, without assuming an underlying latent construct is causing the correlations. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your goal is to identify underlying latent constructs (e.g. the traits behind a psychological scale), use factor analysis (EFA) instead. The two procedures share an SPSS menu but answer different questions.
 

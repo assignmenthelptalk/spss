@@ -17,7 +17,7 @@ draft: false
 
 ## What Is Simple Linear Regression and When Do You Use It?
 
-Simple linear regression predicts one continuous outcome from one predictor variable. Where [Pearson correlation](/pearson-correlation-assignment-help/) describes *whether* two variables relate, regression goes further: it produces an equation that predicts the outcome and tells you how much it changes per unit of the predictor.
+Simple linear regression predicts one continuous outcome from one predictor variable. Where [Pearson correlation](/pearson-correlation-assignment-help/) describes *whether* two variables relate, regression goes further: it produces an equation that predicts the outcome and tells you how much it changes per unit of the predictor. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Assumptions You Must Check Before Running It in SPSS
 

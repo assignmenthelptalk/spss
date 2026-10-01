@@ -14,7 +14,7 @@ publishOrder: 23
 draft: false
 ---
 
-Psychology research leans on a specific cluster of designs and tests more than most other fields: repeated-measures experiments, correlational surveys, and scale validation. If you're doing SPSS work for a psychology assignment, coursework project, or dissertation, chances are it falls into one of these three.
+Psychology research leans on a specific cluster of designs and tests more than most other fields: repeated-measures experiments, correlational surveys, and scale validation. If you're doing SPSS work for a psychology assignment, coursework project, or dissertation, chances are it falls into one of these three. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Research Designs That Shape Psychology Statistics
 

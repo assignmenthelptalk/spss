@@ -14,7 +14,7 @@ publishOrder: 24
 draft: false
 ---
 
-Nursing and healthcare research leans on clinical intervention designs, quality-improvement projects, and epidemiological or survey-based studies more than most other fields. If you're doing SPSS work for a nursing assignment, DNP scholarly project, or dissertation, chances are it falls into one of these three.
+Nursing and healthcare research leans on clinical intervention designs, quality-improvement projects, and epidemiological or survey-based studies more than most other fields. If you're doing SPSS work for a nursing assignment, DNP scholarly project, or dissertation, chances are it falls into one of these three. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Research Designs That Shape Nursing and Healthcare Statistics
 

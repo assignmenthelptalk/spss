@@ -16,7 +16,7 @@ draft: false
 
 ## Choosing Between a 5-Point and 7-Point Likert Scale
 
-Both are standard choices, and the decision matters less than being consistent once you've made it. A **5-point scale** (Strongly Disagree to Strongly Agree) is easier for respondents to complete quickly and is the more common default. A **7-point scale** offers finer discrimination between response levels, which can matter for detecting smaller effects, at some cost in respondent fatigue on longer surveys. Whichever you choose, use it consistently across every item in the same scale; mixing 5-point and 7-point items within one construct complicates both scoring and reliability analysis.
+Both are standard choices, and the decision matters less than being consistent once you've made it. A **5-point scale** (Strongly Disagree to Strongly Agree) is easier for respondents to complete quickly and is the more common default. A **7-point scale** offers finer discrimination between response levels, which can matter for detecting smaller effects, at some cost in respondent fatigue on longer surveys. Whichever you choose, use it consistently across every item in the same scale; mixing 5-point and 7-point items within one construct complicates both scoring and reliability analysis. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Avoiding Double-Barrelled and Leading Questions
 

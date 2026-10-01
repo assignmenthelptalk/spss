@@ -16,7 +16,7 @@ draft: false
 
 ## What Is MANCOVA and When Do You Use It?
 
-MANCOVA (Multivariate Analysis of Covariance) combines MANOVA and ANCOVA: it compares group means across **multiple dependent variables at once**, while also **statistically controlling for one or more covariates**. Use it when your design has a categorical independent variable, two or more related continuous dependent variables, and at least one continuous covariate that could otherwise confound the group comparison.
+MANCOVA (Multivariate Analysis of Covariance) combines MANOVA and ANCOVA: it compares group means across **multiple dependent variables at once**, while also **statistically controlling for one or more covariates**. Use it when your design has a categorical independent variable, two or more related continuous dependent variables, and at least one continuous covariate that could otherwise confound the group comparison. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you have multiple DVs but no covariate, use MANOVA instead. If you have one DV and a covariate, use ANCOVA instead.
 

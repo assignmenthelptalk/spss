@@ -16,7 +16,7 @@ draft: false
 
 ## What Is One-Way ANOVA and When Do You Use It?
 
-One-way ANOVA compares the means of a continuous variable across three or more independent groups: for example, exam scores across three teaching methods, or job satisfaction across four departments. You need one categorical independent variable with at least three levels and one continuous dependent variable, measured on different people in each group.
+One-way ANOVA compares the means of a continuous variable across three or more independent groups: for example, exam scores across three teaching methods, or job satisfaction across four departments. You need one categorical independent variable with at least three levels and one continuous dependent variable, measured on different people in each group. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're only comparing two groups, use the [independent samples t-test](/independent-samples-t-test-assignment-help/) instead. A one-way ANOVA with two groups gives the same conclusion, just less directly. If you have more than one independent variable, you need two-way ANOVA instead.
 

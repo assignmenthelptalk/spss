@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Meta-Analysis and When Do You Use It?
 
-Meta-analysis statistically synthesises effect sizes from **multiple independent studies** on the same research question into a single, pooled estimate. Rather than analysing a single dataset, your "data points" are the effect sizes reported in each included study. In SPSS, this is typically done via dedicated meta-analysis macros rather than a built-in menu procedure. Use it when your assignment requires combining findings across several published studies rather than analysing primary data you collected yourself.
+Meta-analysis statistically synthesises effect sizes from **multiple independent studies** on the same research question into a single, pooled estimate. Rather than analysing a single dataset, your "data points" are the effect sizes reported in each included study. In SPSS, this is typically done via dedicated meta-analysis macros rather than a built-in menu procedure. Use it when your assignment requires combining findings across several published studies rather than analysing primary data you collected yourself. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're analysing your own dataset directly, this isn't the right method. Meta-analysis specifically operates on the results *of other studies*.
 

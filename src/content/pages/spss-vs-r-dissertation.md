@@ -16,7 +16,7 @@ draft: false
 
 ## Menu-Driven vs Code-Driven: The Core Difference
 
-SPSS runs almost entirely through point-and-click menus, with syntax as an optional layer underneath for reproducibility. R is code-first: every analysis is written as a script, with no menu-driven equivalent for most procedures. For a student who's comfortable navigating dialog boxes and reading structured output tables, SPSS gets you to a result faster. For a student comfortable writing and debugging code, R offers more flexibility and, for advanced or unusual analyses, often more capability.
+SPSS runs almost entirely through point-and-click menus, with syntax as an optional layer underneath for reproducibility. R is code-first: every analysis is written as a script, with no menu-driven equivalent for most procedures. For a student who's comfortable navigating dialog boxes and reading structured output tables, SPSS gets you to a result faster. For a student comfortable writing and debugging code, R offers more flexibility and, for advanced or unusual analyses, often more capability. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Learning Curve and Time Investment
 

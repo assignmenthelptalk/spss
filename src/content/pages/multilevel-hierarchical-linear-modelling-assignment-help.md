@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Multilevel Modelling and When Do You Use It?
 
-Multilevel (hierarchical linear) modelling analyses **nested data** (observations grouped within higher-level units, such as students nested within classrooms, or patients nested within hospitals), where standard regression's independence assumption is violated because observations within the same group tend to be more similar to each other than to observations in other groups. Use it whenever your data has this nested structure and you want to account for both individual-level and group-level effects simultaneously.
+Multilevel (hierarchical linear) modelling analyses **nested data** (observations grouped within higher-level units, such as students nested within classrooms, or patients nested within hospitals), where standard regression's independence assumption is violated because observations within the same group tend to be more similar to each other than to observations in other groups. Use it whenever your data has this nested structure and you want to account for both individual-level and group-level effects simultaneously. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your data has no meaningful nesting structure, standard multiple regression is simpler and appropriate.
 

@@ -16,7 +16,7 @@ draft: false
 
 ## How to Choose the Right SPSS Statistical Test
 
-Before you open SPSS, three questions decide which test you need:
+Before you open SPSS, three questions decide which test you need, the same ones we walk students through at [SPSSassignment.help](/):
 
 1. **What type of data do you have?** Nominal, ordinal, interval, or ratio. This alone rules out most of the wrong tests.
 2. **How many groups or variables are you comparing?** Two groups, three or more groups, or the relationship between two continuous variables.

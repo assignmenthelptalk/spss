@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Repeated Measures ANOVA and When Do You Use It?
 
-Repeated measures ANOVA compares three or more related measurements taken from the same subjects: for example, scores measured at baseline, one month, and three months into an intervention. Use it when you have one continuous dependent variable measured at three or more time points (or conditions) on the same people.
+Repeated measures ANOVA compares three or more related measurements taken from the same subjects: for example, scores measured at baseline, one month, and three months into an intervention. Use it when you have one continuous dependent variable measured at three or more time points (or conditions) on the same people. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you only have two related measurements, use the paired samples t-test instead. If you have three or more *independent* groups instead of repeated measures on the same people, use one-way ANOVA instead.
 

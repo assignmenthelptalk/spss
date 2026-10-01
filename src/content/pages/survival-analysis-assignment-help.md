@@ -15,7 +15,7 @@ draft: false
 
 ## What Is Survival Analysis and When Do You Use It?
 
-Survival analysis analyses **time-to-event data** (how long until something happens: death, relapse, equipment failure, dropout) and specifically handles **censoring**: cases where the event hadn't occurred by the end of the study, so their true survival time is only partially known. It's especially common in medical and health research. Use it when your outcome is "time until an event," not just whether the event happened.
+Survival analysis analyses **time-to-event data** (how long until something happens: death, relapse, equipment failure, dropout) and specifically handles **censoring**: cases where the event hadn't occurred by the end of the study, so their true survival time is only partially known. It's especially common in medical and health research. Use it when your outcome is "time until an event," not just whether the event happened. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your outcome is simply whether an event occurred (yes/no), without a meaningful time component or censoring, logistic regression is more appropriate.
 

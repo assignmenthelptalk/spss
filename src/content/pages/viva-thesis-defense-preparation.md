@@ -16,7 +16,7 @@ draft: false
 
 ## The Statistical Questions Committees Actually Ask
 
-Viva and defence questions about your quantitative findings cluster around a predictable set of themes, not the full breadth of statistics as a field:
+At [SPSSassignment.help](/), we see that viva and defence questions about your quantitative findings cluster around a predictable set of themes, not the full breadth of statistics as a field:
 
 - **Why this test, and not an alternative?** Be ready to explain why you chose, say, ANCOVA over plain ANOVA, or Mann-Whitney over the independent t-test, in terms of your specific data and design.
 - **Why this sample size?** Connect your achieved sample directly back to your a priori power analysis, or explain honestly if it fell short and what that means for your findings.

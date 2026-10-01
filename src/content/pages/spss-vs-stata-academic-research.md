@@ -16,7 +16,7 @@ draft: false
 
 ## Which Fields Lean SPSS, and Which Lean STATA
 
-Both are commercial statistical packages capable of the same underlying tests, and the choice between them is driven far more by field convention than by any real capability gap for standard analyses. **STATA** is the more common default in economics, epidemiology, and public health, where its command-line syntax and strong panel-data and survival-analysis tooling fit established workflows. **SPSS** is the more common default in psychology, education, nursing, and business, where its menu-driven interface and long-standing presence in those fields' training make it the expected tool.
+Both are commercial statistical packages capable of the same underlying tests, and the choice between them is driven far more by field convention than by any real capability gap for standard analyses. **STATA** is the more common default in economics, epidemiology, and public health, where its command-line syntax and strong panel-data and survival-analysis tooling fit established workflows. **SPSS** is the more common default in psychology, education, nursing, and business, where its menu-driven interface and long-standing presence in those fields' training make it the expected tool. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Output and Reporting Differences
 

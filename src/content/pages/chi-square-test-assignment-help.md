@@ -15,7 +15,7 @@ draft: false
 
 ## What Is the Chi-Square Test and When Do You Use It?
 
-The chi-square test comes in two forms. The **goodness-of-fit** test checks whether one categorical variable matches an expected distribution. The **test of independence** (the version assigned far more often) checks whether two categorical variables are associated, such as gender and product preference, or treatment group and recovery status.
+The chi-square test comes in two forms. The **goodness-of-fit** test checks whether one categorical variable matches an expected distribution. The **test of independence** (the version assigned far more often) checks whether two categorical variables are associated, such as gender and product preference, or treatment group and recovery status. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Assumption That Breaks Most Student Chi-Square Assignments
 

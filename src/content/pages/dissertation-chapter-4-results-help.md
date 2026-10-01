@@ -17,7 +17,7 @@ draft: false
 
 ## What Chapter 4 Is For (and What It Isn't)
 
-Chapter 4 reports what happened statistically. It does not explain what it means: that's Chapter 5's job entirely. If a sentence explains *why* a result matters or connects it to theory, it belongs in [Chapter 5](/dissertation-chapter-5-discussion-help/), not here.
+Chapter 4 reports what happened statistically. It does not explain what it means: that's Chapter 5's job entirely. If a sentence explains *why* a result matters or connects it to theory, it belongs in [Chapter 5](/dissertation-chapter-5-discussion-help/), not here. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## The Standard Chapter 4 Structure
 

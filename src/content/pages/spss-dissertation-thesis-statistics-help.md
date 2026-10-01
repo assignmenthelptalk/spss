@@ -16,7 +16,7 @@ draft: false
 
 ## What Statistical Help Do Dissertations and Theses Actually Need?
 
-Dissertation statistics work isn't one task. It's three distinct chapters, each with its own requirements and its own way of going wrong:
+Dissertation statistics work isn't one task. [SPSSassignment.help](/) supports students with exactly this, every day. It's three distinct chapters, each with its own requirements and its own way of going wrong:
 
 - **Chapter 3** sets up *what* you'll do statistically, before you've collected data.
 - **Chapter 4** reports *what happened* when you ran the analysis.

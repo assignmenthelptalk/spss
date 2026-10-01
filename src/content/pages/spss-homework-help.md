@@ -16,7 +16,7 @@ draft: false
 
 ## What Counts as SPSS Homework?
 
-SPSS homework is the smallest, fastest-turnaround category of SPSS help: a single test or a short problem set, usually due within a few days, built around a provided dataset and a specific instruction ("run a t-test," "report the correlation," "check this assumption"). It's narrower in scope than coursework, which combines several tasks, and much narrower than a full data-analysis project.
+SPSS homework is the smallest, fastest-turnaround category of SPSS help: a single test or a short problem set, usually due within a few days, built around a provided dataset and a specific instruction ("run a t-test," "report the correlation," "check this assumption"). It's narrower in scope than coursework, which combines several tasks, and much narrower than a full data-analysis project. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## What a Typical SPSS Homework Problem Looks Like
 

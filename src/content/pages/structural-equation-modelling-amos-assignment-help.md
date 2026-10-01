@@ -16,7 +16,7 @@ draft: false
 
 ## What Is SEM and When Do You Use It?
 
-Structural Equation Modelling (SEM) tests hypothesised relationships among multiple variables, including latent (unobserved) constructs measured indirectly through observed items, in a single integrated model. **Confirmatory Factor Analysis (CFA)**, often a first step before full SEM, tests whether a pre-specified factor structure fits your data. In SPSS, this is done through **Amos**, an add-on module, not a separate, unrelated piece of software. Use SEM/CFA when your research involves latent constructs, mediating pathways, or a theoretical model with multiple interrelated relationships that a single regression can't capture.
+Structural Equation Modelling (SEM) tests hypothesised relationships among multiple variables, including latent (unobserved) constructs measured indirectly through observed items, in a single integrated model. **Confirmatory Factor Analysis (CFA)**, often a first step before full SEM, tests whether a pre-specified factor structure fits your data. In SPSS, this is done through **Amos**, an add-on module, not a separate, unrelated piece of software. Use SEM/CFA when your research involves latent constructs, mediating pathways, or a theoretical model with multiple interrelated relationships that a single regression can't capture. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're testing a straightforward direct relationship between observed variables with no latent constructs, standard regression or the PROCESS macro for mediation is usually simpler and more appropriate.
 

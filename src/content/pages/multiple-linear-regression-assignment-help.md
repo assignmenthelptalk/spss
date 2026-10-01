@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Multiple Linear Regression and When Do You Use It?
 
-Multiple linear regression extends [simple linear regression](/simple-linear-regression-assignment-help/) to two or more predictors at once: for example, predicting job performance from experience, training hours, and test score together. The added requirement: you now need to check how the predictors relate to *each other*, not just to the outcome.
+Multiple linear regression extends [simple linear regression](/simple-linear-regression-assignment-help/) to two or more predictors at once: for example, predicting job performance from experience, training hours, and test score together. The added requirement: you now need to check how the predictors relate to *each other*, not just to the outcome. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Assumptions You Must Check Before Running It in SPSS
 

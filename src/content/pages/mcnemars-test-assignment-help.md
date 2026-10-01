@@ -16,7 +16,7 @@ draft: false
 
 ## What Is McNemar's Test and When Do You Use It?
 
-McNemar's test evaluates whether there's a significant change in a **binary (or nominal) categorical variable** measured twice on the same subjects: for example, whether the proportion of people answering "yes" to a question changes from before to after an intervention. Use it when you have paired categorical (typically binary) data from the same subjects at two time points, not two independent samples.
+McNemar's test evaluates whether there's a significant change in a **binary (or nominal) categorical variable** measured twice on the same subjects: for example, whether the proportion of people answering "yes" to a question changes from before to after an intervention. Use it when you have paired categorical (typically binary) data from the same subjects at two time points, not two independent samples. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your two measurements come from independent groups rather than the same subjects, use the regular chi-square test of independence instead.
 

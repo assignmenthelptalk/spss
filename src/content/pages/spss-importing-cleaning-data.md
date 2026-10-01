@@ -16,7 +16,7 @@ draft: false
 
 ## Importing Data from Excel and CSV into SPSS
 
-Go to **File > Import Data > Excel** (or **CSV Data**), select your file, and confirm whether the first row contains variable names. SPSS will attempt to guess each variable's type and Measure setting from the imported values, and it guesses wrong often enough that checking Variable View immediately after import is not optional.
+Go to **File > Import Data > Excel** (or **CSV Data**), select your file, and confirm whether the first row contains variable names. SPSS will attempt to guess each variable's type and Measure setting from the imported values, and it guesses wrong often enough that checking Variable View immediately after import is not optional. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Identifying and Handling Missing Values
 

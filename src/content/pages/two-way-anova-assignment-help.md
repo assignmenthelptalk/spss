@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Two-Way ANOVA and When Do You Use It?
 
-Two-way (factorial) ANOVA tests the effect of two independent categorical variables on one continuous dependent variable, and, critically, whether those two variables *interact*. For example: does teaching method (A) and student gender (B) each independently affect test scores, and does the effect of teaching method depend on gender? Use it when you have two categorical independent variables and want to test both their individual (main) effects and their combined (interaction) effect.
+Two-way (factorial) ANOVA tests the effect of two independent categorical variables on one continuous dependent variable, and, critically, whether those two variables *interact*. For example: does teaching method (A) and student gender (B) each independently affect test scores, and does the effect of teaching method depend on gender? Use it when you have two categorical independent variables and want to test both their individual (main) effects and their combined (interaction) effect. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you only have one independent variable, use one-way ANOVA instead.
 

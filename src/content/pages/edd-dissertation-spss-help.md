@@ -16,7 +16,7 @@ draft: false
 
 ## What Makes EdD Dissertation Statistics Different?
 
-A Doctor of Education (EdD) dissertation is applied and practitioner-focused, distinct from a PhD in Education, which more often aims at generating generalisable theoretical knowledge. EdD research typically evaluates a specific program, intervention, or practice change within a real educational setting (a school, district, or institution) rather than testing broad theory across a wide population. That framing shapes which statistical methods actually fit the work.
+A Doctor of Education (EdD) dissertation is applied and practitioner-focused, distinct from a PhD in Education, which more often aims at generating generalisable theoretical knowledge. EdD research typically evaluates a specific program, intervention, or practice change within a real educational setting (a school, district, or institution) rather than testing broad theory across a wide population. That framing shapes which statistical methods actually fit the work. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Common EdD Research Designs and Tests
 

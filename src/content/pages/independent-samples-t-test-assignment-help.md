@@ -15,7 +15,7 @@ draft: false
 
 ## What Is the Independent Samples T-Test and When Do You Use It?
 
-The independent samples t-test compares the means of a continuous variable between two separate, unrelated groups: for example, test scores between a control group and a treatment group, or satisfaction ratings between two different customer segments. Use it when you have one categorical independent variable with exactly two levels and one continuous dependent variable, measured on different people in each group.
+The independent samples t-test compares the means of a continuous variable between two separate, unrelated groups: for example, test scores between a control group and a treatment group, or satisfaction ratings between two different customer segments. Use it when you have one categorical independent variable with exactly two levels and one continuous dependent variable, measured on different people in each group. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If you're comparing more than two groups, you need one-way ANOVA instead. If the same people are measured twice, you need the paired samples t-test instead.
 

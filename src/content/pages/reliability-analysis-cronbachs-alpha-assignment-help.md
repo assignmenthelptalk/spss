@@ -16,7 +16,7 @@ draft: false
 
 ## What Is Cronbach's Alpha and When Do You Use It?
 
-Cronbach's alpha measures **internal consistency**: whether the items in a multi-item scale reliably measure the same underlying construct. It's a reliability check, not a validity check: alpha tells you the items hang together consistently, not that they're measuring the right thing in the first place.
+Cronbach's alpha measures **internal consistency**: whether the items in a multi-item scale reliably measure the same underlying construct. It's a reliability check, not a validity check: alpha tells you the items hang together consistently, not that they're measuring the right thing in the first place. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 ## Before You Run It: Reverse-Score Your Negative Items
 

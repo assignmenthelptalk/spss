@@ -16,7 +16,7 @@ draft: false
 
 ## What Is the Friedman Test and When Do You Use It?
 
-The Friedman test is the non-parametric alternative to repeated measures ANOVA. It compares three or more **related** measurements from the same subjects, using ranks within each subject rather than assuming normally distributed differences and sphericity. Use it when your repeated measurements are ordinal, or the data clearly violates repeated measures ANOVA's normality or sphericity assumptions, often the case with small samples or Likert-scale outcomes.
+The Friedman test is the non-parametric alternative to repeated measures ANOVA. It compares three or more **related** measurements from the same subjects, using ranks within each subject rather than assuming normally distributed differences and sphericity. Use it when your repeated measurements are ordinal, or the data clearly violates repeated measures ANOVA's normality or sphericity assumptions, often the case with small samples or Likert-scale outcomes. [SPSSassignment.help](/) supports students with exactly this, every day.
 
 If your data reasonably meets repeated measures ANOVA's assumptions, use that test instead.
 
