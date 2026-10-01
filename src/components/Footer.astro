@@ -1,51 +1,14 @@
 ---
 const year = new Date().getFullYear();
 
-const statisticalTests = [
-  { href: '/spss-statistical-tests-explained/', label: 'All Statistical Tests' },
-  { href: '/independent-samples-t-test-assignment-help/', label: 'Independent Samples T-Test' },
-  { href: '/one-way-anova-assignment-help/', label: 'One-Way ANOVA' },
-  { href: '/chi-square-test-assignment-help/', label: 'Chi-Square Test' },
-  { href: '/multiple-linear-regression-assignment-help/', label: 'Multiple Linear Regression' },
-  { href: '/binary-logistic-regression-assignment-help/', label: 'Binary Logistic Regression' },
-];
-
-const dissertationHelp = [
-  { href: '/spss-dissertation-thesis-statistics-help/', label: 'Dissertation & Thesis Help' },
-  { href: '/dissertation-chapter-3-statistical-plan-help/', label: 'Chapter 3: Statistical Plan' },
-  { href: '/dissertation-chapter-4-results-help/', label: 'Chapter 4: Results' },
-  { href: '/dissertation-chapter-5-discussion-help/', label: 'Chapter 5: Discussion' },
-  { href: '/power-analysis-sample-size-assignment-help/', label: 'Power Analysis & Sample Size' },
-  { href: '/reporting-spss-output-apa-format/', label: 'Reporting SPSS Output in APA' },
-];
-
-const academicLevels = [
-  { href: '/undergraduate-spss-assignment-help/', label: 'Undergraduate' },
-  { href: '/masters-thesis-spss-help/', label: "Master's Thesis" },
-  { href: '/phd-dissertation-spss-help/', label: 'PhD Dissertation' },
-  { href: '/dnp-project-spss-help/', label: 'DNP Project' },
-  { href: '/edd-dissertation-spss-help/', label: 'EdD Dissertation' },
-];
-
-const servicesAndSubjects = [
-  { href: '/spss-data-analysis-help/', label: 'SPSS Data Analysis Help' },
-  { href: '/spss-exam-help/', label: 'SPSS Exam Help' },
-  { href: '/spss-project-report-help/', label: 'SPSS Project & Report Help' },
-  { href: '/spss-for-psychology-research/', label: 'SPSS for Psychology' },
-  { href: '/spss-for-nursing-healthcare-research/', label: 'SPSS for Nursing & Healthcare' },
-  { href: '/spss-for-business-management-research/', label: 'SPSS for Business' },
-  { href: '/spss-for-public-health-epidemiology/', label: 'SPSS for Public Health' },
-  { href: '/get-started/', label: 'Pricing & How It Works' },
-];
-
 const whatsappHref = 'https://wa.me/447916696894';
 const email = 'assignmenthelptalk@gmail.com';
 ---
 
 <footer class="border-t border-slate-200 bg-slate-50">
   <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
-    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-6">
-      <div class="sm:col-span-2 lg:col-span-1">
+    <div class="grid gap-8 sm:grid-cols-2">
+      <div class="">
         <a href="/" class="text-lg font-bold text-slate-900">
           SPSS<span class="text-blue-600">Assignment</span>.help
         </a>
@@ -56,61 +19,14 @@ const email = 'assignmenthelptalk@gmail.com';
         </p>
       </div>
 
-      <nav aria-label="Statistical tests">
-        <p class="text-sm font-semibold text-slate-900">Statistical Tests</p>
-        <ul class="mt-3 space-y-2">
-          {statisticalTests.map((link) => (
-            <li>
-              <a href={link.href} class="text-sm text-slate-600 hover:text-blue-600">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-
-      <nav aria-label="Dissertation and thesis help">
-        <p class="text-sm font-semibold text-slate-900">Dissertation &amp; Thesis</p>
-        <ul class="mt-3 space-y-2">
-          {dissertationHelp.map((link) => (
-            <li>
-              <a href={link.href} class="text-sm text-slate-600 hover:text-blue-600">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-
-      <nav aria-label="Help by academic level">
-        <p class="text-sm font-semibold text-slate-900">By Academic Level</p>
-        <ul class="mt-3 space-y-2">
-          {academicLevels.map((link) => (
-            <li>
-              <a href={link.href} class="text-sm text-slate-600 hover:text-blue-600">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-
-      <nav aria-label="Services and subject areas">
-        <p class="text-sm font-semibold text-slate-900">Services &amp; Subjects</p>
-        <ul class="mt-3 space-y-2">
-          {servicesAndSubjects.map((link) => (
-            <li>
-              <a href={link.href} class="text-sm text-slate-600 hover:text-blue-600">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-
       <nav aria-label="Contact">
         <p class="text-sm font-semibold text-slate-900">Contact</p>
         <ul class="mt-3 space-y-2">
+          <li>
+            <a href="/get-started/" class="text-sm text-slate-600 hover:text-blue-600">
+              Pricing &amp; How It Works
+            </a>
+          </li>
           <li>
             <a href={whatsappHref} target="_blank" rel="noopener noreferrer" class="text-sm text-slate-600 hover:text-blue-600">
               WhatsApp: +44 7916 696894
