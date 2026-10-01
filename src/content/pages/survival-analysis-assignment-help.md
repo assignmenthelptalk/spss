@@ -1,5 +1,5 @@
 ---
-title: "Survival Analysis Assignment Help — Kaplan-Meier and Cox Regression in SPSS"
+title: "Survival Analysis Assignment Help"
 description: "Learn how to run Kaplan-Meier survival curves and Cox regression in SPSS for time-to-event data, and report hazard ratios in APA format."
 h1: "Survival Analysis Assignment Help — Kaplan-Meier and Cox Regression in SPSS"
 headerImage: "/survival-analysis-assignment-help.webp"

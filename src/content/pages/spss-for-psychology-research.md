@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Psychology Research — Statistical Assignment Help"
+title: "SPSS for Psychology Research"
 description: "SPSS help tailored to psychology research — the designs, tests, and reporting conventions this field actually uses."
 h1: "SPSS for Psychology Research — Statistical Assignment Help"
 headerImage: "/spss-for-psychology-research.webp"

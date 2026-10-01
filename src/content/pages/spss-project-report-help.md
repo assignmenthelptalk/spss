@@ -1,5 +1,5 @@
 ---
-title: "SPSS Project and Report Help — Full Analysis Support"
+title: "SPSS Project and Report Help"
 description: "Get help with standalone SPSS research or capstone reports — full analysis-to-report workflow, outside a formal dissertation structure."
 h1: "SPSS Project and Report Help — Full Analysis Support"
 headerImage: "/spss-data-analysis-help.webp"

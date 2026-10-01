@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Regression Assignment Help — Block Entry in SPSS"
+title: "Hierarchical Regression Assignment Help"
 description: "Learn how to run hierarchical (sequential) regression in SPSS using block entry, interpret R² change, and report the result in APA format."
 h1: "Hierarchical Regression Assignment Help — Block Entry in SPSS"
 headerImage: "/hierarchical-regression-assignment-help.webp"

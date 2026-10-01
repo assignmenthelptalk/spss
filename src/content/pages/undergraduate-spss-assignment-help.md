@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate SPSS Assignment Help — Intro and Applied Statistics Support"
+title: "Undergraduate SPSS Assignment Help"
 description: "Get SPSS help scoped to undergraduate coursework — intro stats problem sets, single-test assignments, and applied statistics support."
 h1: "Undergraduate SPSS Assignment Help — Intro and Applied Statistics Support"
 headerImage: "/undergraduate-spss-assignment-help.webp"

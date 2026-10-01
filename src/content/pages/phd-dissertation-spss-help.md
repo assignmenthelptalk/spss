@@ -1,5 +1,5 @@
 ---
-title: "PhD Dissertation SPSS Help — Advanced Statistics for Doctoral Research"
+title: "PhD Dissertation SPSS Help"
 description: "Get SPSS help for PhD dissertation statistics — advanced methods, committee and IRB rigor, and defence-ready statistical justification."
 h1: "PhD Dissertation SPSS Help — Advanced Statistics for Doctoral Research"
 headerImage: "/phd-dissertation-spss-help.webp"

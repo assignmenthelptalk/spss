@@ -1,5 +1,5 @@
 ---
-title: "SPSS Exam Help — Statistics Exam Preparation and Support"
+title: "SPSS Exam Help"
 description: "Get SPSS statistics exam prep and support — timed practicals, take-home exams, and open-book assessments, handled within clear academic integrity limits."
 h1: "SPSS Exam Help — Statistics Exam Preparation and Support"
 headerImage: "/spss-exam-help.webp"

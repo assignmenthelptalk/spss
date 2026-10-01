@@ -1,5 +1,5 @@
 ---
-title: "Wilcoxon Signed-Rank Test Assignment Help — Paired Non-Parametric SPSS Test"
+title: "Wilcoxon Signed-Rank Test Assignment Help"
 description: "Learn how to run and interpret the Wilcoxon signed-rank test in SPSS as the non-parametric alternative to the paired samples t-test."
 h1: "Wilcoxon Signed-Rank Test Assignment Help — Paired Non-Parametric SPSS Test"
 headerImage: "/wilcoxon-signed-rank-test-assignment-help.webp"

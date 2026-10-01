@@ -1,5 +1,5 @@
 ---
-title: "Master's Thesis SPSS Help — Statistics Support for Your Thesis"
+title: "Master's Thesis SPSS Help"
 description: "Get SPSS statistics help scoped to your master's thesis — the right test complexity, committee expectations, and full chapter support."
 h1: "Master's Thesis SPSS Help — Statistics Support for Your Thesis"
 headerImage: "/masters-thesis-spss-help.webp"

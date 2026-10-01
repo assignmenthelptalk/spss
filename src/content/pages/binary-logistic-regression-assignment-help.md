@@ -1,5 +1,5 @@
 ---
-title: "Binary Logistic Regression Assignment Help — Odds Ratios and SPSS Output"
+title: "Binary Logistic Regression Assignment Help"
 description: "Run binary logistic regression in SPSS correctly — odds ratios, model fit statistics, and APA reporting, explained step by step."
 h1: "Binary Logistic Regression Assignment Help — Odds Ratios and SPSS Output"
 headerImage: "/binary-logistic-regression.webp"

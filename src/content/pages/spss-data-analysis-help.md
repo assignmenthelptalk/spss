@@ -1,5 +1,5 @@
 ---
-title: "SPSS Data Analysis Help — Full-Dataset Statistical Analysis and Reporting"
+title: "SPSS Data Analysis Help"
 description: "Get your full SPSS dataset cleaned, analysed, and tested — from raw data through final APA-formatted results, for research projects and professional reports."
 h1: "SPSS Data Analysis Help — Full-Dataset Statistical Analysis and Reporting"
 headerImage: "/spss-data-analysis-help.webp"

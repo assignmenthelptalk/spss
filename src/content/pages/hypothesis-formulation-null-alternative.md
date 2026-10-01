@@ -1,5 +1,5 @@
 ---
-title: "Hypothesis Formulation — Null vs Alternative Hypotheses"
+title: "Hypothesis Formulation"
 description: "Understand null vs alternative hypotheses, directional vs non-directional wording, Type I and II error, and how they determine your test."
 h1: "Hypothesis Formulation — Null vs Alternative Hypotheses"
 headerImage: "/one-sample-t-test-assignment-help.webp"

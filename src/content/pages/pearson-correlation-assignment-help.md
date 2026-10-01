@@ -1,5 +1,5 @@
 ---
-title: "Pearson Correlation Assignment Help — Running and Interpreting r in SPSS"
+title: "Pearson Correlation Assignment Help"
 description: "Learn how to run, interpret, and report a Pearson correlation in SPSS — assumptions, strength benchmarks, and APA format."
 h1: "Pearson Correlation Assignment Help — Running and Interpreting r in SPSS"
 headerImage: "/pearson-correlation.webp"

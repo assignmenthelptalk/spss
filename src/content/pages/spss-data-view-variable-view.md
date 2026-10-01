@@ -1,5 +1,5 @@
 ---
-title: "SPSS Data View vs Variable View — Data Entry Basics"
+title: "SPSS Data View vs Variable View"
 description: "Understand SPSS Data View vs Variable View, and why the Measure setting silently controls which tests SPSS will let you run."
 h1: "SPSS Data View vs Variable View — Data Entry Basics"
 headerImage: "/survey-questionnaire-data-coding-help.webp"

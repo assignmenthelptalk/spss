@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Social Science Research — Statistical Assignment Help"
+title: "SPSS for Social Science Research"
 description: "SPSS help tailored to sociology, political science, and public-policy research — crosstabs, regression, and survey weighting."
 h1: "SPSS for Social Science Research — Statistical Assignment Help"
 headerImage: "/spss-for-social-science-research.webp"

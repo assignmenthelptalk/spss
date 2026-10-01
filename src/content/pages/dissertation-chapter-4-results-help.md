@@ -1,5 +1,5 @@
 ---
-title: "Dissertation Chapter 4 Results Help — Structure, APA Reporting, and Common Mistakes"
+title: "Dissertation Chapter 4 Results Help"
 description: "Structure your Chapter 4 results correctly — organisation by research question, APA reporting, and table formatting."
 h1: "Dissertation Chapter 4 Results Help — Structure, APA Reporting, and Common Mistakes"
 headerImage: "/dissertation-chapter-4-results.webp"

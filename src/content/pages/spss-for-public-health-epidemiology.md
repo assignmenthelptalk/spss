@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Public Health and Epidemiology — Statistical Assignment Help"
+title: "SPSS for Public Health and Epidemiology"
 description: "SPSS help tailored to public health and epidemiological research — logistic regression, survival analysis, and risk measures."
 h1: "SPSS for Public Health and Epidemiology — Statistical Assignment Help"
 headerImage: "/spss-for-public-health-epidemiology.webp"

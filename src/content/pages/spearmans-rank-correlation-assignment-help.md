@@ -1,5 +1,5 @@
 ---
-title: "Spearman's Rank Correlation Assignment Help — Ordinal Data in SPSS"
+title: "Spearman's Rank Correlation Assignment Help"
 description: "Learn how to run and interpret Spearman's rho in SPSS for ordinal or non-normal data, and how to report the correlation in APA format."
 h1: "Spearman's Rank Correlation Assignment Help — Ordinal Data in SPSS"
 headerImage: "/spearmans-rank-correlation-assignment-help.webp"

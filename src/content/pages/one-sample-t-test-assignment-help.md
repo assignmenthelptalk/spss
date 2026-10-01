@@ -1,5 +1,5 @@
 ---
-title: "One-Sample T-Test Assignment Help — Running and Interpreting It in SPSS"
+title: "One-Sample T-Test Assignment Help"
 description: "Learn how to run and interpret a one-sample t-test in SPSS, comparing your sample mean to a known or hypothesised population value."
 h1: "One-Sample T-Test Assignment Help — Running and Interpreting It in SPSS"
 headerImage: "/one-sample-t-test-assignment-help.webp"

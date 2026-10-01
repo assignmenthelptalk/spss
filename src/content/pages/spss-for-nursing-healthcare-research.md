@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Nursing Research — Biostatistics Assignment Help"
+title: "SPSS for Nursing Research"
 description: "SPSS help tailored to nursing and healthcare research — clinical designs, risk-factor tests, and DNP project statistics."
 h1: "SPSS for Nursing Research — Biostatistics Assignment Help"
 headerImage: "/spss-for-nursing-healthcare-research.webp"

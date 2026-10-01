@@ -1,5 +1,5 @@
 ---
-title: "McNemar's Test Assignment Help — Paired Categorical Data in SPSS"
+title: "McNemar's Test Assignment Help"
 description: "Learn how to run and interpret McNemar's test in SPSS for paired binary or nominal data, and how to report the result in APA format."
 h1: "McNemar's Test Assignment Help — Paired Categorical Data in SPSS"
 headerImage: "/mcnemars-test-assignment-help.webp"

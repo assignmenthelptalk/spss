@@ -1,5 +1,5 @@
 ---
-title: "Two-Way ANOVA Assignment Help — Interaction Effects in SPSS"
+title: "Two-Way ANOVA Assignment Help"
 description: "Learn how to run a two-way (factorial) ANOVA in SPSS, interpret main effects and interaction effects, and report the result in APA format."
 h1: "Two-Way ANOVA Assignment Help — Interaction Effects in SPSS"
 headerImage: "/two-way-anova-assignment-help.webp"

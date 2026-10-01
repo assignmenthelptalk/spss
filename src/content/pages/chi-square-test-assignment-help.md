@@ -1,5 +1,5 @@
 ---
-title: "Chi-Square Test Assignment Help — Crosstabs and SPSS Assumptions"
+title: "Chi-Square Test Assignment Help"
 description: "Run a chi-square test in SPSS correctly — expected cell counts, Cramer's V effect size, and APA reporting, explained step by step."
 h1: "Chi-Square Test Assignment Help — Crosstabs and SPSS Assumptions"
 headerImage: "/chi-square-test.webp"

@@ -1,5 +1,5 @@
 ---
-title: "SPSS Syntax Editor — Writing and Running Syntax"
+title: "SPSS Syntax Editor"
 description: "Learn the SPSS Syntax Editor — generating syntax from menus with Paste, common commands, and why reproducible analysis matters."
 h1: "SPSS Syntax Editor — Writing and Running Syntax"
 headerImage: "/dissertation-chapter-3-statistical-plan-help.webp"

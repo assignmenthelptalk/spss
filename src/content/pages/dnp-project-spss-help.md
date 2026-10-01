@@ -1,5 +1,5 @@
 ---
-title: "DNP Project SPSS Help — Statistics for Nursing Practice Scholarly Projects"
+title: "DNP Project SPSS Help"
 description: "Get SPSS help for your DNP scholarly project — practice-improvement statistics, pre/post intervention data, and quality-improvement metrics."
 h1: "DNP Project SPSS Help — Statistics for Nursing Practice Scholarly Projects"
 headerImage: "/dnp-project-spss-help.webp"

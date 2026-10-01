@@ -1,5 +1,5 @@
 ---
-title: "SPSS Homework Help — Fast Support for Statistics Problem Sets"
+title: "SPSS Homework Help"
 description: "Fast-turnaround SPSS homework help for single-test problem sets — correct test, correct output, correctly explained."
 h1: "SPSS Homework Help — Fast Support for Statistics Problem Sets"
 headerImage: "/independent-samples-t-test.webp"

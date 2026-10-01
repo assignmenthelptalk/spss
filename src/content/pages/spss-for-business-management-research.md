@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Business and Management Research — Statistical Assignment Help"
+title: "SPSS for Business and Management Research"
 description: "SPSS help tailored to business and management research — employee surveys, customer studies, and organisational behaviour statistics."
 h1: "SPSS for Business and Management Research — Statistical Assignment Help"
 headerImage: "/spss-for-business-management-research.webp"

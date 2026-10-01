@@ -1,5 +1,5 @@
 ---
-title: "SPSS Coursework Help — Multi-Part Statistics Assignment Support"
+title: "SPSS Coursework Help"
 description: "Get help with multi-part SPSS coursework — several tests, a written interpretation component, and a rubric to satisfy."
 h1: "SPSS Coursework Help — Multi-Part Statistics Assignment Support"
 headerImage: "/spss-coursework-help.webp"

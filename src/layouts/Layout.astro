@@ -9,6 +9,8 @@ interface Props {
 }
 
 const { title, description } = Astro.props;
+const BRAND = 'SPSS Assignment Help';
+const fullTitle = title.includes(BRAND) ? title : `${title} | ${BRAND}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -27,16 +29,16 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
 
-    <title>{title}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={description} />
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
+    <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
 
     <!-- Google tag (gtag.js) -->

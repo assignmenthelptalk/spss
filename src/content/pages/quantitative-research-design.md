@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Research Design — Choosing the Right Statistical Test"
+title: "Quantitative Research Design"
 description: "Understand the four main quantitative research designs and how design plus measurement level determine which statistical test you need."
 h1: "Quantitative Research Design — Choosing the Right Statistical Test"
 headerImage: "/test-library-hub.webp"

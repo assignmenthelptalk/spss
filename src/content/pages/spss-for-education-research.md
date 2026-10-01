@@ -1,5 +1,5 @@
 ---
-title: "SPSS for Education Research — Statistical Help for Education Studies"
+title: "SPSS for Education Research"
 description: "SPSS help tailored to education research — classroom comparisons, program evaluation, and standardised test score analysis."
 h1: "SPSS for Education Research — Statistical Help for Education Studies"
 headerImage: "/spss-for-education-research.webp"

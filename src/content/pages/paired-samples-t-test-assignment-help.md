@@ -1,5 +1,5 @@
 ---
-title: "Paired Samples T-Test Assignment Help — Pre/Post Comparisons in SPSS"
+title: "Paired Samples T-Test Assignment Help"
 description: "Learn how to run and interpret a paired samples t-test in SPSS for pre/post or matched-pair comparisons, and how to report it in APA format."
 h1: "Paired Samples T-Test Assignment Help — Pre/Post Comparisons in SPSS"
 headerImage: "/paired-samples-t-test-assignment-help.webp"

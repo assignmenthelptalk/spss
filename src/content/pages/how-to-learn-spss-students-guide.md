@@ -1,5 +1,5 @@
 ---
-title: "How to Learn SPSS — A Student's Guide"
+title: "How to Learn SPSS"
 description: "A practical self-study path for learning SPSS — interface first, descriptives second, inferential tests third, and common beginner mistakes."
 h1: "How to Learn SPSS — A Student's Guide"
 headerImage: "/test-library-hub.webp"

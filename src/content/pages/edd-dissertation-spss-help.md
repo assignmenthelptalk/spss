@@ -1,5 +1,5 @@
 ---
-title: "EdD Dissertation SPSS Help — Statistics for Education Doctorates"
+title: "EdD Dissertation SPSS Help"
 description: "Get SPSS help for your EdD dissertation — program-evaluation and quasi-experimental statistics for applied education research."
 h1: "EdD Dissertation SPSS Help — Statistics for Education Doctorates"
 headerImage: "/edd-dissertation-spss-help.webp"

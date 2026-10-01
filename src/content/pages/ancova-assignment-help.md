@@ -1,5 +1,5 @@
 ---
-title: "ANCOVA Assignment Help — Controlling for Covariates in SPSS"
+title: "ANCOVA Assignment Help"
 description: "Learn how to run ANCOVA in SPSS to compare group means while controlling for a covariate, and how to report adjusted means in APA format."
 h1: "ANCOVA Assignment Help — Controlling for Covariates in SPSS"
 headerImage: "/ancova-assignment-help.webp"
