@@ -19,13 +19,13 @@ Cluster analysis groups cases (not variables) into clusters based on similarity 
 
 If you already know the groups (e.g. a treatment/control variable) and want to compare them, you need a group-comparison test like ANOVA or MANOVA instead. Cluster analysis is for when the groups don't yet exist in your data.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Cluster Analysis in SPSS
 
 - **Standardise your variables first** (Analyze > Descriptive Statistics > Descriptives, Save standardised values) if they're on different scales: a variable measured in the thousands will otherwise dominate the distance calculation over one measured on a 1–5 scale.
 - **No formal distributional assumptions**, but **multicollinearity between clustering variables** can distort results by effectively double-weighting correlated dimensions.
 - **Outliers can badly distort hierarchical clustering** in particular: screen for them before running the analysis.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run Cluster Analysis in SPSS (Step by Step)
 
 **Hierarchical clustering:**
 1. Go to **Analyze > Classify > Hierarchical Cluster**.
@@ -39,13 +39,13 @@ If you already know the groups (e.g. a treatment/control variable) and want to c
 3. Set **Number of Clusters** to your chosen value (often informed by the hierarchical dendrogram or theory).
 4. Click **Save**, check **Cluster membership** to add a new variable recording each case's assigned cluster, then **OK**.
 
-## How to Interpret the Output
+## How to Interpret Cluster Analysis Output in SPSS
 
 1. **Hierarchical:** Read the **dendrogram**: the height at which branches merge indicates dissimilarity; a common approach is to "cut" the tree where there's a large jump in merge distance, suggesting a natural number of clusters.
 2. **K-means:** Check the **Final Cluster Centers** table to see each cluster's average value on each variable. This is how you interpret and label what each cluster represents.
 3. For either method, profile the resulting clusters against variables *not* used in the clustering (e.g. compare cluster membership against age or outcome) to check whether the groupings are meaningful.
 
-## How to Report the Results in APA Format
+## How to Report Cluster Analysis Results in APA Format
 
 > K-means cluster analysis identified three distinct customer segments based on purchase frequency, average spend, and product category diversity. Cluster 1 (*n* = 42) represented high-frequency, high-spend customers; Cluster 2 (*n* = 78) represented moderate-frequency, low-spend customers; Cluster 3 (*n* = 30) represented low-frequency, high-spend customers.
 

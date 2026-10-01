@@ -20,26 +20,26 @@ Spearman's rank correlation (Spearman's rho, ρ) measures the strength and direc
 
 If both variables are continuous, roughly normally distributed, and linearly related, use Pearson correlation instead. It uses more information from the raw data and is the more familiar reporting standard.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Spearman's Rank Correlation in SPSS
 
 - **Both variables should be at least ordinal.**
 - **The relationship should be monotonic** (consistently increasing or decreasing, though not necessarily in a straight line). Check with a scatterplot before running the test.
 - No normality or linearity assumption in the strict Pearson sense: that's the reason to use rho instead.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run Spearman's Rank Correlation in SPSS (Step by Step)
 
 1. Go to **Analyze > Correlate > Bivariate**.
 2. Move your two variables into the **Variables** box.
 3. Under **Correlation Coefficients**, check **Spearman** (and uncheck Pearson if you don't also want it).
 4. Click **OK**.
 
-## How to Interpret the Output
+## How to Interpret Spearman's Rank Correlation Output in SPSS
 
 1. In the correlation matrix, read the **Spearman's rho** coefficient: ranges from −1 to +1, same direction/strength logic as Pearson's *r*.
 2. Check the **Sig. (2-tailed)** value for statistical significance.
 3. Apply the same strength benchmarks used for Pearson's *r*: around .10 small, .30 medium, .50 large (Cohen's conventions, commonly applied to rho as well).
 
-## How to Report the Results in APA Format
+## How to Report Spearman's Rank Correlation Results in APA Format
 
 > There was a moderate, statistically significant positive monotonic relationship between study hours and exam performance, ρ(48) = .38, *p* = .006.
 

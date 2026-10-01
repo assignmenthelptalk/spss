@@ -20,26 +20,26 @@ The Wilcoxon signed-rank test is the non-parametric alternative to the paired sa
 
 If your difference scores are reasonably normal, use the paired samples t-test instead. It has more power when its assumption holds.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running the Wilcoxon Signed-Rank Test in SPSS
 
 - **The two measurements must be genuinely paired**: same subject, or a deliberately matched pair.
 - **The dependent variable should be at least ordinal.**
 - No normality assumption on the differences: that's the reason to use this test instead of the paired t-test.
 - The distribution of differences should be reasonably **symmetric** for the "median difference" interpretation to be clean, though the test itself remains valid more broadly.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run the Wilcoxon Signed-Rank Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Nonparametric Tests > Legacy Dialogs > 2 Related Samples**.
 2. Select your two related variables and move them into **Test Pair(s) List** as Variable 1 and Variable 2.
 3. Ensure **Wilcoxon** is checked under Test Type, then click **OK**.
 
-## How to Interpret the Output
+## How to Interpret Wilcoxon Signed-Rank Test Output in SPSS
 
 1. Check the **Ranks** table first: it shows how many pairs had **negative ranks** (decreased), **positive ranks** (increased), and **ties** (no change). This tells you the direction of change before you even look at significance.
 2. In the **Test Statistics** table, read the **Z-value** and **Asymp. Sig. (2-tailed)**, your *p*-value.
 3. Calculate effect size as *r* = Z ÷ √N (where N is the number of pairs, not individuals): 0.1 small, 0.3 medium, 0.5 large.
 
-## How to Report the Results in APA Format
+## How to Report Wilcoxon Signed-Rank Test Results in APA Format
 
 > A Wilcoxon signed-rank test showed that post-intervention scores were significantly higher than pre-intervention scores, with 24 positive ranks, 4 negative ranks, and 2 ties, *Z* = −3.41, *p* < .001, *r* = .48.
 

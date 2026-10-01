@@ -20,25 +20,25 @@ The Friedman test is the non-parametric alternative to repeated measures ANOVA. 
 
 If your data reasonably meets repeated measures ANOVA's assumptions, use that test instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running the Friedman Test in SPSS
 
 - **The measurements must come from the same subjects** across three or more time points or conditions.
 - **The dependent variable should be at least ordinal.**
 - No normality or sphericity assumption: that's the reason to use this test instead of repeated measures ANOVA.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run the Friedman Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Nonparametric Tests > Legacy Dialogs > K Related Samples**.
 2. Move your three or more related variables into **Test Variables**.
 3. Ensure **Friedman** is checked under Test Type, then click **OK**.
 
-## How to Interpret the Output
+## How to Interpret Friedman Test Output in SPSS
 
 1. In the **Test Statistics** table, read the **Chi-Square** value, **df** (number of conditions − 1), and **Asymp. Sig.**, your *p*-value.
 2. Use **Kendall's W** as the effect size (available via the same dialog or computed from the chi-square value); it ranges from 0 (no agreement/effect) to 1 (perfect agreement).
 3. **If significant, run post-hoc pairwise comparisons**: Wilcoxon signed-rank tests between each pair of conditions, with a **Bonferroni-adjusted alpha** to control for multiple comparisons.
 
-## How to Report the Results in APA Format
+## How to Report Friedman Test Results in APA Format
 
 > A Friedman test showed a significant difference in anxiety ratings across the three time points, χ²(2) = 11.27, *p* = .004, Kendall's *W* = .28. Post-hoc Wilcoxon tests with Bonferroni correction showed anxiety at 3 months (Mdn = 3) was significantly lower than at baseline (Mdn = 6), *p* = .002.
 

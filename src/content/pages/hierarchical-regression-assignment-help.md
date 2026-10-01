@@ -20,7 +20,7 @@ Hierarchical (sequential) regression enters predictors into a multiple regressio
 
 If you just want to test all predictors together with no theoretical entry order, standard (simultaneous) multiple regression is simpler and more appropriate.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Hierarchical Regression in SPSS
 
 Hierarchical regression carries the same assumptions as standard multiple regression, checked on the final model:
 
@@ -30,7 +30,7 @@ Hierarchical regression carries the same assumptions as standard multiple regres
 - **No severe multicollinearity** (VIF values below 10, ideally below 5)
 - **Normally distributed residuals** (P-P plot or histogram of residuals)
 
-## How to Run It in SPSS (Step by Step)
+## How to Run Hierarchical Regression in SPSS (Step by Step)
 
 1. Go to **Analyze > Regression > Linear**.
 2. Move your outcome into **Dependent**.
@@ -39,13 +39,13 @@ Hierarchical regression carries the same assumptions as standard multiple regres
 5. Repeat **Next** for additional theory-driven blocks if needed.
 6. Click **Statistics**, check **R squared change**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret Hierarchical Regression Output in SPSS
 
 1. In the **Model Summary** table, read **R² Change** and **Sig. F Change** for each block: this tells you whether that block added statistically significant explanatory power beyond the previous block(s).
 2. Check the final model's overall **R²**, **F**, and **df** in the **ANOVA** table.
 3. In the final **Coefficients** table, read each predictor's **B**, **standardized Beta**, and significance, remembering these reflect each predictor's unique contribution in the *final*, fully-entered model.
 
-## How to Report the Results in APA Format
+## How to Report Hierarchical Regression Results in APA Format
 
 > In Step 1, demographic controls explained 8% of the variance in outcome scores, *R*² = .08, *F*(2, 96) = 4.17, *p* = .018. Adding motivation in Step 2 explained an additional 15% of the variance, Δ*R*² = .15, Δ*F*(1, 95) = 18.62, *p* < .001, for a total *R*² = .23, *F*(3, 95) = 9.44, *p* < .001.
 

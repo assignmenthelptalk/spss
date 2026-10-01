@@ -20,28 +20,32 @@ MANOVA (Multivariate Analysis of Variance) compares group means across **two or 
 
 If you only have one dependent variable, use one-way (or two-way) ANOVA instead. Running MANOVA with a single outcome adds unnecessary complexity for no benefit.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running MANOVA in SPSS
 
 - **Multivariate normality** across the combined set of dependent variables (harder to test directly, so univariate normality of each DV is typically checked as a practical proxy).
 - **Homogeneity of covariance matrices**, tested with **Box's M test**. Because Box's M is very sensitive with larger samples, a significant result (*p* < .05) is common and not always fatal. Check it alongside sample size and group-size balance rather than treating it as an automatic failure.
 - **Low multicollinearity between dependent variables**: if two DVs are extremely highly correlated, they're not adding independent information to the multivariate test.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run MANOVA in SPSS (Step by Step)
 
 1. Go to **Analyze > General Linear Model > Multivariate**.
 2. Move your two or more continuous outcomes into **Dependent Variables**.
 3. Move your categorical independent variable(s) into **Fixed Factor(s)**.
 4. Click **Options**, check **Homogeneity tests** (for Box's M) and **Estimates of effect size**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret MANOVA Output in SPSS
 
 1. Check **Box's M Test** for homogeneity of covariance matrices in context, noted above.
 2. In the **Multivariate Tests** table, read **Wilks' Lambda** as the primary result (Pillai's Trace is the more robust alternative when assumptions are shakier; prefer it if Box's M is significant with unequal group sizes).
 3. If the multivariate test is significant, examine the **follow-up univariate ANOVAs** (in the Tests of Between-Subjects Effects table) to see which specific dependent variable(s) drove the overall effect.
 
-## How to Report the Results in APA Format
+## How to Report MANOVA Results in APA Format
 
 > A one-way MANOVA revealed a significant multivariate effect of teaching method on the combined dependent variables of test score and engagement rating, Wilks' Λ = 0.81, *F*(4, 172) = 4.83, *p* < .001, partial η² = .10. Follow-up univariate ANOVAs showed a significant effect on test score, *F*(2, 87) = 6.21, *p* = .003, but not engagement rating, *F*(2, 87) = 1.14, *p* = .325.
+
+### Reporting Box's M
+
+Report Box's M before the main multivariate result, with its *F* approximation and degrees of freedom: "Box's *M* = 21.37, *F*(12, 18450) = 1.62, *p* = .075, so the assumption of equal covariance matrices was met." Because Box's M is overly sensitive, many researchers only treat it as a violation when *p* < .001, and switch from Wilks' Lambda to Pillai's Trace when it is significant, stating that choice in the write-up.
 
 ## MANOVA vs One-Way ANOVA: Understanding the Difference
 

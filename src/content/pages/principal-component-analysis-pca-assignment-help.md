@@ -20,13 +20,13 @@ Principal Component Analysis reduces a large set of correlated variables into a 
 
 If your goal is to identify underlying latent constructs (e.g. the traits behind a psychological scale), use factor analysis (EFA) instead. The two procedures share an SPSS menu but answer different questions.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running PCA (Principal Component Analysis) in SPSS
 
 - **Adequate sample size**, generally at least 5–10 cases per variable, and larger samples give more stable components.
 - **Sufficient correlation among variables** to justify reduction: checked with the **Kaiser-Meyer-Olkin (KMO)** measure (above .60 acceptable, above .80 good) and **Bartlett's Test of Sphericity** (should be significant, *p* < .05).
 - **Linear relationships** between variables. PCA is built on the correlation matrix, so non-linear relationships aren't captured.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run PCA (Principal Component Analysis) in SPSS (Step by Step)
 
 1. Go to **Analyze > Dimension Reduction > Factor**.
 2. Move your variables into **Variables**.
@@ -34,13 +34,21 @@ If your goal is to identify underlying latent constructs (e.g. the traits behind
 4. Click **Extraction**, set **Method** to **Principal Components** (this is the key setting that distinguishes PCA from EFA in SPSS), and choose your extraction criterion: **Eigenvalues greater than 1** is the default, or specify a fixed number of components.
 5. Click **Rotation** if you want a rotated solution (Varimax is common for interpretability), then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret PCA Output in SPSS
 
 1. Check **KMO and Bartlett's Test** to confirm the data is suitable for reduction.
 2. In the **Total Variance Explained** table, check how many components have **eigenvalues above 1** and how much **cumulative variance** they explain together. Also inspect the **scree plot** for a visual "elbow" as a second extraction check.
 3. Review the **Component Matrix** (or Rotated Component Matrix if rotation was used) to see which variables load most strongly onto each component.
 
-## How to Report the Results in APA Format
+### Reading the KMO and Bartlett's Test Table in SPSS
+
+The **KMO Measure of Sampling Adequacy** is a single number between 0 and 1. As a rough guide, .90 and above is excellent, .80 to .89 is good, .70 to .79 is acceptable, .60 to .69 is mediocre, and anything below .50 means the data is unsuitable for PCA. **Bartlett's Test of Sphericity** should be significant (*p* < .05); a non-significant result means your variables are too weakly correlated to reduce. If a single variable drags the KMO down, check the diagonal of the **Anti-image Correlation** matrix (request it under **Descriptives**), and consider dropping any variable whose value falls below .50.
+
+### How Many Components to Keep, and What Counts as a Strong Loading
+
+Use the eigenvalue-above-1 rule together with the scree plot rather than either alone: SPSS's default tends to over-extract. As a working convention, treat loadings of .40 or above as meaningful, and either drop or discuss variables that load below that on every component, or load strongly on more than one component (cross-loadings).
+
+## How to Report PCA Results in APA Format
 
 > PCA with varimax rotation was conducted on 12 items. The KMO measure confirmed sampling adequacy, KMO = .84, and Bartlett's test was significant, χ²(66) = 412.65, *p* < .001. Three components had eigenvalues greater than 1 and explained 61.3% of the total variance.
 

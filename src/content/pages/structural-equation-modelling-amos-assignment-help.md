@@ -20,7 +20,7 @@ Structural Equation Modelling (SEM) tests hypothesised relationships among multi
 
 If you're testing a straightforward direct relationship between observed variables with no latent constructs, standard regression or the PROCESS macro for mediation is usually simpler and more appropriate.
 
-## Assumptions You Must Check Before Running It in SPSS Amos
+## Assumptions to Check Before Running Structural Equation Modelling (SEM) in Amos in SPSS Amos
 
 - **Adequate sample size**: SEM generally needs larger samples than simpler tests, often cited as a minimum of 200 or 10–20 cases per estimated parameter.
 - **Multivariate normality**, since maximum likelihood estimation (Amos's default) assumes it. Check via Amos's built-in normality output (Mardia's coefficient).
@@ -34,7 +34,7 @@ If you're testing a straightforward direct relationship between observed variabl
 3. Under **View > Analysis Properties**, select **Maximum Likelihood** estimation and request **Standardized estimates** and **Modification Indices**.
 4. Click **Calculate Estimates** to run the model.
 
-## How to Interpret the Output
+## How to Interpret SEM Output in SPSS
 
 Model fit is judged by several indices together, not any single number:
 
@@ -45,7 +45,7 @@ Model fit is judged by several indices together, not any single number:
 
 If fit is poor, **Modification Indices** suggest specific parameters (e.g. additional covariances between error terms) that would improve fit. Any change should be theoretically justifiable, not added purely because the software suggests it. Once fit is acceptable, interpret the **standardised path coefficients** as the strength and direction of each hypothesised relationship.
 
-## How to Report the Results in APA Format
+## How to Report SEM Results in APA Format
 
 > The hypothesised model showed acceptable fit to the data, χ²(48) = 98.32, χ²/*df* = 2.05, CFI = .96, RMSEA = .054 [90% CI: .038, .069], SRMR = .048. The standardised path from motivation to performance was significant, β = .34, *p* < .001.
 

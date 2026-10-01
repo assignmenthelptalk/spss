@@ -20,7 +20,7 @@ MANCOVA (Multivariate Analysis of Covariance) combines MANOVA and ANCOVA: it com
 
 If you have multiple DVs but no covariate, use MANOVA instead. If you have one DV and a covariate, use ANCOVA instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running MANCOVA in SPSS
 
 MANCOVA inherits assumptions from both of its parent tests:
 
@@ -29,7 +29,7 @@ MANCOVA inherits assumptions from both of its parent tests:
 - **The covariate should correlate with the dependent variables but not be confounded with the independent variable**, as in ANCOVA.
 - Multivariate normality of the dependent variables, as a practical proxy checked via each DV's univariate normality.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run MANCOVA in SPSS (Step by Step)
 
 1. Go to **Analyze > General Linear Model > Multivariate**.
 2. Move your two or more continuous outcomes into **Dependent Variables**.
@@ -37,15 +37,19 @@ MANCOVA inherits assumptions from both of its parent tests:
 4. Move your continuous covariate(s) into **Covariate(s)**.
 5. Click **Options**, check **Homogeneity tests** and **Estimates of effect size**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret MANCOVA Output in SPSS
 
 1. Read **Wilks' Lambda** (or Pillai's Trace) in the Multivariate Tests table for the independent variable, now interpreted **after adjusting for the covariate(s)**.
 2. Check the **follow-up univariate tests** (adjusted for the covariate) to see which specific dependent variable(s) show a group difference once the covariate is controlled.
 3. Review the **Estimated Marginal Means** for each dependent variable: these are the covariate-adjusted group means.
 
-## How to Report the Results in APA Format
+## How to Report MANCOVA Results in APA Format
 
 > After controlling for prior GPA, a MANCOVA revealed a significant multivariate effect of teaching method on the combined outcomes of test score and engagement rating, Wilks' Λ = 0.85, *F*(4, 170) = 3.62, *p* = .007, partial η² = .08.
+
+### Reporting Box's M
+
+Report Box's M before the main multivariate result, with its *F* approximation and degrees of freedom: "Box's *M* = 21.37, *F*(12, 18450) = 1.62, *p* = .075, so the assumption of equal covariance matrices was met." Because Box's M is overly sensitive, many researchers only treat it as a violation when *p* < .001, and switch from Wilks' Lambda to Pillai's Trace when it is significant, stating that choice in the write-up.
 
 ## MANCOVA vs MANOVA: Understanding the Difference
 

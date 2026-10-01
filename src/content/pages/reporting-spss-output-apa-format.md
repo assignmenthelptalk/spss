@@ -18,7 +18,7 @@ draft: false
 
 SPSS output tables aren't written for a reader. They're written for you, the analyst. Turning them into an APA-formatted report is a translation step, and it's one most courses and committees grade almost as closely as the analysis itself. A statistically correct test with a badly reported result loses marks just as reliably as the reverse. [SPSSassignment.help](/) supports students with exactly this, every day.
 
-This page covers the general rules that apply across every test. For the exact reporting sentence for your specific test, see the "How to Report the Results in APA Format" section on that test's own page. Start from the [SPSS statistical test guide](/spss-statistical-tests-explained/) if you're not sure which one you need.
+This page covers the general rules that apply across every test. For the exact reporting sentence for your specific test, see the "How to Report … Results in APA Format" section on that test's own page, for example the one on the [Mann-Whitney U test page](/mann-whitney-u-test-assignment-help/). Start from the [SPSS statistical test guide](/spss-statistical-tests-explained/) if you're not sure which one you need.
 
 ## General APA Rules for Statistical Reporting
 
@@ -64,10 +64,65 @@ The exact sentence structure changes by test family, but the pattern is consiste
 
 Every individual test page on this site includes this same template filled in for that test's specific statistics. See the [SPSS statistical test guide](/spss-statistical-tests-explained/) to find yours.
 
+## How to Report Descriptive Statistics: Mean, SD, Standard Error, and Range
+
+Descriptive statistics come before any test in a results section, and they follow their own conventions:
+
+- **Mean and standard deviation:** report both together, in that order, to two decimals: *M* = 4.52, *SD* = 1.13. Inside parentheses, separate them with a comma: (*M* = 4.52, *SD* = 1.13).
+- **Standard error:** is standard error italicised in APA? Yes. *SE* is a statistical symbol, so it is italicised just like *M* and *SD*: *M* = 4.52, *SE* = 0.11. Don't swap it in for *SD*; they answer different questions (spread of the data vs precision of the mean).
+- **Range:** give the minimum and maximum, either as "ages ranged from 18 to 45 years" or in brackets: *M* = 24.3, *SD* = 4.1, range = 18–45. The word "range" is not a symbol, so it is not italicised.
+- **Counts and percentages:** use *n* for a subgroup and *N* for the whole sample: 50 of 80 participants (62.5%), or *n* = 50.
+- **Leading zeros:** drop the zero for statistics that cannot exceed 1 (*p* = .032, *r* = .42, β = .38, *R*² = .29) and keep it for those that can (*M* = 0.45, *B* = 0.45, *d* = 0.97, *SD* = 0.62).
+
+## APA Statistical Notation Cheat Sheet
+
+| Symbol | Meaning | Italic? |
+| :-- | :-- | :-- |
+| *M*, *SD*, *SE*, *Mdn* | Mean, standard deviation, standard error, median | Yes |
+| *n*, *N* | Subgroup sample size, total sample size | Yes |
+| *t*, *F*, *U*, *Z*, *H* | Test statistics | Yes |
+| *p* | Probability (significance) | Yes |
+| *r*, *d*, *R*² | Correlation, Cohen's *d*, variance explained | Yes |
+| *B*, *SE B* | Unstandardised regression coefficient and its standard error | Yes |
+| β | Standardised regression coefficient | No (Greek) |
+| χ², η², φ | Chi-square, eta-squared, phi | No (Greek) |
+
+The rule underneath the table: Latin-letter statistical symbols are italic, Greek letters are not.
+
+## How to Report Regression Results in APA Format
+
+Regression reporting has two layers: the overall model, then each predictor. In text, state the model fit first (*F*, degrees of freedom, *p*, *R*², adjusted *R*²), then the predictors that mattered:
+
+> A multiple linear regression predicted exam score from study hours and attendance. The model was significant, *F*(2, 97) = 18.42, *p* < .001, *R*² = .28, adjusted *R*² = .26. Study hours was a significant predictor (*B* = 1.84, *SE* = 0.39, β = .41, *t* = 4.72, *p* < .001, 95% CI [1.07, 2.61]), but attendance was not (*B* = 0.21, *SE* = 0.15, β = .12, *t* = 1.40, *p* = .164).
+
+If you have more than two predictors, put the coefficients in a table instead, with one row per predictor and columns for *B*, *SE B*, β, *t*, *p*, and the 95% confidence interval. For a hierarchical model, add a row of Δ*R*² and its *F* change for each block. The full walkthrough, including reading the SPSS tables these numbers come from, is on the [multiple linear regression page](/multiple-linear-regression-assignment-help/).
+
+## How to Report a Mann-Whitney U Test in APA Format
+
+Non-parametric tests report medians, not means, and a rank-based test statistic. For a Mann-Whitney U test, give the median for each group, then *U*, *Z*, *p*, and an effect size *r*:
+
+> A Mann-Whitney U test indicated that satisfaction was significantly higher in the treatment group (*Mdn* = 8) than in the control group (*Mdn* = 6), *U* = 312.50, *Z* = −2.87, *p* = .004, *r* = .32.
+
+SPSS does not print *r*, so you calculate it as |*Z*| ÷ √*N*; the [Mann-Whitney U test page](/mann-whitney-u-test-assignment-help/) shows the working. The same pattern applies to the Wilcoxon signed-rank test and the Kruskal-Wallis test:
+
+> A Wilcoxon signed-rank test showed that post-intervention scores were significantly higher than pre-intervention scores, *Z* = −3.41, *p* < .001, *r* = .48.
+
+> A Kruskal-Wallis *H* test showed a significant difference across the three teaching methods, *H*(2) = 9.84, *p* = .007, with Bonferroni-corrected pairwise comparisons identifying which groups differed.
+
+## How to Cite SPSS in APA Format
+
+Many instructors and journals expect you to cite the software you used. Use the version number from **Help > About** in SPSS and the year that version was released:
+
+> IBM Corp. (year). *IBM SPSS Statistics for Windows* (Version XX.0) [Computer software]. IBM Corp.
+
+In text, cite it as (IBM Corp., year), or name it in your methods section: "Analyses were conducted using IBM SPSS Statistics (Version XX.0)." Swap "for Windows" for "for macOS" if that is what you use. Check your own style guide first, since some courses only want the citation in the methods section and not in the reference list.
+
 ## Common APA Reporting Mistakes to Avoid
 
 - Reporting only the *p*-value ("the result was significant") without the test statistic, degrees of freedom, or effect size
 - Writing *p* = .000 instead of *p* < .001
+- Adding a leading zero to *p*, *r*, or β (write .032, not 0.032)
+- Using *SE* and *SD* interchangeably, or leaving *SE* in plain text
 - Leaving statistical symbols in plain (non-italic) text
 - Pasting raw SPSS gridlines into a report instead of reformatting to APA table style
 - Confusing statistical significance with practical importance: a significant result with a tiny effect size still needs that effect size reported and discussed, not omitted

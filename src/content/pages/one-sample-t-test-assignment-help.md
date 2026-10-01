@@ -19,13 +19,13 @@ The one-sample t-test compares the mean of a single continuous variable against 
 
 If you're comparing two groups from your own data instead of a fixed external value, you need the independent or paired samples t-test instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running a One-Sample T-Test in SPSS
 
 - **Normality.** The dependent variable should be approximately normally distributed. Check with a Shapiro-Wilk test (Analyze > Descriptive Statistics > Explore, Normality plots requested); *p* > .05 suggests the assumption holds. With larger samples (roughly *n* > 30), the t-test is fairly robust to mild violations.
 - **Independence of observations.** Each case must be a separate, unrelated observation, not repeated measurements from the same subject.
 - **No pre-set variance assumption to check**: unlike the independent samples t-test, there's only one group, so there's no Levene's test involved.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run a One-Sample T-Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Compare Means > One-Sample T Test**.
 2. Move your continuous variable into the **Test Variable(s)** box.
@@ -34,13 +34,13 @@ If you're comparing two groups from your own data instead of a fixed external va
 
 SPSS produces two tables: **One-Sample Statistics** (mean, SD, and *n*) and **One-Sample Test** (the t-test itself, including the mean difference and confidence interval).
 
-## How to Interpret the Output
+## How to Interpret One-Sample T-Test Output in SPSS
 
 1. In the **One-Sample Test** table, read the **t-value**, **degrees of freedom (df = n − 1)**, and **Sig. (2-tailed)**, your *p*-value.
 2. Check the **Mean Difference** column to see the direction and size of the gap between your sample mean and the test value.
 3. Calculate Cohen's *d* (mean difference ÷ sample standard deviation) for effect size: 0.2 small, 0.5 medium, 0.8 large.
 
-## How to Report the Results in APA Format
+## How to Report One-Sample T-Test Results in APA Format
 
 > A one-sample t-test showed that the sample's mean score (*M* = 74.3, *SD* = 8.1) was significantly higher than the test value of 70, *t*(49) = 3.75, *p* < .001, *d* = 0.53.
 

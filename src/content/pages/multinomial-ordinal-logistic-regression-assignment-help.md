@@ -20,14 +20,14 @@ Both extend binary logistic regression to outcomes with **three or more categori
 
 If your outcome has exactly two categories, use binary logistic regression instead. It's simpler and more directly interpretable.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Multinomial and Ordinal Logistic Regression in SPSS
 
 - **Independence of observations**, as with any regression model.
 - **No severe multicollinearity** among predictors.
 - **Multinomial regression**: assumes independence of irrelevant alternatives (adding or removing a category shouldn't change the relative odds between the remaining ones), rarely tested directly in student assignments but worth naming.
 - **Ordinal regression: the proportional odds (parallel lines) assumption.** This is the assumption that trips up the most students: it requires that the relationship between each predictor and the outcome is consistent across all threshold levels of the ordinal categories. SPSS tests this with the **Test of Parallel Lines**, produced automatically in ordinal regression output.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run Multinomial and Ordinal Logistic Regression in SPSS (Step by Step)
 
 **Multinomial:**
 1. Go to **Analyze > Regression > Multinomial Logistic**.
@@ -40,13 +40,13 @@ If your outcome has exactly two categories, use binary logistic regression inste
 3. Move predictors into **Factor(s)** or **Covariate(s)**.
 4. Click **Output**, check **Test of parallel lines**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret Multinomial and Ordinal Logistic Regression Output in SPSS
 
 **Multinomial:** For each non-reference category, read the **B**, **Wald statistic**, **Sig.**, and **Exp(B)** (odds ratio): each set of coefficients describes that category's odds relative to the reference category specifically.
 
 **Ordinal:** Check the **Test of Parallel Lines** first: a **non-significant** result (*p* > .05) supports the proportional odds assumption. If it's significant, the model may need to be reconsidered (e.g. using multinomial regression instead, treating the outcome as unordered). If the assumption holds, read each predictor's coefficient and its associated **odds ratio** (a single set applies across all threshold levels).
 
-## How to Report the Results in APA Format
+## How to Report Multinomial and Ordinal Logistic Regression Results in APA Format
 
 **Multinomial:**
 > Compared to choosing Psychology, higher motivation scores significantly predicted choosing Business over Psychology, *B* = 0.42, Wald χ²(1) = 6.14, *p* = .013, Exp(*B*) = 1.52.

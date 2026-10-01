@@ -20,29 +20,33 @@ The Mann-Whitney U test is the non-parametric alternative to the independent sam
 
 If your data reasonably meets the independent t-test's assumptions, use that test instead. It has more statistical power when its assumptions hold.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running the Mann-Whitney U Test in SPSS
 
 - **Independence of observations** between and within groups.
 - **The dependent variable should be at least ordinal.**
 - Unlike the t-test, Mann-Whitney does **not** require normality: that's the entire reason to use it.
 - For a clean interpretation of "which group scores higher," the two groups' distributions should have a similar **shape** (not necessarily normal, just similarly shaped). If shapes differ substantially, the test still runs but the interpretation shifts from "medians differ" to "distributions differ."
 
-## How to Run It in SPSS (Step by Step)
+## How to Run the Mann-Whitney U Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Nonparametric Tests > Legacy Dialogs > 2 Independent Samples**.
 2. Move your outcome variable into **Test Variable List**.
 3. Move your two-group categorical variable into **Grouping Variable**, then click **Define Groups** and enter the two group codes.
 4. Ensure **Mann-Whitney U** is checked under Test Type, then click **OK**.
 
-## How to Interpret the Output
+## How to Interpret Mann-Whitney U Test Output in SPSS
 
 1. In the **Test Statistics** table, read the **Mann-Whitney U** value and its associated **Asymp. Sig. (2-tailed)**, your *p*-value.
 2. Report **medians and interquartile ranges (IQR)** per group instead of means and SDs: these are the appropriate descriptive statistics for a rank-based test.
 3. Calculate effect size as *r* = Z ÷ √N, using the Z-value SPSS reports in the same table (0.1 small, 0.3 medium, 0.5 large).
 
-## How to Report the Results in APA Format
+## How to Report Mann-Whitney U Test Results in APA Format
 
 > A Mann-Whitney U test showed that satisfaction scores were significantly higher in the treatment group (Mdn = 8) than the control group (Mdn = 6), *U* = 312.50, *Z* = −2.87, *p* = .004, *r* = .32.
+
+### Calculating the Effect Size (r) and Reporting Medians
+
+SPSS does not print an effect size for the Mann-Whitney U test, so calculate it by hand: *r* = |*Z*| ÷ √*N*, where *N* is the total number of cases across both groups. With *Z* = −2.87 and *N* = 80, *r* = 2.87 ÷ 8.94 = .32. As a rough guide, .10 is small, .30 is medium, and .50 is large. Report medians (and the interquartile range if your instructor asks for it) for each group rather than means, since the test compares distributions of ranks, not averages. If either group is very small, report the **Exact Sig.** value from SPSS instead of the asymptotic one.
 
 ## Mann-Whitney U vs Independent Samples T-Test: Understanding the Difference
 

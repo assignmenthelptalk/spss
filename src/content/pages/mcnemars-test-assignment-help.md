@@ -20,25 +20,25 @@ McNemar's test evaluates whether there's a significant change in a **binary (or 
 
 If your two measurements come from independent groups rather than the same subjects, use the regular chi-square test of independence instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running McNemar's Test in SPSS
 
 - **The two measurements must be paired**: same subjects, measured twice.
 - **The variable must be binary (or nominal) categorical**, not continuous.
 - The test focuses specifically on **discordant pairs**: cases that changed category between the two measurements (yes→no or no→yes). Cases that stayed the same category contribute nothing to the test statistic.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run McNemar's Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Descriptive Statistics > Crosstabs**.
 2. Move your "before" variable into **Row(s)** and your "after" variable into **Column(s)**.
 3. Click **Statistics**, check **McNemar**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret McNemar's Test Output in SPSS
 
 1. In the crosstab, note the **discordant cells**: the counts of cases that changed from one category to the other in each direction.
 2. In the **Chi-Square Tests** table, read the **McNemar Test** row's **Exact Sig. (2-sided)** value, your *p*-value.
 3. A significant result means the proportion of cases in one category changed significantly between the two measurements; check the discordant cell counts to see which direction dominated.
 
-## How to Report the Results in APA Format
+## How to Report McNemar's Test Results in APA Format
 
 > A McNemar's test showed a significant change in smoking status following the intervention, with 18 participants quitting and only 3 starting, χ²(1, *N* = 100) = 10.29, *p* = .001.
 

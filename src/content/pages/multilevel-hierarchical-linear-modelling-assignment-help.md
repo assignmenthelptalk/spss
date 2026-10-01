@@ -19,26 +19,26 @@ Multilevel (hierarchical linear) modelling analyses **nested data** (observation
 
 If your data has no meaningful nesting structure, standard multiple regression is simpler and appropriate.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running a Multilevel Model in SPSS
 
 - **Justify the multilevel structure first** by calculating the **Intraclass Correlation (ICC)** from a null (intercept-only) model: a non-trivial ICC (commonly cited as above .05–.10) indicates meaningful clustering that standard regression would ignore.
 - **Sufficient number of higher-level units**: multilevel models generally need a reasonable number of Level 2 groups (often cited as a minimum of 20–30) to estimate variance components reliably, not just a large total sample size.
 - **Normally distributed residuals at each level**, and **linearity** of relationships, similar to standard regression but checked separately for within-group and between-group effects.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run a Multilevel Model in SPSS (Step by Step)
 
 1. First run a **null model** to calculate the ICC: **Analyze > Mixed Models > Linear**, specify your Level 2 grouping variable as the **Subjects** variable, add no predictors, and request variance components.
 2. Calculate ICC = (between-group variance) ÷ (between-group variance + within-group variance) from that output.
 3. Build the full model: **Analyze > Mixed Models > Linear** again, this time adding your **Level 1 (individual) predictors** as fixed effects, and specifying which effects should be allowed to vary randomly across Level 2 groups (**Random** button).
 4. Click **Statistics**, request parameter estimates and tests for covariance parameters, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret Multilevel Model Output in SPSS
 
 1. From the null model, confirm the **ICC** justifies a multilevel approach.
 2. In the full model, read the **fixed effects** table: each predictor's coefficient, standard error, and significance, interpreted like standard regression coefficients but now properly accounting for the nested structure.
 3. Check the **random effects (covariance parameters)** table to see how much the intercept (and any random slopes) vary across Level 2 groups.
 
-## How to Report the Results in APA Format
+## How to Report Multilevel Model Results in APA Format
 
 > A null model showed significant clustering by classroom, ICC = .18, justifying a multilevel approach. In the full model, student motivation significantly predicted test scores, *B* = 4.21, *SE* = 0.87, *p* < .001, and the random intercept variance for classroom remained significant, indicating meaningful between-classroom variability even after accounting for individual motivation.
 

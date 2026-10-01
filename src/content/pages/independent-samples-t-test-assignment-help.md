@@ -19,7 +19,7 @@ The independent samples t-test compares the means of a continuous variable betwe
 
 If you're comparing more than two groups, you need one-way ANOVA instead. If the same people are measured twice, you need the paired samples t-test instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running an Independent Samples T-Test in SPSS
 
 Two assumptions matter beyond the basic design requirements:
 
@@ -28,7 +28,7 @@ Two assumptions matter beyond the basic design requirements:
 
 This second assumption is where most students go wrong: not because the test is hard to run, but because the output table has two rows and picking the wrong one silently gives you the wrong answer.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run an Independent Samples T-Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Compare Means > Independent-Samples T Test**.
 2. Move your continuous outcome into the **Test Variable(s)** box.
@@ -37,7 +37,7 @@ This second assumption is where most students go wrong: not because the test is 
 
 SPSS produces two tables: **Group Statistics** (means, SDs, and sample sizes per group) and **Independent Samples Test** (Levene's test plus the t-test itself).
 
-## How to Interpret the Output
+## How to Interpret Independent Samples T-Test Output in SPSS
 
 In the Independent Samples Test table:
 
@@ -45,7 +45,7 @@ In the Independent Samples Test table:
 2. From the row you selected, read the **t-value**, **degrees of freedom (df)**, and **Sig. (2-tailed)**, this is your *p*-value.
 3. Calculate or read the **effect size**, Cohen's *d*, which tells you the practical size of the difference: 0.2 is a small effect, 0.5 is medium, 0.8 is large.
 
-## How to Report the Results in APA Format
+## How to Report Independent Samples T-Test Results in APA Format
 
 A complete APA-style report includes the test statistic, degrees of freedom, exact *p*-value, means and standard deviations for both groups, and the effect size:
 

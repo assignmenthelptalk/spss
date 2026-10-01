@@ -20,7 +20,7 @@ One-way ANOVA compares the means of a continuous variable across three or more i
 
 If you're only comparing two groups, use the [independent samples t-test](/independent-samples-t-test-assignment-help/) instead. A one-way ANOVA with two groups gives the same conclusion, just less directly. If you have more than one independent variable, you need two-way ANOVA instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running a One-Way ANOVA in SPSS
 
 - **Normality.** The dependent variable should be approximately normally distributed within each group.
 - **Homogeneity of variance.** The groups should have similar variances, tested automatically by SPSS with **Levene's Test for Equality of Variances**.

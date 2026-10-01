@@ -18,7 +18,7 @@ draft: false
 
 Pearson's *r* measures the strength and direction of the linear relationship between two continuous variables: for example, hours studied and exam score. It tells you *whether and how strongly* two variables move together. It does not predict one variable from the other and does not imply that one causes the other: that's what [simple linear regression](/simple-linear-regression-assignment-help/) is for. [SPSSassignment.help](/) supports students with exactly this, every day.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running a Pearson Correlation in SPSS
 
 ### Linearity, Normality, and Outlier Sensitivity
 

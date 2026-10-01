@@ -18,7 +18,7 @@ draft: false
 
 Multiple linear regression extends [simple linear regression](/simple-linear-regression-assignment-help/) to two or more predictors at once: for example, predicting job performance from experience, training hours, and test score together. The added requirement: you now need to check how the predictors relate to *each other*, not just to the outcome. [SPSSassignment.help](/) supports students with exactly this, every day.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Multiple Linear Regression in SPSS
 
 ### Multicollinearity: VIF and Tolerance
 
@@ -46,9 +46,14 @@ The same diagnostics as simple regression apply (Durbin-Watson, residual scatter
 
 Because predictors are often on different scales (age in years vs income in dollars), the unstandardised **B** values aren't directly comparable. Standardised **Beta** puts every predictor on the same scale so you can compare their relative strength.
 
-### Reading the Collinearity Diagnostics
+### Reading the Collinearity Diagnostics in SPSS (Tolerance, VIF, and Condition Index)
 
-Check the **VIF** and **Tolerance** columns in the Coefficients table. Flag any predictor with VIF above 10 as a concern to discuss in your write-up.
+SPSS only produces collinearity statistics if you ask for them: in the regression dialog, click **Statistics** and tick **Collinearity diagnostics**. You then get two sets of output:
+
+- **Tolerance and VIF**, in the right-hand columns of the **Coefficients** table. Flag any predictor with a tolerance below 0.1 or a VIF above 10 (stricter guidance uses a VIF above 5) as a concern to discuss in your write-up.
+- **Condition Index and Variance Proportions**, in the separate **Collinearity Diagnostics** table. A condition index above 30, combined with variance proportions above .50 for two or more predictors on that same row, points to those predictors being the collinear pair.
+
+If collinearity is a problem, the usual fixes are to drop or combine the overlapping predictors (for example, averaging two highly correlated scale scores), or to mean-centre predictors that are part of an interaction term. Report the tolerance or VIF range for your predictors alongside the model, for example "tolerance values ranged from .62 to .91, so multicollinearity was not a concern".
 
 ## How to Report Multiple Linear Regression Results in APA Format
 

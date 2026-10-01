@@ -20,13 +20,13 @@ Two-way (factorial) ANOVA tests the effect of two independent categorical variab
 
 If you only have one independent variable, use one-way ANOVA instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running Two-Way ANOVA in SPSS
 
 - **Normality** of the dependent variable within each of the cell groups (each combination of the two factors), checked via Shapiro-Wilk or residual normality plots.
 - **Homogeneity of variance** across all cells, checked with Levene's Test (SPSS produces this automatically in the output).
 - **Independence of observations**: each case appears in exactly one cell.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run Two-Way ANOVA in SPSS (Step by Step)
 
 1. Go to **Analyze > General Linear Model > Univariate**.
 2. Move your continuous outcome into **Dependent Variable**.
@@ -34,14 +34,14 @@ If you only have one independent variable, use one-way ANOVA instead.
 4. Click **Plots**, move one factor to the Horizontal Axis and the other to Separate Lines, then **Add**. This produces a profile plot for visualising the interaction.
 5. Click **Options**, request **Descriptive statistics** and **Estimates of effect size**, then **Continue > OK**.
 
-## How to Interpret the Output
+## How to Interpret Two-Way ANOVA Output in SPSS
 
 1. **Check the interaction effect first**, in the Tests of Between-Subjects Effects table: this is the row labeled with both factor names joined (e.g. "TeachingMethod * Gender").
 2. **If the interaction is significant**, interpret it before the main effects: a significant interaction means the effect of one factor genuinely depends on the level of the other, and the main effects alone can be misleading. Follow up with simple effects analysis (comparing one factor's levels within each level of the other).
 3. **If the interaction is not significant**, interpret the two main effects directly, each with its own *F*, *df*, *p*, and partial eta-squared.
 4. Use the profile plot: non-parallel lines suggest an interaction; parallel lines suggest none.
 
-## How to Report the Results in APA Format
+## How to Report Two-Way ANOVA Results in APA Format
 
 > A two-way ANOVA revealed a significant interaction between teaching method and gender on test scores, *F*(1, 116) = 6.42, *p* = .013, partial η² = .05. Simple effects analysis showed that teaching method significantly improved scores for female students, *F*(1, 116) = 9.87, *p* = .002, but not for male students, *F*(1, 116) = 0.41, *p* = .524.
 

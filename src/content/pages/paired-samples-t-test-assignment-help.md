@@ -19,12 +19,12 @@ The paired samples t-test compares two related measurements from the same subjec
 
 If you're comparing two *different* groups of people instead of the same people twice, you need the independent samples t-test instead.
 
-## Assumptions You Must Check Before Running It in SPSS
+## Assumptions to Check Before Running a Paired Samples T-Test in SPSS
 
 - **Normality of the difference scores, not the raw scores.** Compute the difference between each pair (Transform > Compute Variable), then run a Shapiro-Wilk test on that difference variable. This is the detail students most often miss: the assumption applies to the *differences*, not to each measurement separately.
 - **The pairs must be genuinely related**: the same subject or a deliberately matched pair measured under two conditions, not two independent samples.
 
-## How to Run It in SPSS (Step by Step)
+## How to Run a Paired Samples T-Test in SPSS (Step by Step)
 
 1. Go to **Analyze > Compare Means > Paired-Samples T Test**.
 2. Select your two related variables and move them into **Paired Variables** as **Variable 1** and **Variable 2**.
@@ -32,13 +32,13 @@ If you're comparing two *different* groups of people instead of the same people 
 
 SPSS produces three tables: **Paired Samples Statistics**, **Paired Samples Correlations**, and **Paired Samples Test** (the t-test itself).
 
-## How to Interpret the Output
+## How to Interpret Paired Samples T-Test Output in SPSS
 
 1. In the **Paired Samples Test** table, read the **t-value**, **degrees of freedom (df = number of pairs − 1)**, and **Sig. (2-tailed)**.
 2. Check the **Mean** column under "Paired Differences" for the direction and size of the average change.
 3. Calculate effect size as Cohen's *d* for paired data: mean difference ÷ standard deviation of the differences (0.2 small, 0.5 medium, 0.8 large).
 
-## How to Report the Results in APA Format
+## How to Report Paired Samples T-Test Results in APA Format
 
 > A paired samples t-test showed that post-intervention scores (*M* = 82.1, *SD* = 5.4) were significantly higher than pre-intervention scores (*M* = 75.6, *SD* = 6.9), *t*(29) = 4.18, *p* < .001, *d* = 0.76.
 
